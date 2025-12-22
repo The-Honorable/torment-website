@@ -17072,7 +17072,7 @@
         "ClassLevelReq": 1,
         "Properties": [
             {
-                "PropertyString": "Level 1 Psychic Hammer (150 Charges)",
+                "PropertyString": "Level 1 Frost Bomb (150 Charges)",
                 "Index": 0
             }
         ],
@@ -17094,7 +17094,7 @@
         "ClassLevelReq": 1,
         "Properties": [
             {
-                "PropertyString": "Level 10 Psychic Hammer (150 Charges)",
+                "PropertyString": "Level 10 Frost Bomb (150 Charges)",
                 "Index": 0
             }
         ],
@@ -17292,7 +17292,7 @@
         "ClassLevelReq": 18,
         "Properties": [
             {
-                "PropertyString": "Level 1 Cloak of Shadows (55 Charges)",
+                "PropertyString": "Level 1 Snowlash Sentry (55 Charges)",
                 "Index": 0
             }
         ],
@@ -17314,7 +17314,7 @@
         "ClassLevelReq": 18,
         "Properties": [
             {
-                "PropertyString": "Level 15 Cloak of Shadows (55 Charges)",
+                "PropertyString": "Level 15 Snowlash Sentry (55 Charges)",
                 "Index": 0
             }
         ],
@@ -17492,7 +17492,7 @@
         "ClassLevelReq": 24,
         "Properties": [
             {
-                "PropertyString": "Level 2 Inferno Sentry (150 Charges)",
+                "PropertyString": "Level 2 Flameburst Sentry (150 Charges)",
                 "Index": 0
             }
         ],
@@ -17514,7 +17514,7 @@
         "ClassLevelReq": 24,
         "Properties": [
             {
-                "PropertyString": "Level 10 Inferno Sentry (150 Charges)",
+                "PropertyString": "Level 10 Flameburst Sentry (150 Charges)",
                 "Index": 0
             }
         ],
@@ -17536,7 +17536,7 @@
         "ClassLevelReq": 24,
         "Properties": [
             {
-                "PropertyString": "Level 2 Mind Blast (55 Charges)",
+                "PropertyString": "Level 2 Glacial Vortex Sentry (55 Charges)",
                 "Index": 0
             }
         ],
@@ -17558,7 +17558,7 @@
         "ClassLevelReq": 24,
         "Properties": [
             {
-                "PropertyString": "Level 22 Mind Blast (55 Charges)",
+                "PropertyString": "Level 22 Glacial Vortex Sentry (55 Charges)",
                 "Index": 0
             }
         ],

@@ -11855,7 +11855,7 @@
         "PType": "Suffix"
     },
     {
-        "Name": "of Cloak of Shadows",
+        "Name": "of Snowlash",
         "Level": 18,
         "MaxLevel": 36,
         "RequiredLevel": 18,
@@ -11865,7 +11865,7 @@
         "ClassLevelReq": 18,
         "Properties": [
             {
-                "PropertyString": "5% Chance to cast level 1 Cloak Of Shadows when struck",
+                "PropertyString": "5% Chance to cast level 1 Snowlash Sentry when struck",
                 "Index": 0
             }
         ],
@@ -11877,7 +11877,7 @@
         "PType": "Suffix"
     },
     {
-        "Name": "of Cloak of Shadows",
+        "Name": "of Snowlash",
         "Level": 36,
         "MaxLevel": 0,
         "RequiredLevel": 38,
@@ -11887,7 +11887,7 @@
         "ClassLevelReq": 18,
         "Properties": [
             {
-                "PropertyString": "9% Chance to cast level 13 Cloak Of Shadows when struck",
+                "PropertyString": "9% Chance to cast level 13 Snowlash Sentry when struck",
                 "Index": 0
             }
         ],
@@ -11939,50 +11939,6 @@
         "Types": [
             "Body Armor",
             "Amulet",
-            "Melee Weapon"
-        ],
-        "ETypes": [],
-        "PType": "Suffix"
-    },
-    {
-        "Name": "of Mind Blasting",
-        "Level": 24,
-        "MaxLevel": 48,
-        "RequiredLevel": 25,
-        "Group": 77,
-        "ClassSpecific": "",
-        "Class": "Assassin",
-        "ClassLevelReq": 24,
-        "Properties": [
-            {
-                "PropertyString": "3% Chance to cast level 2 Mind Blast when struck",
-                "Index": 0
-            }
-        ],
-        "Types": [
-            "Helm",
-            "Melee Weapon"
-        ],
-        "ETypes": [],
-        "PType": "Suffix"
-    },
-    {
-        "Name": "of Mind Blasting",
-        "Level": 48,
-        "MaxLevel": 0,
-        "RequiredLevel": 48,
-        "Group": 77,
-        "ClassSpecific": "",
-        "Class": "Assassin",
-        "ClassLevelReq": 24,
-        "Properties": [
-            {
-                "PropertyString": "7% Chance to cast level 18 Mind Blast when struck",
-                "Index": 0
-            }
-        ],
-        "Types": [
-            "Helm",
             "Melee Weapon"
         ],
         "ETypes": [],
@@ -13406,7 +13362,7 @@
         "PType": "Suffix"
     },
     {
-        "Name": "of Cloak of Shadows",
+        "Name": "of Snowlash",
         "Level": 18,
         "MaxLevel": 0,
         "RequiredLevel": 18,
@@ -13416,34 +13372,12 @@
         "ClassLevelReq": 18,
         "Properties": [
             {
-                "PropertyString": "5% Chance to cast level 3 Cloak Of Shadows on striking",
+                "PropertyString": "5% Chance to cast level 3 Snowlash Sentry on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Amulet",
-            "Melee Weapon"
-        ],
-        "ETypes": [],
-        "PType": "Suffix"
-    },
-    {
-        "Name": "of Mind Blasting",
-        "Level": 30,
-        "MaxLevel": 0,
-        "RequiredLevel": 30,
-        "Group": 78,
-        "ClassSpecific": "",
-        "Class": "Assassin",
-        "ClassLevelReq": 24,
-        "Properties": [
-            {
-                "PropertyString": "3% Chance to cast level 7 Mind Blast on striking",
-                "Index": 0
-            }
-        ],
-        "Types": [
-            "Helm",
             "Melee Weapon"
         ],
         "ETypes": [],

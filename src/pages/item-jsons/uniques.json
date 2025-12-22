@@ -3974,7 +3974,7 @@
         "Code": "hla",
         "Properties": [
             {
-                "PropertyString": "12% Chance to cast level 5 Weaken when struck",
+                "PropertyString": "8% Chance to cast level 1 Decrepify when struck",
                 "Index": 1
             },
             {
@@ -5529,23 +5529,19 @@
         "Properties": [
             {
                 "PropertyString": "+1 to Traps (Assassin Only)",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+15% Increased Attack Speed",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+5-10% to Lightning Skill Damage",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+5-10% to Fire Skill Damage",
                 "Index": 1
             },
             {
+                "PropertyString": "+15% Increased Attack Speed",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+5% to All Elemental Skill Damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "Level 6 Iron Golem (5 Charges)",
-                "Index": 4
+                "Index": 3
             }
         ],
         "DamageArmorEnhanced": false,
@@ -7942,63 +7938,6 @@
     {
         "Type": "Sword",
         "Vanilla": "N",
-        "Name": "Cloaker Beast",
-        "Index": "Cloaker Beast",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 5,
-        "RequiredLevel": 15,
-        "Code": "2hs",
-        "Properties": [
-            {
-                "PropertyString": "+2-4 to Cloak of Shadows (oskill)",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+15% Increased Attack Speed",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+20% Faster Hit Recovery",
-                "Index": 4
-            },
-            {
-                "PropertyString": "Adds 35-70 Weapon Damage",
-                "Index": 0
-            },
-            {
-                "PropertyString": "Hit Blinds Target +1",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+15 to Dexterity",
-                "Index": 5
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 0,
-                    "DamageString": "37 to 79"
-                },
-                {
-                    "Type": 1,
-                    "DamageString": "43 to 87"
-                }
-            ],
-            "Speed": 0,
-            "EquipmentType": 1,
-            "Name": "Two-Handed Sword [N]",
-            "RequiredStrength": "35",
-            "RequiredDexterity": "27",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Sword",
-        "Vanilla": "N",
         "Name": "Blink Dog",
         "Index": "Blink Dog",
         "Enabled": true,
@@ -9606,63 +9545,6 @@
         }
     },
     {
-        "Type": "Hand to Hand",
-        "Vanilla": "N",
-        "Name": "Cold of Winter",
-        "Index": "Cold of Winter",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 12,
-        "RequiredLevel": 16,
-        "Code": "axf",
-        "Properties": [
-            {
-                "PropertyString": "10% Chance to cast level 1 Winters Pulse on striking",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+20% Increased Attack Speed",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+110-160% Enhanced Weapon Damage",
-                "Index": 0
-            },
-            {
-                "PropertyString": "Adds 10-15 Weapon Cold Damage",
-                "Index": 1
-            },
-            {
-                "PropertyString": "Adds 10-20 Weapon Cold Damage",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+2-3 to Blade Sentinel (Assassin Only)",
-                "Index": 5
-            },
-            {
-                "PropertyString": "Repairs 0.2 durability per second",
-                "Index": 4
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "(4-5) to (31-39)"
-                }
-            ],
-            "Speed": 10,
-            "EquipmentType": 1,
-            "Name": "Hatchet Hands [N]",
-            "RequiredStrength": "37",
-            "RequiredDexterity": "37",
-            "Durability": 250,
-            "RequiredClass": "Assassin"
-        }
-    },
-    {
         "Type": "Sword",
         "Vanilla": "Y",
         "Name": "Griswold's Edge",
@@ -10456,6 +10338,63 @@
             "Name": "Long Sword [N]",
             "RequiredStrength": "55",
             "RequiredDexterity": "39",
+            "Durability": 250,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Sword",
+        "Vanilla": "N",
+        "Name": "Cloaker Beast",
+        "Index": "Cloaker Beast",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 5,
+        "RequiredLevel": 18,
+        "Code": "2hs",
+        "Properties": [
+            {
+                "PropertyString": "+1 to Fade (oskill)",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+15% Increased Attack Speed",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+20% Faster Hit Recovery",
+                "Index": 4
+            },
+            {
+                "PropertyString": "Adds 35-70 Weapon Damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Hit Blinds Target +1",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+15 to Dexterity",
+                "Index": 5
+            }
+        ],
+        "DamageArmorEnhanced": true,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 0,
+                    "DamageString": "37 to 79"
+                },
+                {
+                    "Type": 1,
+                    "DamageString": "43 to 87"
+                }
+            ],
+            "Speed": 0,
+            "EquipmentType": 1,
+            "Name": "Two-Handed Sword [N]",
+            "RequiredStrength": "35",
+            "RequiredDexterity": "27",
             "Durability": 250,
             "RequiredClass": ""
         }
@@ -14326,15 +14265,15 @@
                 "Index": 3
             },
             {
-                "PropertyString": "Physical Damage Reduced By 1",
+                "PropertyString": "Physical Damage Reduced By 2-4",
                 "Index": 1
             },
             {
-                "PropertyString": "Magic Damage Reduced By 1",
+                "PropertyString": "Magic Damage Reduced By 2-4",
                 "Index": 2
             },
             {
-                "PropertyString": "-1 to Light Radius",
+                "PropertyString": "-3 to Light Radius",
                 "Index": 4
             }
         ],
@@ -17558,23 +17497,19 @@
             },
             {
                 "PropertyString": "+20% Bonus to Attack Rating",
-                "Index": 7
-            },
-            {
-                "PropertyString": "+10% to Fire Skill Damage",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+10% to Lightning Skill Damage",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+4-7% Life stolen per hit",
                 "Index": 6
             },
             {
-                "PropertyString": "+15% to All Resistances",
+                "PropertyString": "+4-7% Life stolen per hit",
                 "Index": 5
+            },
+            {
+                "PropertyString": "+25% Chance of Open Wounds",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+15% to All Resistances",
+                "Index": 4
             }
         ],
         "DamageArmorEnhanced": true,
@@ -19202,38 +19137,6 @@
             "RequiredStrength": null,
             "RequiredDexterity": null,
             "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Throwing Axe",
-        "Vanilla": "N",
-        "Name": "Madawc's Gaurdian",
-        "Index": "Madawc's Guardian",
-        "Enabled": true,
-        "Rarity": 3,
-        "ItemLevel": 10,
-        "RequiredLevel": 27,
-        "Code": "lta",
-        "Properties": [],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "5 to 100"
-                },
-                {
-                    "Type": 2,
-                    "DamageString": "12 to 15"
-                }
-            ],
-            "Speed": -10,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "0",
-            "RequiredDexterity": "57",
-            "Durability": 250,
             "RequiredClass": ""
         }
     },
@@ -23848,7 +23751,7 @@
                 "Index": 4
             },
             {
-                "PropertyString": "+1-2 to Traps (Assassin Only)",
+                "PropertyString": "+1-2 to Shadow Disciplines (Assassin Only)",
                 "Index": 5
             },
             {
@@ -24031,7 +23934,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+3-5 to Psychic Hammer (Assassin Only)",
+                "PropertyString": "+2 to Phoenix Strike (Assassin Only)",
                 "Index": 1
             },
             {
@@ -31000,7 +30903,7 @@
             },
             {
                 "PropertyString": "+20-40% Fire Resistance",
-                "Index": 6
+                "Index": 5
             },
             {
                 "PropertyString": "Cannot Be Frozen",
@@ -31009,10 +30912,6 @@
             {
                 "PropertyString": "-4 to Light Radius",
                 "Index": 0
-            },
-            {
-                "PropertyString": "Level 5 Cloak of Shadows (30 Charges)",
-                "Index": 5
             }
         ],
         "DamageArmorEnhanced": true,
@@ -40404,7 +40303,7 @@
         "Code": "9xf",
         "Properties": [
             {
-                "PropertyString": "+1-3 to Traps (Assassin Only)",
+                "PropertyString": "+1-3 to Shadow Disciplines (Assassin Only)",
                 "Index": 3
             },
             {
@@ -44455,7 +44354,7 @@
         "Code": "ztb",
         "Properties": [
             {
-                "PropertyString": "15% Chance to cast level 30 Blizzard when struck",
+                "PropertyString": "12% Chance to cast level 30 Blizzard when struck",
                 "Index": 0
             },
             {
@@ -46063,7 +45962,7 @@
         "Code": "9tw",
         "Properties": [
             {
-                "PropertyString": "+1-3 to Traps (Assassin Only)",
+                "PropertyString": "+1-3 to Shadow Disciplines (Assassin Only)",
                 "Index": 3
             },
             {
@@ -46120,7 +46019,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+1-3 to Traps (Assassin Only)",
+                "PropertyString": "+1-3 to Shadow Disciplines (Assassin Only)",
                 "Index": 6
             },
             {
@@ -51263,7 +51162,7 @@
         "Code": "xar",
         "Properties": [
             {
-                "PropertyString": "25% Chance to cast level 15 Chilling Armor when struck",
+                "PropertyString": "10% Chance to cast level 15 Chilling Armor when struck",
                 "Index": 1
             },
             {
@@ -54157,38 +54056,6 @@
         }
     },
     {
-        "Type": "Sword",
-        "Vanilla": "N",
-        "Name": "Korlic's Protector",
-        "Index": "Korlic's Protector",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 34,
-        "RequiredLevel": 63,
-        "Code": "lgs",
-        "Properties": [],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 0,
-                    "DamageString": "25 to 150"
-                },
-                {
-                    "Type": 1,
-                    "DamageString": "58 to 115"
-                }
-            ],
-            "Speed": 5,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "189",
-            "RequiredDexterity": "110",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
         "Type": "Mace",
         "Vanilla": "Y",
         "Name": "Horizon's Tornado",
@@ -55676,7 +55543,7 @@
                 "Index": 7
             },
             {
-                "PropertyString": "15% Reanimate as: WarpedShaman",
+                "PropertyString": "15% Reanimate as: Green Widow",
                 "Index": 4
             }
         ],
@@ -56024,28 +55891,28 @@
         "Code": "uhb",
         "Properties": [
             {
-                "PropertyString": "+1-2 to Summoning Skills (Necromancer Only)",
+                "PropertyString": "+5 to Skeleton Mastery (oskill)",
                 "Index": 1
             },
             {
-                "PropertyString": "+5 to Skeleton Mastery (oskill)",
+                "PropertyString": "+3 to Raise Skeleton (oskill)",
                 "Index": 2
             },
             {
-                "PropertyString": "+1 to Raise Skeleton (oskill)",
-                "Index": 3
+                "PropertyString": "+20% Faster Run/Walk Speed",
+                "Index": 5
             },
             {
                 "PropertyString": "+75% Damage to Undead",
-                "Index": 4
+                "Index": 3
             },
             {
                 "PropertyString": "+100-125% Enhanced Defense",
                 "Index": 0
             },
             {
-                "PropertyString": "Replenish Life +3",
-                "Index": 5
+                "PropertyString": "Replenish Life +20",
+                "Index": 4
             }
         ],
         "DamageArmorEnhanced": true,
@@ -56864,11 +56731,11 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+10-15% to Cold Skill Damage",
+                "PropertyString": "+15-25% to Cold Skill Damage",
                 "Index": 5
             },
             {
-                "PropertyString": "+90-120% Enhanced Defense",
+                "PropertyString": "+100-180% Enhanced Defense",
                 "Index": 0
             },
             {
@@ -56876,15 +56743,15 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+5-9 Cold Damage Absorbed",
+                "PropertyString": "+10-15 Cold Damage Absorbed",
                 "Index": 3
             },
             {
-                "PropertyString": "Half Freeze Duration",
+                "PropertyString": "Cannot Be Frozen",
                 "Index": 4
             },
             {
-                "PropertyString": "Requirements Reduced By -50%",
+                "PropertyString": "Requirements Reduced By -25%",
                 "Index": 6
             }
         ],
@@ -56892,11 +56759,11 @@
         "Equipment": {
             "DamageString": null,
             "DamageStringPrefix": null,
-            "ArmorString": "304-352",
+            "ArmorString": "320-448",
             "Block": null,
             "EquipmentType": 0,
             "Name": "Spired Helm [E]",
-            "RequiredStrength": "96",
+            "RequiredStrength": "144",
             "RequiredDexterity": "0",
             "Durability": 40,
             "RequiredClass": ""
@@ -63885,115 +63752,6 @@
         }
     },
     {
-        "Type": "Sword",
-        "Vanilla": "N",
-        "Name": "Leoric's Sword of the Undead",
-        "Index": "Leoric's Sword of the Undead",
-        "Enabled": true,
-        "Rarity": 2,
-        "ItemLevel": 71,
-        "RequiredLevel": 75,
-        "Code": "lgs",
-        "Properties": [],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 0,
-                    "DamageString": "25 to 150"
-                },
-                {
-                    "Type": 1,
-                    "DamageString": "58 to 115"
-                }
-            ],
-            "Speed": 5,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "189",
-            "RequiredDexterity": "110",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Throwing Knife",
-        "Vanilla": "N",
-        "Name": "Andariel's Aculeus",
-        "Index": "Andariel's Aculeus",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 83,
-        "RequiredLevel": 75,
-        "Code": "ltk",
-        "Properties": [
-            {
-                "PropertyString": "10% Chance to cast level 10 Corpse Explosion when you Kill an Enemy",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+2-3 to All Skills",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+15-30% Piercing Attack",
-                "Index": 10
-            },
-            {
-                "PropertyString": "+7.5 to Attack Rating (Per Character Level)",
-                "Index": 9
-            },
-            {
-                "PropertyString": "+25-40% to Poison Skill Damage",
-                "Index": 6
-            },
-            {
-                "PropertyString": "-15-30% to Enemy Poison Resistance",
-                "Index": 7
-            },
-            {
-                "PropertyString": "+3-5 to Poison Nova (Necromancer Only)",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+5-7 to Poison Dagger (Necromancer Only)",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+5-7 to Poison Volley (Necromancer Only)",
-                "Index": 3
-            },
-            {
-                "PropertyString": "Slows Target by 40%",
-                "Index": 4
-            },
-            {
-                "PropertyString": "Replenishes quantity",
-                "Index": 8
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "27 to 100"
-                },
-                {
-                    "Type": 2,
-                    "DamageString": "69 to 420"
-                }
-            ],
-            "Speed": -20,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "45",
-            "RequiredDexterity": "142",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
         "Type": "Ring",
         "Vanilla": "Y",
         "Name": "Wisp Projector",
@@ -64017,7 +63775,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "5-10% Reanimate as: WarpedFallen",
+                "PropertyString": "5-10% Reanimate as: Voltshade",
                 "Index": 3
             },
             {
@@ -64246,8 +64004,8 @@
         "Code": "umb",
         "Properties": [
             {
-                "PropertyString": "+1 to All Skills",
-                "Index": 8
+                "PropertyString": "+1-2 to Necromancer Skill Levels",
+                "Index": 6
             },
             {
                 "PropertyString": "+20-30% Faster Run/Walk Speed",
@@ -64255,7 +64013,7 @@
             },
             {
                 "PropertyString": "+3-5 to Skeleton Mastery (Necromancer Only)",
-                "Index": 5
+                "Index": 3
             },
             {
                 "PropertyString": "+170-200% Enhanced Defense",
@@ -64263,23 +64021,15 @@
             },
             {
                 "PropertyString": "+10-20 to Strength",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+17 to Dexterity",
-                "Index": 7
-            },
-            {
-                "PropertyString": "Half Freeze Duration",
                 "Index": 4
             },
             {
-                "PropertyString": "Level 33 Bone Prison (13 Charges)",
-                "Index": 2
+                "PropertyString": "+17 to Dexterity",
+                "Index": 5
             },
             {
-                "PropertyString": "Level 12 Life Tap (10 Charges)",
-                "Index": 3
+                "PropertyString": "Half Freeze Duration",
+                "Index": 2
             }
         ],
         "DamageArmorEnhanced": true,
@@ -65590,63 +65340,6 @@
         }
     },
     {
-        "Type": "Wand",
-        "Vanilla": "Y",
-        "Name": "Boneshade",
-        "Index": "Boneshade",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 75,
-        "RequiredLevel": 79,
-        "Code": "7bw",
-        "Properties": [
-            {
-                "PropertyString": "+2 to Necromancer Skill Levels",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+25% Faster Cast Rate",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+4-5 to Teeth (Necromancer Only)",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+4-5 to Bone Armor (Necromancer Only)",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+2-3 to Bone Spear (Necromancer Only)",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+1-2 to Bone Spirit (Necromancer Only)",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+2-3 to Bone Wall (Necromancer Only)",
-                "Index": 6
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "10 to 31"
-                }
-            ],
-            "Speed": -20,
-            "EquipmentType": 1,
-            "Name": "Lich Wand [E]",
-            "RequiredStrength": "25",
-            "RequiredDexterity": "0",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
         "Type": "Primal Helm",
         "Vanilla": "Y",
         "Name": "Wolfhowl",
@@ -66059,63 +65752,6 @@
             "RequiredStrength": "163",
             "RequiredDexterity": "77",
             "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Hand to Hand",
-        "Vanilla": "N",
-        "Name": "Flaming Fist",
-        "Index": "Flaming Fist",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 74,
-        "RequiredLevel": 79,
-        "Code": "7cs",
-        "Properties": [
-            {
-                "PropertyString": "+1-3 to Traps (Assassin Only)",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+5 to Warmth (oskill)",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+15-20% Increased Attack Speed",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+15-30% to Fire Skill Damage",
-                "Index": 3
-            },
-            {
-                "PropertyString": "-10-20% to Enemy Fire Resistance",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+2-4 to Wake of Fire Sentry (Assassin Only)",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+2-4 to Inferno Sentry (Assassin Only)",
-                "Index": 2
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "36 to 42"
-                }
-            ],
-            "Speed": -10,
-            "EquipmentType": 1,
-            "Name": "Battle Cestus [E]",
-            "RequiredStrength": "110",
-            "RequiredDexterity": "110",
-            "Durability": 250,
             "RequiredClass": ""
         }
     },
@@ -68913,23 +68549,19 @@
             },
             {
                 "PropertyString": "+15-20% Increased Attack Speed",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+10% to Fire Skill Damage",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+10% to Lightning Skill Damage",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+2 Random Assassin Skill",
                 "Index": 3
             },
             {
+                "PropertyString": "+5% to All Elemental Skill Damage",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+3 Random Assassin Skill",
+                "Index": 2
+            },
+            {
                 "PropertyString": "Requirements Increased By 50-75%",
-                "Index": 5
+                "Index": 4
             }
         ],
         "DamageArmorEnhanced": false,
@@ -69886,63 +69518,6 @@
         }
     },
     {
-        "Type": "Hand to Hand",
-        "Vanilla": "N",
-        "Name": "Storm Talons",
-        "Index": "Storm Talons",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 82,
-        "Code": "7wb",
-        "Properties": [
-            {
-                "PropertyString": "Level 3-5 Conviction Aura When Equipped",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+1-3 to Traps (Assassin Only)",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+15-20% Increased Attack Speed",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+10-20% to Lightning Skill Damage",
-                "Index": 3
-            },
-            {
-                "PropertyString": "-10% to Enemy Lightning Resistance",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+2-4 to Charged Bolt Sentry (Assassin Only)",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+2-4 to Lightning Sentry (Assassin Only)",
-                "Index": 2
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "34 to 45"
-                }
-            ],
-            "Speed": -10,
-            "EquipmentType": 1,
-            "Name": "Wrist Sword [E]",
-            "RequiredStrength": "105",
-            "RequiredDexterity": "105",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
         "Type": "Ring",
         "Vanilla": "N",
         "Name": "Faerie Ring",
@@ -69989,38 +69564,6 @@
             "RequiredStrength": null,
             "RequiredDexterity": null,
             "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Sword",
-        "Vanilla": "N",
-        "Name": "The Staff of Esu",
-        "Index": "The Staff of Esu",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 86,
-        "RequiredLevel": 82,
-        "Code": "lgs",
-        "Properties": [],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 0,
-                    "DamageString": "25 to 150"
-                },
-                {
-                    "Type": 1,
-                    "DamageString": "58 to 115"
-                }
-            ],
-            "Speed": 5,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "189",
-            "RequiredDexterity": "110",
-            "Durability": 250,
             "RequiredClass": ""
         }
     },
@@ -70136,6 +69679,67 @@
         }
     },
     {
+        "Type": "Wand",
+        "Vanilla": "Y",
+        "Name": "Boneshade",
+        "Index": "Boneshade",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 85,
+        "RequiredLevel": 83,
+        "Code": "7bw",
+        "Properties": [
+            {
+                "PropertyString": "+1-2 to Poison and Bone Skills (Necromancer Only)",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2-3 to Necromancer Skill Levels",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+25-35% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+3-5 to Teeth (Necromancer Only)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+3-5 to Bone Armor (Necromancer Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3-5 to Bone Spear (Necromancer Only)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+3-5 to Bone Spirit (Necromancer Only)",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+3-5 to Bone Wall (Necromancer Only)",
+                "Index": 7
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 3,
+                    "DamageString": "10 to 31"
+                }
+            ],
+            "Speed": -20,
+            "EquipmentType": 1,
+            "Name": "Lich Wand [E]",
+            "RequiredStrength": "25",
+            "RequiredDexterity": "0",
+            "Durability": 250,
+            "RequiredClass": ""
+        }
+    },
+    {
         "Type": "Circlet",
         "Vanilla": "N",
         "Name": "Royal Diadem",
@@ -70232,6 +69836,63 @@
             "RequiredStrength": "151",
             "RequiredDexterity": "0",
             "Durability": 18,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Hand to Hand",
+        "Vanilla": "N",
+        "Name": "Cold of Winter",
+        "Index": "Cold of Winter",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 85,
+        "RequiredLevel": 83,
+        "Code": "7ar",
+        "Properties": [
+            {
+                "PropertyString": "+1-3 to Traps (Assassin Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+5 to Chilling Armor (oskill)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+20-30% Increased Attack Speed",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10-15% to Cold Skill Damage",
+                "Index": 1
+            },
+            {
+                "PropertyString": "-25-30% to Enemy Cold Resistance",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2-4 to Snowlash Sentry (Assassin Only)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+2-4 to Glacial Vortex Sentry (Assassin Only)",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 3,
+                    "DamageString": "39 to 52"
+                }
+            ],
+            "Speed": 0,
+            "EquipmentType": 1,
+            "Name": "Suwayyah [E]",
+            "RequiredStrength": "99",
+            "RequiredDexterity": "99",
+            "Durability": 250,
             "RequiredClass": ""
         }
     },
@@ -70646,20 +70307,16 @@
                 "Index": 1
             },
             {
-                "PropertyString": "Level 3-5 Conviction Aura When Equipped",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+2 to All Skills",
+                "PropertyString": "Level 4-8 Conviction Aura When Equipped",
                 "Index": 4
             },
             {
-                "PropertyString": "+10% to Fire Skill Damage",
-                "Index": 2
+                "PropertyString": "+2 to All Skills",
+                "Index": 3
             },
             {
-                "PropertyString": "+10% to Lightning Skill Damage",
-                "Index": 3
+                "PropertyString": "+10% to All Elemental Skill Damage",
+                "Index": 2
             },
             {
                 "PropertyString": "+150-200% Enhanced Defense",
@@ -70667,7 +70324,7 @@
             },
             {
                 "PropertyString": "You feel incorporeal...",
-                "Index": 6
+                "Index": 5
             }
         ],
         "DamageArmorEnhanced": true,
@@ -70855,6 +70512,63 @@
             "RequiredDexterity": "0",
             "Durability": 250,
             "RequiredClass": "Sorceress"
+        }
+    },
+    {
+        "Type": "Hand to Hand",
+        "Vanilla": "N",
+        "Name": "Flaming Fist",
+        "Index": "Flaming Fist",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 83,
+        "RequiredLevel": 84,
+        "Code": "7cs",
+        "Properties": [
+            {
+                "PropertyString": "+1-3 to Traps (Assassin Only)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+5 to Warmth (oskill)",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+15-20% Increased Attack Speed",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+25-30% to Fire Skill Damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "-10-15% to Enemy Fire Resistance",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+2-4 to Wake of Fire Sentry (Assassin Only)",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+2-4 to Flameburst Sentry (Assassin Only)",
+                "Index": 2
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 3,
+                    "DamageString": "36 to 42"
+                }
+            ],
+            "Speed": -10,
+            "EquipmentType": 1,
+            "Name": "Battle Cestus [E]",
+            "RequiredStrength": "110",
+            "RequiredDexterity": "110",
+            "Durability": 250,
+            "RequiredClass": ""
         }
     },
     {
@@ -72410,6 +72124,63 @@
         }
     },
     {
+        "Type": "Hand to Hand",
+        "Vanilla": "N",
+        "Name": "Storm Talons",
+        "Index": "Storm Talons",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 85,
+        "RequiredLevel": 85,
+        "Code": "7wb",
+        "Properties": [
+            {
+                "PropertyString": "+1-3 to Traps (Assassin Only)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+5 to Cyclone Armor (oskill)",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+15-20% Increased Attack Speed",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+10-20% to Lightning Skill Damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "-10-20% to Enemy Lightning Resistance",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+2-4 to Charged Bolt Sentry (Assassin Only)",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+2-4 to Lightning Sentry (Assassin Only)",
+                "Index": 2
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 3,
+                    "DamageString": "34 to 45"
+                }
+            ],
+            "Speed": -10,
+            "EquipmentType": 1,
+            "Name": "Wrist Sword [E]",
+            "RequiredStrength": "105",
+            "RequiredDexterity": "105",
+            "Durability": 250,
+            "RequiredClass": ""
+        }
+    },
+    {
         "Type": "Ring",
         "Vanilla": "N",
         "Name": "Jordan's Sigil",
@@ -72946,285 +72717,6 @@
             "RequiredStrength": null,
             "RequiredDexterity": null,
             "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Small Charm",
-        "Vanilla": "N",
-        "Name": "Horazon's Palantir",
-        "Index": "Horazon's Palantir",
-        "Enabled": false,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "cm1",
-        "Properties": [
-            {
-                "PropertyString": "Charm Weight: 1",
-                "Index": 5
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": "Small Charm",
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Small Charm",
-        "Vanilla": "N",
-        "Name": "Pyrectic Flame",
-        "Index": "Pyrectic Flame",
-        "Enabled": false,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "cm1",
-        "Properties": [
-            {
-                "PropertyString": "Charm Weight: 3",
-                "Index": 5
-            },
-            {
-                "PropertyString": "-5% to Enemy Fire Resistance",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+10% to Fire Skill Damage",
-                "Index": 1
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": "Small Charm",
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Small Charm",
-        "Vanilla": "N",
-        "Name": "Tempest Crack",
-        "Index": "Tempest Crack",
-        "Enabled": false,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "cm1",
-        "Properties": [
-            {
-                "PropertyString": "Charm Weight: 3",
-                "Index": 5
-            },
-            {
-                "PropertyString": "-5% to Enemy Lightning Resistance",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+10% to Lightning Skill Damage",
-                "Index": 1
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": "Small Charm",
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Small Charm",
-        "Vanilla": "N",
-        "Name": "Glacial Frost",
-        "Index": "Glacial Frost",
-        "Enabled": false,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "cm1",
-        "Properties": [
-            {
-                "PropertyString": "Charm Weight: 3",
-                "Index": 5
-            },
-            {
-                "PropertyString": "-5% to Enemy Cold Resistance",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+10% to Cold Skill Damage",
-                "Index": 1
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": "Small Charm",
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Small Charm",
-        "Vanilla": "N",
-        "Name": "Tainted Strike",
-        "Index": "Tainted Strike",
-        "Enabled": false,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "cm1",
-        "Properties": [
-            {
-                "PropertyString": "Charm Weight: 3",
-                "Index": 5
-            },
-            {
-                "PropertyString": "-5% to Enemy Poison Resistance",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+10% to Poison Skill Damage",
-                "Index": 1
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": "Small Charm",
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Small Charm",
-        "Vanilla": "N",
-        "Name": "Conjuring Hex",
-        "Index": "Conjuring Hex",
-        "Enabled": false,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "cm1",
-        "Properties": [
-            {
-                "PropertyString": "Charm Weight: 5",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+1 Bone Spear Projectiles",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+1 Holy Bolt Projectiles",
-                "Index": 1
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": "Small Charm",
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Small Charm",
-        "Vanilla": "N",
-        "Name": "Violent Force",
-        "Index": "Violent Force",
-        "Enabled": false,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "cm1",
-        "Properties": [
-            {
-                "PropertyString": "Charm Weight: 5",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+100 Damage",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+20% Bonus to Attack Rating",
-                "Index": 1
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": "Small Charm",
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Hand to Hand",
-        "Vanilla": "N",
-        "Name": "Natalya's Solace",
-        "Index": "Natalya's Solace",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 85,
-        "Code": "lgw",
-        "Properties": [
-            {
-                "PropertyString": "33% Chance to cast level 8 Frost Nova on striking",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+170-220% Enhanced Weapon Damage",
-                "Index": 0
-            },
-            {
-                "PropertyString": "-25% Target Defense",
-                "Index": 1
-            },
-            {
-                "PropertyString": "Freezes target +2",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+10-15 to Mana after each Kill",
-                "Index": 3
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "(64-76) to (270-320)"
-                }
-            ],
-            "Speed": -30,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "115",
-            "RequiredDexterity": "115",
-            "Durability": 250,
             "RequiredClass": ""
         }
     },
@@ -74386,43 +73878,31 @@
         "Properties": [
             {
                 "PropertyString": "+50% chance for finishing moves to not consume charges",
-                "Index": 9
-            },
-            {
-                "PropertyString": "18% Chance to cast level 12 Glacial Spike on striking",
                 "Index": 6
             },
             {
-                "PropertyString": "+2-3 to Martial Arts (Assassin Only)",
-                "Index": 5
+                "PropertyString": "18% Chance to cast level 12 Glacial Spike on striking",
+                "Index": 4
             },
             {
-                "PropertyString": "+3 to Cold Mastery (oskill)",
-                "Index": 2
+                "PropertyString": "+2-3 to Martial Arts (Assassin Only)",
+                "Index": 3
             },
             {
                 "PropertyString": "+3 to Frozen Armor (oskill)",
-                "Index": 4
+                "Index": 2
             },
             {
                 "PropertyString": "+250-320% Enhanced Weapon Damage",
                 "Index": 0
             },
             {
-                "PropertyString": "+15-20% to Cold Skill Damage",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+3-5 to Blades of Ice (Assassin Only)",
-                "Index": 8
-            },
-            {
-                "PropertyString": "+25% Magic Resistance",
+                "PropertyString": "-20-30% to Enemy Cold Resistance",
                 "Index": 1
             },
             {
-                "PropertyString": "+25% to All Resistances",
-                "Index": 7
+                "PropertyString": "+3-5 to Blades of Ice (Assassin Only)",
+                "Index": 5
             }
         ],
         "DamageArmorEnhanced": true,
@@ -74515,11 +73995,11 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+3 to Weapon Maximum Fire Damage (Per Character Level)",
+                "PropertyString": "+6 to Weapon Maximum Fire Damage (Per Character Level)",
                 "Index": 2
             },
             {
-                "PropertyString": "+15-30% to Fire Skill Damage",
+                "PropertyString": "+20-30% to Fire Skill Damage",
                 "Index": 3
             },
             {
@@ -75022,262 +74502,6 @@
             "RequiredStrength": null,
             "RequiredDexterity": null,
             "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Sword",
-        "Vanilla": "N",
-        "Name": "The Butcher's Cleaver",
-        "Index": "The Butcher's Cleaver",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 83,
-        "RequiredLevel": 95,
-        "Code": "lgs",
-        "Properties": [
-            {
-                "PropertyString": "Level 8-12 Fanaticism Aura When Equipped",
-                "Index": 8
-            },
-            {
-                "PropertyString": "+15-20 to Melee Mastery (oskill)",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+10-15 to Carnage (oskill)",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+40% Increased Attack Speed",
-                "Index": 7
-            },
-            {
-                "PropertyString": "+300-500% Enhanced Weapon Damage",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+20% Faster Hit Recovery",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+3.12 to Maximum Weapon Damage (Per Character Level)",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+10-20 to Carnage (Barbarian Only)",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+10-20 to Whirlwind (Barbarian Only)",
-                "Index": 4
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 0,
-                    "DamageString": "(100-150) to (896-1212)"
-                },
-                {
-                    "Type": 1,
-                    "DamageString": "(232-348) to (756-1002)"
-                }
-            ],
-            "Speed": 5,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "189",
-            "RequiredDexterity": "110",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Sword",
-        "Vanilla": "N",
-        "Name": "Talic's Defender",
-        "Index": "Talic's Sword",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 95,
-        "Code": "lgs",
-        "Properties": [
-            {
-                "PropertyString": "20% Chance to cast level 20 Molten Boulder on striking",
-                "Index": 4
-            },
-            {
-                "PropertyString": "Level 20 Holy Fire Aura When Equipped",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+3 to Fire Skills",
-                "Index": 9
-            },
-            {
-                "PropertyString": "+20-25 to Enchant (oskill)",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+250-300% Enhanced Weapon Damage",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+500 to Weapon Maximum Fire Damage",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+25-40% to Fire Skill Damage",
-                "Index": 2
-            },
-            {
-                "PropertyString": "-15-30% to Enemy Fire Resistance",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+10% to Maximum Fire Resistance",
-                "Index": 8
-            },
-            {
-                "PropertyString": "Absorbs 0.03 Fire Damage (Per Character Level)",
-                "Index": 7
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 0,
-                    "DamageString": "(87-100) to (525-600)"
-                },
-                {
-                    "Type": 1,
-                    "DamageString": "(203-232) to (402-460)"
-                }
-            ],
-            "Speed": 5,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "189",
-            "RequiredDexterity": "110",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Sword",
-        "Vanilla": "N",
-        "Name": "Tyrael's Sword of Justice",
-        "Index": "Tyreal's Sword of Justice",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 95,
-        "Code": "lgs",
-        "Properties": [
-            {
-                "PropertyString": "Level 20 Salvation Aura When Equipped",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+5-7 to All Skills",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+40% Increased Attack Speed",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+500% Enhanced Weapon Damage",
-                "Index": 7
-            },
-            {
-                "PropertyString": "+492% Damage to Demons",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+500 to Attack Rating against Demons",
-                "Index": 1
-            },
-            {
-                "PropertyString": "Slain Monsters Rest in Peace",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+128 Life after each Demon Kill",
-                "Index": 5
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 0,
-                    "DamageString": "150 to 900"
-                },
-                {
-                    "Type": 1,
-                    "DamageString": "348 to 690"
-                }
-            ],
-            "Speed": 5,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "189",
-            "RequiredDexterity": "110",
-            "Durability": 250,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Wand",
-        "Vanilla": "N",
-        "Name": "Trang'Ouls Reanimator",
-        "Index": "Trang'Ouls Reanimator",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 85,
-        "RequiredLevel": 95,
-        "Code": "lg2",
-        "Properties": [
-            {
-                "PropertyString": "+4-5 to All Skills",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+30-40% Faster Cast Rate",
-                "Index": 4
-            },
-            {
-                "PropertyString": "25% Reanimate as: Bone Trap",
-                "Index": 0
-            },
-            {
-                "PropertyString": "25% Reanimate as: Ash Horror",
-                "Index": 1
-            },
-            {
-                "PropertyString": "50% Reanimate as: Cave Rat",
-                "Index": 2
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 3,
-                    "DamageString": "10 to 31"
-                }
-            ],
-            "Speed": -20,
-            "EquipmentType": 1,
-            "Name": "Legendary Weapon",
-            "RequiredStrength": "25",
-            "RequiredDexterity": "0",
-            "Durability": 250,
             "RequiredClass": ""
         }
     }

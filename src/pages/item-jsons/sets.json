@@ -9257,7 +9257,7 @@
                 "Type": "Amulet",
                 "Set": "Insight of Brother Laz",
                 "SetPropertiesString": [
-                    "9% Chance to cast level 2 Mind Blast when struck (3 Items)",
+                    "13% Chance to cast level 20 Bone Spirit when struck (3 Items)",
                     "+25 to Mana (2 Items)"
                 ],
                 "Name": "Brother Laz' Holy Symbol",
@@ -22222,7 +22222,7 @@
                 "Code": "uul",
                 "Properties": [
                     {
-                        "PropertyString": "20% Chance to cast level 8 Cloak Of Shadows when struck",
+                        "PropertyString": "20% Chance to cast level 8 Dim Vision when struck",
                         "Index": 0
                     },
                     {

@@ -182,7 +182,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "Level 13 Cloak of Shadows (9 Charges)",
+                "PropertyString": "Level 10 Inner Sight (10 Charges)",
                 "Index": 3
             }
         ],
@@ -7295,9 +7295,9 @@
                 }
             },
             {
-                "Name": "Thul Rune",
-                "ItemLevel": 23,
-                "RequiredLevel": 23,
+                "Name": "Ort Rune",
+                "ItemLevel": 21,
+                "RequiredLevel": 21,
                 "Type": {
                     "Name": "Rune",
                     "Index": "Rune",
@@ -7334,7 +7334,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "Adds 1-300 Weapon Lightning Damage",
+                "PropertyString": "Adds 2-350 Weapon Lightning Damage",
                 "Index": 2
             },
             {
@@ -7342,11 +7342,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Adds 3-14 Weapon Cold Damage",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+15-20% to Lightning Skill Damage",
+                "PropertyString": "+10-15% to Lightning Skill Damage",
                 "Index": 3
             },
             {
@@ -7636,6 +7632,152 @@
     {
         "Runes": [
             {
+                "Name": "Lem Rune",
+                "ItemLevel": 43,
+                "RequiredLevel": 43,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Thul Rune",
+                "ItemLevel": 23,
+                "RequiredLevel": 23,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Hand to Hand",
+                "Index": "Hand to Hand",
+                "Class": "ass"
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Rimewind",
+        "Index": "Rimewind",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 43,
+        "RequiredLevel": 43,
+        "Code": "Rimewind",
+        "Properties": [
+            {
+                "PropertyString": "+1-2 to Traps (Assassin Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+140-190% Enhanced Weapon Damage",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Adds 100-200 Weapon Fire Damage",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Adds 1-300 Weapon Lightning Damage",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Adds 30-70 Weapon Cold Damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Adds 3-14 Weapon Cold Damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10-15% to Cold Skill Damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+75% Extra Gold from Monsters",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Lem Rune",
+                "ItemLevel": 43,
+                "RequiredLevel": 43,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ral Rune",
+                "ItemLevel": 19,
+                "RequiredLevel": 19,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Hand to Hand",
+                "Index": "Hand to Hand",
+                "Class": "ass"
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Wildfire",
+        "Index": "Wildfire",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 43,
+        "RequiredLevel": 43,
+        "Code": "Wildfire",
+        "Properties": [
+            {
+                "PropertyString": "+1-2 to Traps (Assassin Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+140-190% Enhanced Weapon Damage",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Adds 105-230 Weapon Fire Damage",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Adds 1-300 Weapon Lightning Damage",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Adds 30-70 Weapon Cold Damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10-15% to Fire Skill Damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+75% Extra Gold from Monsters",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
                 "Name": "Pul Rune",
                 "ItemLevel": 45,
                 "RequiredLevel": 45,
@@ -7794,7 +7936,7 @@
         "Code": "Shadow1",
         "Properties": [
             {
-                "PropertyString": "25% Chance to cast level 12 Cloak Of Shadows when struck",
+                "PropertyString": "25% Chance to cast level 12 Dim Vision when struck",
                 "Index": 4
             },
             {
@@ -10162,7 +10304,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "6% Chance to cast level 14 Mind Blast when struck",
+                "PropertyString": "12% Chance to cast level 35 Bone Spirit when struck",
                 "Index": 4
             },
             {
@@ -11807,11 +11949,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+1 to Warmth (oskill)",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+50% Faster Cast Rate",
+                "PropertyString": "+30-50% Faster Cast Rate",
                 "Index": 1
             },
             {
@@ -11824,19 +11962,15 @@
             },
             {
                 "PropertyString": "+100 to Mana",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+20% Increased Maximum Mana",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+75% Mana Regeneration",
                 "Index": 3
             },
             {
-                "PropertyString": "+5-10% to Experience Gained",
-                "Index": 5
+                "PropertyString": "+50% Mana Regeneration",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+10% Magic Resistance",
+                "Index": 4
             }
         ],
         "DamageArmorEnhanced": false,
@@ -12017,12 +12151,8 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+20% to Lightning Skill Damage",
+                "PropertyString": "+10% to All Elemental Skill Damage",
                 "Index": 4
-            },
-            {
-                "PropertyString": "+20% to Fire Skill Damage",
-                "Index": 5
             },
             {
                 "PropertyString": "+200-250% Enhanced Defense",
@@ -12038,7 +12168,7 @@
             },
             {
                 "PropertyString": "+30% to All Resistances",
-                "Index": 6
+                "Index": 5
             }
         ],
         "DamageArmorEnhanced": false,
@@ -17479,7 +17609,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Adds 75-150 Weapon Damage",
+                "PropertyString": "Adds 100-150 Weapon Damage",
                 "Index": 2
             },
             {
