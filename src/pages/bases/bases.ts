@@ -60,14 +60,15 @@ export class Bases {
 
     @bindable search: string;
     @bindable selectedType: string = '';
-    @bindable selectedTier: 'Normal' | 'Exceptional' | 'Elite' | undefined;
+    @bindable selectedTier: 'Normal' | 'Exceptional' | 'Elite' | 'Legendary' | undefined;
     @bindable selectedSockets: number | undefined;
 
-    tierOptions: Array<{ value: '' | 'Normal' | 'Exceptional' | 'Elite' | undefined; label: string; }> = [
+    tierOptions: Array<{ value: '' | 'Normal' | 'Exceptional' | 'Elite' | 'Legendary' | undefined; label: string; }> = [
         { value: '', label: '-' },
         { value: 'Normal', label: 'Normal' },
         { value: 'Exceptional', label: 'Exceptional' },
-        { value: 'Elite', label: 'Elite' }];
+        { value: 'Elite', label: 'Elite' },
+        { value: 'Legendary', label: 'Legendary' }];
 
     socketOptions: Array<{ value: number | ''; label: string }> = [
         { value: '', label: '-' },
@@ -108,7 +109,7 @@ export class Bases {
             this.search = searchParam;
 
         const tierParam = urlParams.get('tier');
-        if (tierParam === 'Normal' || tierParam === 'Exceptional' || tierParam === 'Elite') {
+        if (tierParam === 'Normal' || tierParam === 'Exceptional' || tierParam === 'Elite' || tierParam === 'Legendary') {
             this.selectedTier = tierParam;
         }
 
@@ -310,6 +311,7 @@ export class Bases {
             ['Normal', 0],
             ['Exceptional', 1],
             ['Elite', 2],
+            ['Legendary', 3],
         ]);
 
         const groups = Array.from(typeMap.entries())
@@ -367,8 +369,10 @@ export class Bases {
         return '';
     }
 
-    getTier(i: IBaseItem): 'Normal' | 'Exceptional' | 'Elite' | undefined {
+    getTier(i: IBaseItem): 'Normal' | 'Exceptional' | 'Elite' | 'Legendary' | undefined {
         const name: string = i?.Name ?? '';
+        if (name.toLowerCase().includes('legendary weapon')) return 'Legendary';
+
         // Valid in this use
         // noinspection RegExpSingleCharAlternation,RegExpRedundantEscape
         const m = name.match(/\[(N|X|E)\]/i);
@@ -396,6 +400,7 @@ export class Bases {
             if (pos === 0) return 'Normal';
             if (pos === 1) return 'Exceptional';
             if (pos === 2) return 'Elite';
+            if (pos === 3) return 'Legendary';
         }
         return undefined;
     }
