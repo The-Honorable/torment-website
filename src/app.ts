@@ -1,7 +1,7 @@
 import { route } from '@aurelia/router';
 
 @route({
-    title: 'D2R Reimagined',
+    title: 'D2R Torment',
     routes: [
         {
             path: '',

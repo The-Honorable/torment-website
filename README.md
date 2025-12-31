@@ -1,4 +1,4 @@
-# D2R Reimagined Website
+# D2R Torment Website, Forked from Delegus' Redesign of d2r reimagined website
 
 ## Prerequisites
 

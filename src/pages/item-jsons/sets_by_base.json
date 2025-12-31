@@ -1,0 +1,2768 @@
+﻿[
+    {
+        "BaseName": "Cap [N]",
+        "Count": 2,
+        "SetItems": [
+            "Infernal Cranium",
+            "Sander's Paragon"
+        ]
+    },
+    {
+        "BaseName": "Skull Cap [N]",
+        "Count": 1,
+        "SetItems": [
+            "Arcanna's Head"
+        ]
+    },
+    {
+        "BaseName": "Helm [N]",
+        "Count": 1,
+        "SetItems": [
+            "Berserker's Headgear"
+        ]
+    },
+    {
+        "BaseName": "Full Helm [N]",
+        "Count": 1,
+        "SetItems": [
+            "Isenhart's Horns"
+        ]
+    },
+    {
+        "BaseName": "Great Helm [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sigon's Visor"
+        ]
+    },
+    {
+        "BaseName": "Crown [N]",
+        "Count": 2,
+        "SetItems": [
+            "Iratha's Coil",
+            "Milabrega's Diadem"
+        ]
+    },
+    {
+        "BaseName": "Mask [N]",
+        "Count": 1,
+        "SetItems": [
+            "Cathan's Visage"
+        ]
+    },
+    {
+        "BaseName": "Quilted Armor [N]",
+        "Count": 1,
+        "SetItems": [
+            "Arctic Furs"
+        ]
+    },
+    {
+        "BaseName": "Leather Armor [N]",
+        "Count": 1,
+        "SetItems": [
+            "Vidala's Ambush"
+        ]
+    },
+    {
+        "BaseName": "Hard Leather Armor [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Studded Leather [N]",
+        "Count": 1,
+        "SetItems": [
+            "Cow King's Hide"
+        ]
+    },
+    {
+        "BaseName": "Ring Mail [N]",
+        "Count": 1,
+        "SetItems": [
+            "Angelic Mantle"
+        ]
+    },
+    {
+        "BaseName": "Scale Mail [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Chain Mail [N]",
+        "Count": 1,
+        "SetItems": [
+            "Cathan's Mesh"
+        ]
+    },
+    {
+        "BaseName": "Breast Plate [N]",
+        "Count": 1,
+        "SetItems": [
+            "Isenhart's Case"
+        ]
+    },
+    {
+        "BaseName": "Splint Mail [N]",
+        "Count": 1,
+        "SetItems": [
+            "Berserker's Hauberk"
+        ]
+    },
+    {
+        "BaseName": "Plate Mail [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Field Plate [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gothic Plate [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sigon's Shelter"
+        ]
+    },
+    {
+        "BaseName": "Full Plate Mail [N]",
+        "Count": 1,
+        "SetItems": [
+            "Tancred's Spine"
+        ]
+    },
+    {
+        "BaseName": "Ancient Armor [N]",
+        "Count": 1,
+        "SetItems": [
+            "Milabrega's Robe"
+        ]
+    },
+    {
+        "BaseName": "Light Plate [N]",
+        "Count": 1,
+        "SetItems": [
+            "Arcanna's Flesh"
+        ]
+    },
+    {
+        "BaseName": "Buckler [N]",
+        "Count": 1,
+        "SetItems": [
+            "Hsarus' Iron Fist"
+        ]
+    },
+    {
+        "BaseName": "Small Shield [N]",
+        "Count": 1,
+        "SetItems": [
+            "Cleglaw's Claw"
+        ]
+    },
+    {
+        "BaseName": "Large Shield [N]",
+        "Count": 1,
+        "SetItems": [
+            "Civerb's Ward"
+        ]
+    },
+    {
+        "BaseName": "Kite Shield [N]",
+        "Count": 1,
+        "SetItems": [
+            "Milabrega's Orb"
+        ]
+    },
+    {
+        "BaseName": "Tower Shield [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sigon's Guard"
+        ]
+    },
+    {
+        "BaseName": "Gothic Shield [N]",
+        "Count": 1,
+        "SetItems": [
+            "Isenhart's Parry"
+        ]
+    },
+    {
+        "BaseName": "Leather Gloves [N]",
+        "Count": 1,
+        "SetItems": [
+            "Death's Hand"
+        ]
+    },
+    {
+        "BaseName": "Heavy Gloves [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sander's Taboo"
+        ]
+    },
+    {
+        "BaseName": "Chain Gloves [N]",
+        "Count": 1,
+        "SetItems": [
+            "Cleglaw's Pincers"
+        ]
+    },
+    {
+        "BaseName": "Light Gauntlets [N]",
+        "Count": 2,
+        "SetItems": [
+            "Arctic Mitts",
+            "Iratha's Cuff"
+        ]
+    },
+    {
+        "BaseName": "Gauntlets [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sigon's Gage"
+        ]
+    },
+    {
+        "BaseName": "Boots [N]",
+        "Count": 1,
+        "SetItems": [
+            "Tancred's Hobnails"
+        ]
+    },
+    {
+        "BaseName": "Heavy Boots [N]",
+        "Count": 2,
+        "SetItems": [
+            "Cow King's Hooves",
+            "Sander's Riprap"
+        ]
+    },
+    {
+        "BaseName": "Chain Boots [N]",
+        "Count": 1,
+        "SetItems": [
+            "Hsarus' Iron Heel"
+        ]
+    },
+    {
+        "BaseName": "Light Plated Boots [N]",
+        "Count": 1,
+        "SetItems": [
+            "Vidala's Fetlock"
+        ]
+    },
+    {
+        "BaseName": "Greaves [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sigon's Sabot"
+        ]
+    },
+    {
+        "BaseName": "Sash [N]",
+        "Count": 1,
+        "SetItems": [
+            "Death's Guard"
+        ]
+    },
+    {
+        "BaseName": "Light Belt [N]",
+        "Count": 1,
+        "SetItems": [
+            "Arctic Binding"
+        ]
+    },
+    {
+        "BaseName": "Belt [N]",
+        "Count": 2,
+        "SetItems": [
+            "Hsarus' Iron Stay",
+            "Hwanin's Blessing"
+        ]
+    },
+    {
+        "BaseName": "Heavy Belt [N]",
+        "Count": 2,
+        "SetItems": [
+            "Infernal Sign",
+            "Iratha's Cord"
+        ]
+    },
+    {
+        "BaseName": "Plated Belt [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sigon's Wrap"
+        ]
+    },
+    {
+        "BaseName": "Bone Helm [N]",
+        "Count": 1,
+        "SetItems": [
+            "Tancred's Skull"
+        ]
+    },
+    {
+        "BaseName": "Bone Shield [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spiked Shield [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Hat [E]",
+        "Count": 1,
+        "SetItems": [
+            "Cow King's Horns"
+        ]
+    },
+    {
+        "BaseName": "Sallet [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Casque [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Basinet [E]",
+        "Count": 1,
+        "SetItems": [
+            "Sazabi's Mental Sheath"
+        ]
+    },
+    {
+        "BaseName": "Winged Helm [E]",
+        "Count": 1,
+        "SetItems": [
+            "Guillaume's Face"
+        ]
+    },
+    {
+        "BaseName": "Grand Crown [E]",
+        "Count": 1,
+        "SetItems": [
+            "Hwanin's Splendor"
+        ]
+    },
+    {
+        "BaseName": "Death Mask [E]",
+        "Count": 1,
+        "SetItems": [
+            "Tal Rasha's Horadric Crest"
+        ]
+    },
+    {
+        "BaseName": "Ghost Armor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Serpentskin Armor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Demonhide Armor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Trellised Armor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Linked Mail [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Tigulated Mail [E]",
+        "Count": 1,
+        "SetItems": [
+            "Hwanin's Refuge"
+        ]
+    },
+    {
+        "BaseName": "Mesh Armor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cuirass [E]",
+        "Count": 1,
+        "SetItems": [
+            "Haemosu's Adamant"
+        ]
+    },
+    {
+        "BaseName": "Russet Armor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Templar Coat [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sharktooth Armor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Embossed Plate [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Chaos Armor [E]",
+        "Count": 1,
+        "SetItems": [
+            "Trang-Oul's Scales"
+        ]
+    },
+    {
+        "BaseName": "Ornate Plate [E]",
+        "Count": 1,
+        "SetItems": [
+            "Griswold's Heart"
+        ]
+    },
+    {
+        "BaseName": "Mage Plate [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Defender [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Round Shield [E]",
+        "Count": 1,
+        "SetItems": [
+            "Whitstan's Guard"
+        ]
+    },
+    {
+        "BaseName": "Scutum [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dragon Shield [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Pavise [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ancient Shield [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Demonhide Gloves [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sharkskin Gloves [E]",
+        "Count": 1,
+        "SetItems": [
+            "Magnus' Skin"
+        ]
+    },
+    {
+        "BaseName": "Heavy Bracers [E]",
+        "Count": 1,
+        "SetItems": [
+            "Trang-Oul's Claws"
+        ]
+    },
+    {
+        "BaseName": "Battle Gauntlets [E]",
+        "Count": 1,
+        "SetItems": [
+            "M'avina's Icy Clutch"
+        ]
+    },
+    {
+        "BaseName": "War Gauntlets [E]",
+        "Count": 1,
+        "SetItems": [
+            "Immortal King's Forge"
+        ]
+    },
+    {
+        "BaseName": "Demonhide Boots [E]",
+        "Count": 1,
+        "SetItems": [
+            "Rite of Passage"
+        ]
+    },
+    {
+        "BaseName": "Sharkskin Boots [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mesh Boots [E]",
+        "Count": 1,
+        "SetItems": [
+            "Natalya's Soul"
+        ]
+    },
+    {
+        "BaseName": "Battle Boots [E]",
+        "Count": 1,
+        "SetItems": [
+            "Aldur's Advance"
+        ]
+    },
+    {
+        "BaseName": "War Boots [E]",
+        "Count": 1,
+        "SetItems": [
+            "Immortal King's Pillar"
+        ]
+    },
+    {
+        "BaseName": "Demonhide Sash [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sharkskin Belt [E]",
+        "Count": 1,
+        "SetItems": [
+            "M'avina's Tenet"
+        ]
+    },
+    {
+        "BaseName": "Mesh Belt [E]",
+        "Count": 1,
+        "SetItems": [
+            "Tal Rasha's Fine-Spun Cloth"
+        ]
+    },
+    {
+        "BaseName": "Battle Belt [E]",
+        "Count": 1,
+        "SetItems": [
+            "Wilhelm's Pride"
+        ]
+    },
+    {
+        "BaseName": "War Belt [E]",
+        "Count": 1,
+        "SetItems": [
+            "Immortal King's Detail"
+        ]
+    },
+    {
+        "BaseName": "Grim Helm [E]",
+        "Count": 1,
+        "SetItems": [
+            "Natalya's Totem"
+        ]
+    },
+    {
+        "BaseName": "Grim Shield [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Barbed Shield [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wolf Head [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hawk Helm [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Antlers [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Falcon Mask [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spirit Mask [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Jawbone Cap [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Fanged Helm [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Horned Helm [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Assault Helmet [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Avenger Guard [N]",
+        "Count": 1,
+        "SetItems": [
+            "Immortal King's Will"
+        ]
+    },
+    {
+        "BaseName": "Targe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rondache [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Heraldic Shield [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Aerin Shield [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Crown Shield [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Preserved Head [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Zombie Head [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Unraveller Head [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gargoyle Head [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Demon Head [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Circlet [N]",
+        "Count": 1,
+        "SetItems": [
+            "Naj's Circlet"
+        ]
+    },
+    {
+        "BaseName": "Coronet [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Tiara [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Diadem [X]",
+        "Count": 1,
+        "SetItems": [
+            "M'avina's True Sight"
+        ]
+    },
+    {
+        "BaseName": "Shako [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hydraskull [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Armet [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Giant Conch [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spired Helm [X]",
+        "Count": 1,
+        "SetItems": [
+            "Ondal's Almighty"
+        ]
+    },
+    {
+        "BaseName": "Corona [X]",
+        "Count": 1,
+        "SetItems": [
+            "Griswold's Valor"
+        ]
+    },
+    {
+        "BaseName": "Demonhead [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dusk Shroud [X]",
+        "Count": 1,
+        "SetItems": [
+            "Dark Adherent"
+        ]
+    },
+    {
+        "BaseName": "Wyrmhide [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scarab Husk [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wire Fleece [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Diamond Mail [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Loricated Mail [X]",
+        "Count": 1,
+        "SetItems": [
+            "Natalya's Shadow"
+        ]
+    },
+    {
+        "BaseName": "Boneweave [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Great Hauberk [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Balrog Skin [X]",
+        "Count": 1,
+        "SetItems": [
+            "Sazabi's Ghost Liberator"
+        ]
+    },
+    {
+        "BaseName": "Hellforge Plate [X]",
+        "Count": 1,
+        "SetItems": [
+            "Naj's Light Plate"
+        ]
+    },
+    {
+        "BaseName": "Kraken Shell [X]",
+        "Count": 1,
+        "SetItems": [
+            "M'avina's Embrace"
+        ]
+    },
+    {
+        "BaseName": "Lacquered Plate [X]",
+        "Count": 1,
+        "SetItems": [
+            "Tal Rasha's Guardianship"
+        ]
+    },
+    {
+        "BaseName": "Shadow Plate [X]",
+        "Count": 1,
+        "SetItems": [
+            "Aldur's Deception"
+        ]
+    },
+    {
+        "BaseName": "Sacred Armor [X]",
+        "Count": 1,
+        "SetItems": [
+            "Immortal King's Soul Cage"
+        ]
+    },
+    {
+        "BaseName": "Archon Plate [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Heater [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Luna [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hyperion [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Monarch [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Aegis [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ward [X]",
+        "Count": 1,
+        "SetItems": [
+            "Taebaek's Glory"
+        ]
+    },
+    {
+        "BaseName": "Bramble Mitts [X]",
+        "Count": 1,
+        "SetItems": [
+            "Laying of Hands"
+        ]
+    },
+    {
+        "BaseName": "Vampirebone Gloves [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Vambraces [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Crusader Gauntlets [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ogre Gauntlets [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wyrmhide Boots [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scarabshell Boots [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Boneweave Boots [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mirrored Boots [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Myrmidon Greaves [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spiderweb Sash [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Vampirefang Belt [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mithril Coil [X]",
+        "Count": 1,
+        "SetItems": [
+            "Credendum"
+        ]
+    },
+    {
+        "BaseName": "Troll Belt [X]",
+        "Count": 1,
+        "SetItems": [
+            "Trang-Oul's Girth"
+        ]
+    },
+    {
+        "BaseName": "Colossus Girdle [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bone Visage [X]",
+        "Count": 1,
+        "SetItems": [
+            "Trang-Oul's Guise"
+        ]
+    },
+    {
+        "BaseName": "Troll Nest [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Blade Barrier [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Alpha Helm [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Griffon Headdress [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hunter's Guise [E]",
+        "Count": 1,
+        "SetItems": [
+            "Aldur's Stony Gaze"
+        ]
+    },
+    {
+        "BaseName": "Sacred Feathers [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Totemic Mask [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Jawbone Visor [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Lion Helm [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rage Mask [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Savage Helmet [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Slayer Guard [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Akaran Targe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Akaran Rondache [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Protector Shield [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gilded Shield [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Royal Shield [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mummified Trophy [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Fetish Trophy [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sexton Trophy [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cantor Trophy [E]",
+        "Count": 1,
+        "SetItems": [
+            "Trang-Oul's Wing"
+        ]
+    },
+    {
+        "BaseName": "Hierophant Trophy [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Blood Spirit [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sun Spirit [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Earth Spirit [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sky Spirit [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dream Spirit [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Carnage Helm [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Fury Visor [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Destroyer Helm [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Conqueror Crown [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Guardian Crown [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sacred Targe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sacred Rondache [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Kurast Shield [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Zakarum Shield [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Vortex Shield [X]",
+        "Count": 1,
+        "SetItems": [
+            "Griswold's Honor"
+        ]
+    },
+    {
+        "BaseName": "Minion Skull [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hellspawn Skull [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Overseer Skull [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Succubus Skull [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bloodlord Skull [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hand Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Double Axe [N]",
+        "Count": 1,
+        "SetItems": [
+            "Berserker's Hatchet"
+        ]
+    },
+    {
+        "BaseName": "Military Pick [N]",
+        "Count": 1,
+        "SetItems": [
+            "Tancred's Crowbill"
+        ]
+    },
+    {
+        "BaseName": "War Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Large Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Broad Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Battle Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Great Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Giant Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wand [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Yew Wand [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bone Wand [N]",
+        "Count": 1,
+        "SetItems": [
+            "Sander's Superstition"
+        ]
+    },
+    {
+        "BaseName": "Grim Wand [N]",
+        "Count": 1,
+        "SetItems": [
+            "Infernal Torch"
+        ]
+    },
+    {
+        "BaseName": "Club [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scepter [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Grand Scepter [N]",
+        "Count": 1,
+        "SetItems": [
+            "Civerb's Cudgel"
+        ]
+    },
+    {
+        "BaseName": "War Scepter [N]",
+        "Count": 1,
+        "SetItems": [
+            "Milabrega's Rod"
+        ]
+    },
+    {
+        "BaseName": "Spiked Club [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mace [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Morning Star [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Flail [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Hammer [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Maul [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Great Maul [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Short Sword [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scimitar [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sabre [N]",
+        "Count": 1,
+        "SetItems": [
+            "Angelic Sickle"
+        ]
+    },
+    {
+        "BaseName": "Falchion [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Crystal Sword [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Broad Sword [N]",
+        "Count": 1,
+        "SetItems": [
+            "Isenhart's Lightbrand"
+        ]
+    },
+    {
+        "BaseName": "Long Sword [N]",
+        "Count": 1,
+        "SetItems": [
+            "Cleglaw's Tooth"
+        ]
+    },
+    {
+        "BaseName": "War Sword [N]",
+        "Count": 1,
+        "SetItems": [
+            "Death's Touch"
+        ]
+    },
+    {
+        "BaseName": "Two-Handed Sword [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Claymore [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Giant Sword [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bastard Sword [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Flamberge [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Great Sword [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dagger [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dirk [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Kris [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Blade [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Throwing Knife [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Throwing Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Balanced Knife [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Balanced Axe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Javelin [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Pilum [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Short Spear [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Glaive [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Throwing Spear [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spear [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Trident [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Brandistock [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spetum [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Pike [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bardiche [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Voulge [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scythe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Poleaxe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Halberd [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Scythe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Short Staff [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Long Staff [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gnarled Staff [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Battle Staff [N]",
+        "Count": 1,
+        "SetItems": [
+            "Cathan's Rule"
+        ]
+    },
+    {
+        "BaseName": "War Staff [N]",
+        "Count": 1,
+        "SetItems": [
+            "Arcanna's Deathwand"
+        ]
+    },
+    {
+        "BaseName": "Short Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hunter's Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Long Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Composite Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Short Battle Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Long Battle Bow [N]",
+        "Count": 1,
+        "SetItems": [
+            "Vidala's Barb"
+        ]
+    },
+    {
+        "BaseName": "Short War Bow [N]",
+        "Count": 1,
+        "SetItems": [
+            "Arctic Horn"
+        ]
+    },
+    {
+        "BaseName": "Long War Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Light Crossbow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Crossbow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Heavy Crossbow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Repeating Crossbow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rancid Gas Potion [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Oil Potion [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Choking Gas Potion [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Exploding Potion [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Strangling Gas Potion [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Fulminating Potion [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Decoy Gidbinn [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "The Gidbinn [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wirt's Leg [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Horadric Malus [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hell Forge Hammer [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Horadric Staff [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Shaft of the Horadric Staff [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hatchet [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cleaver [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Twin Axe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Crowbill [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Naga [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Military Axe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bearded Axe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Tabar [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gothic Axe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ancient Axe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Burnt Wand [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Petrified Wand [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Tomb Wand [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Grave Wand [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cudgel [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rune Scepter [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Holy Water Sprinkler [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Divine Scepter [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Barbed Club [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Flanged Mace [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Jagged Star [E]",
+        "Count": 1,
+        "SetItems": [
+            "Aldur's Rhythm"
+        ]
+    },
+    {
+        "BaseName": "Knout [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Battle Hammer [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Club [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Martel de Fer [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gladius [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cutlass [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Shamshir [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Tulwar [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dimensional Blade [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Battle Sword [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rune Sword [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ancient Sword [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Espandon [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dacian Falx [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Tusk Sword [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gothic Sword [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Zweihander [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Executioner Sword [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Poignard [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rondel [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cinquedeas [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Stiletto [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Battle Dart [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Francisca [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Dart [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hurlbat [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Javelin [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Great Pilum [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Simbilan [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spiculum [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Harpoon [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Spear [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Fuscina [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Fork [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Yari [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Lance [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Lochaber Axe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bill [E]",
+        "Count": 1,
+        "SetItems": [
+            "Hwanin's Justice"
+        ]
+    },
+    {
+        "BaseName": "Battle Scythe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Partizan [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Bec-de-Corbin [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Grim Scythe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Jo Staff [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Quarterstaff [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cedar Staff [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gothic Staff [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rune Staff [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Edge Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Razor Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cedar Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Double Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Short Siege Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Large Siege Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Rune Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gothic Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Arbalest [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Siege Crossbow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ballista [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Chu-Ko-Nu [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Khalim's Flail [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Khalim's Will [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Katar [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wrist Blade [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hatchet Hands [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cestus [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Claws [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Blade Talons [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scissors Katar [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Quhab [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wrist Spike [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Fascia [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hand Scythe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Greater Claws [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Greater Talons [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scissors Quhab [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Suwayyah [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Wrist Sword [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Fist [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Battle Cestus [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Feral Claws [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Runic Talons [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scissors Suwayyah [X]",
+        "Count": 1,
+        "SetItems": [
+            "Natalya's Mark"
+        ]
+    },
+    {
+        "BaseName": "Tomahawk [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Small Crescent [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ettin Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Spike [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Berserker Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Feral Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Silver-edged Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Decapitator [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Champion Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Glorious Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Polished Wand [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ghost Wand [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Lich Wand [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Unearthed Wand [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Truncheon [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mighty Scepter [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Seraph Rod [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Caduceus [X]",
+        "Count": 1,
+        "SetItems": [
+            "Griswold's Redemption"
+        ]
+    },
+    {
+        "BaseName": "Tyrant Club [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Reinforced Mace [X]",
+        "Count": 1,
+        "SetItems": [
+            "Dangoon's Teaching"
+        ]
+    },
+    {
+        "BaseName": "Devil Star [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Scourge [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Legendary Mallet [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ogre Maul [X]",
+        "Count": 1,
+        "SetItems": [
+            "Immortal King's Stone Crusher"
+        ]
+    },
+    {
+        "BaseName": "Thunder Maul [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Falcata [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ataghan [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Elegant Blade [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hydra Edge [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Phase Blade [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Conquest Sword [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cryptic Sword [X]",
+        "Count": 1,
+        "SetItems": [
+            "Sazabi's Cobalt Redeemer"
+        ]
+    },
+    {
+        "BaseName": "Mythical Sword [X]",
+        "Count": 1,
+        "SetItems": [
+            "Bul-Kathos' Tribal Guardian"
+        ]
+    },
+    {
+        "BaseName": "Legend Sword [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Highland Blade [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Balrog Blade [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Champion Sword [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Colossus Sword [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Colossus Blade [X]",
+        "Count": 1,
+        "SetItems": [
+            "Bul-Kathos' Sacred Charge"
+        ]
+    },
+    {
+        "BaseName": "Bone Knife [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mithril Point [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Fanged Knife [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Legend Spike [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Flying Knife [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Flying Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Winged Knife [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Winged Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hyperion Javelin [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Stygian Pilum [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Balrog Spear [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ghost Glaive [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Winged Harpoon [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hyperion Spear [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Stygian Pike [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Mancatcher [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ghost Spear [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "War Pike [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ogre Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Colossus Voulge [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Thresher [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cryptic Axe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Great Poleaxe [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Giant Thresher [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Walking Stick [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Stalagmite [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Elder Staff [X]",
+        "Count": 1,
+        "SetItems": [
+            "Naj's Puzzler"
+        ]
+    },
+    {
+        "BaseName": "Shillelagh [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Archon Staff [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Spider Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Blade Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Shadow Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Great Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Diamond Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Crusader Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ward Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Hydra Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Pellet Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Gorgon Crossbow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Colossus Crossbow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Demon Crossbow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Eagle Orb [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sacred Globe [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Smoked Sphere [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Clasped Orb [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Jared's Stone [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Stag Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Reflex Bow [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Maiden Spear [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Maiden Pike [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Maiden Javelin [N]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Glowing Orb [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Crystalline Globe [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Cloudy Sphere [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Sparkling Ball [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Swirling Crystal [E]",
+        "Count": 1,
+        "SetItems": [
+            "Tal Rasha's Lidless Eye"
+        ]
+    },
+    {
+        "BaseName": "Ashwood Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ceremonial Bow [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ceremonial Spear [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ceremonial Pike [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Ceremonial Javelin [E]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Heavenly Stone [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Eldritch Orb [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Demon Heart [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Vortex Orb [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Dimensional Shard [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Matriarchal Bow [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Grand Matron Bow [X]",
+        "Count": 1,
+        "SetItems": [
+            "M'avina's Caster"
+        ]
+    },
+    {
+        "BaseName": "Matriarchal Spear [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Matriarchal Pike [X]",
+        "Count": 0,
+        "SetItems": []
+    },
+    {
+        "BaseName": "Matriarchal Javelin [X]",
+        "Count": 0,
+        "SetItems": []
+    }
+]
