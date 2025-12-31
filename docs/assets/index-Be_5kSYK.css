@@ -1219,22 +1219,22 @@
 /* font converted using font-converter.net. thank you! */
 @font-face {
   font-family: "DiabloHeavy";
-  src: url("/d2rr-testsite/assets/DiabloHeavy-BXTgiCSj.eot"); /* IE9 Compat Modes */
-  src: url("/d2rr-testsite/assets/DiabloHeavy-BXTgiCSj.eot?#iefix") format("embedded-opentype"), url("/d2rr-testsite/assets/DiabloHeavy-gwmFqUQ1.otf") format("opentype"), url("/d2rr-testsite/assets/DiabloHeavy-CyJ-UoYu.ttf") format("truetype"), url("/d2rr-testsite/assets/DiabloHeavy-Bktn6vCL.woff") format("woff"), url("/d2rr-testsite/assets/DiabloHeavy-sDBuRwi8.woff2") format("woff2"); /* Modern Browsers */
+  src: url("/torment-website/assets/DiabloHeavy-BXTgiCSj.eot"); /* IE9 Compat Modes */
+  src: url("/torment-website/assets/DiabloHeavy-BXTgiCSj.eot?#iefix") format("embedded-opentype"), url("/torment-website/assets/DiabloHeavy-gwmFqUQ1.otf") format("opentype"), url("/torment-website/assets/DiabloHeavy-CyJ-UoYu.ttf") format("truetype"), url("/torment-website/assets/DiabloHeavy-Bktn6vCL.woff") format("woff"), url("/torment-website/assets/DiabloHeavy-sDBuRwi8.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "DiabloLight";
-  src: url("/d2rr-testsite/assets/DiabloLight-b5yXO_QI.eot"); /* IE9 Compat Modes */
-  src: url("/d2rr-testsite/assets/DiabloLight-b5yXO_QI.eot?#iefix") format("embedded-opentype"), url("/d2rr-testsite/assets/DiabloLight-C7pBsenH.otf") format("opentype"), url("/d2rr-testsite/assets/DiabloLight-BaLica6l.ttf") format("truetype"), url("/d2rr-testsite/assets/DiabloLight-D6_pdaHc.woff") format("woff"), url("/d2rr-testsite/assets/DiabloLight-5Zy5hTA7.woff2") format("woff2"); /* Modern Browsers */
+  src: url("/torment-website/assets/DiabloLight-b5yXO_QI.eot"); /* IE9 Compat Modes */
+  src: url("/torment-website/assets/DiabloLight-b5yXO_QI.eot?#iefix") format("embedded-opentype"), url("/torment-website/assets/DiabloLight-C7pBsenH.otf") format("opentype"), url("/torment-website/assets/DiabloLight-BaLica6l.ttf") format("truetype"), url("/torment-website/assets/DiabloLight-D6_pdaHc.woff") format("woff"), url("/torment-website/assets/DiabloLight-5Zy5hTA7.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "D2R";
-  src: url("/d2rr-testsite/assets/ExocetBlizzardMixedCaps-Medium-Z6c6BPE9.eot"); /* IE9 Compat Modes */
-  src: url("/d2rr-testsite/assets/ExocetBlizzardMixedCaps-Medium-Z6c6BPE9.eot?#iefix") format("embedded-opentype"), url("/d2rr-testsite/assets/ExocetBlizzardMixedCaps-Medium-CeveHi9Z.otf") format("opentype"), url("/d2rr-testsite/assets/ExocetBlizzardMixedCaps-Medium-B-2Y3ShW.ttf") format("truetype"), url("/d2rr-testsite/assets/ExocetBlizzardMixedCaps-Medium-Cyx-yAco.woff") format("woff"), url("/d2rr-testsite/assets/ExocetBlizzardMixedCaps-Medium-C9sgS0xk.woff2") format("woff2"), url("/d2rr-testsite/assets/ExocetBlizzardMixedCaps-Medium-DzDpjEZG.svg#ExocetBlizzardMixedCaps-Medium") format("svg");
+  src: url("/torment-website/assets/ExocetBlizzardMixedCaps-Medium-Z6c6BPE9.eot"); /* IE9 Compat Modes */
+  src: url("/torment-website/assets/ExocetBlizzardMixedCaps-Medium-Z6c6BPE9.eot?#iefix") format("embedded-opentype"), url("/torment-website/assets/ExocetBlizzardMixedCaps-Medium-CeveHi9Z.otf") format("opentype"), url("/torment-website/assets/ExocetBlizzardMixedCaps-Medium-B-2Y3ShW.ttf") format("truetype"), url("/torment-website/assets/ExocetBlizzardMixedCaps-Medium-Cyx-yAco.woff") format("woff"), url("/torment-website/assets/ExocetBlizzardMixedCaps-Medium-C9sgS0xk.woff2") format("woff2"), url("/torment-website/assets/ExocetBlizzardMixedCaps-Medium-DzDpjEZG.svg#ExocetBlizzardMixedCaps-Medium") format("svg");
   font-style: normal;
 }
 .font-classic {
