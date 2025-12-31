@@ -4,7 +4,7 @@ import { viteStaticCopy } from 'vite-plugin-static-copy';
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-    base: '/torment-website/',
+    base: '/d2rr-testsite/',
     server: {
         port: 9500,
         strictPort: true,
