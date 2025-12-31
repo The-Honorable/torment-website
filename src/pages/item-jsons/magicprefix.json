@@ -13930,5 +13930,355 @@
             "Orb"
         ],
         "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 12,
+        "MaxLevel": 0,
+        "RequiredLevel": 15,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+1 Random Amazon Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 Random Amazon Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 12,
+        "MaxLevel": 0,
+        "RequiredLevel": 15,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+1 Random Sorceress Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 Random Sorceress Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 12,
+        "MaxLevel": 0,
+        "RequiredLevel": 15,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+1 Random Necromancer Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 Random Necromancer Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 12,
+        "MaxLevel": 0,
+        "RequiredLevel": 15,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+1 Random Paladin Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 Random Paladin Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 12,
+        "MaxLevel": 0,
+        "RequiredLevel": 15,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+1 Random Barbarian Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 Random Barbarian Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 12,
+        "MaxLevel": 0,
+        "RequiredLevel": 15,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+1 Random Druid Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 Random Druid Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 12,
+        "MaxLevel": 0,
+        "RequiredLevel": 15,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+1 Random Assassin Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Supposing",
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
+        "Group": 300,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 Random Assassin Skill",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
+            "Belt",
+            "Large Charm"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
     }
 ]

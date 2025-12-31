@@ -1,7 +1,6 @@
 [
   {
     "Index": 2,
-    "Description": "Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level",
     "Op": 28,
     "Class": "",
     "NumInputs": 2,
@@ -34,7 +33,6 @@
   },
   {
     "Index": 3,
-    "Description": "3 Healing Potions (Any) + 3 Mana Potions (Any) + 1 Standard Gem (Any) -> Full Rejuvenation Potion",
     "Class": "",
     "NumInputs": 7,
     "ResolvedInputsCount": 7,
@@ -72,7 +70,6 @@
   },
   {
     "Index": 4,
-    "Description": "3 Healing Potions (Any) + 3 Mana Potions (Any)  + 1 Chipped Gem (Any) -> Rejuvenation Potion",
     "Class": "",
     "NumInputs": 7,
     "ResolvedInputsCount": 7,
@@ -110,7 +107,6 @@
   },
   {
     "Index": 5,
-    "Description": "3 Rejuvenation Potions -> Full Rejuvenation Potion",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -136,7 +132,6 @@
   },
   {
     "Index": 6,
-    "Description": "6 Perfect Gems (1 of each type) + 1 Magic Amulet -> Prismatic Amulet",
     "Class": "",
     "NumInputs": 7,
     "ResolvedInputsCount": 7,
@@ -201,7 +196,6 @@
   },
   {
     "Index": 7,
-    "Description": "1 Magic Ring + 1 Perfect Ruby + 1 Exploding Potion -> Garnet Ring",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -242,7 +236,6 @@
   },
   {
     "Index": 8,
-    "Description": "1 Magic Ring + 1 Perfect Sapphire + 1 Thawing Potion -> Cobalt Ring",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -283,7 +276,6 @@
   },
   {
     "Index": 9,
-    "Description": "1 Magic Ring + 1 Perfect Topaz + 1 Rejuvenation Potion -> Coral Ring",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -324,7 +316,6 @@
   },
   {
     "Index": 10,
-    "Description": "1 Magic Ring + 1 Standard Emerald + 1 Antidote Potion -> Jade Ring",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -365,7 +356,6 @@
   },
   {
     "Index": 11,
-    "Description": "1 Axe (Any) + 1 Dagger (Any) -> Throwing Axe",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -397,7 +387,6 @@
   },
   {
     "Index": 12,
-    "Description": "1 Spear (Any) + 1 Arrows -> Javelins",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -429,7 +418,6 @@
   },
   {
     "Index": 13,
-    "Description": "3 Magic Rings -> Magic Amulet",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -459,7 +447,6 @@
   },
   {
     "Index": 14,
-    "Description": "3 Magic Amulets -> Magic Ring",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -489,7 +476,6 @@
   },
   {
     "Index": 15,
-    "Description": "3 Standard Gems + 1 Socketed Weapon ->  Socketed Magic Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -530,7 +516,6 @@
   },
   {
     "Index": 16,
-    "Description": "3 Flawless Gems + 1 Magic Weapon -> Socketed Magic Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -571,7 +556,6 @@
   },
   {
     "Index": 17,
-    "Description": "1 Magic Shield + 1 Spiked Club + 2 Skulls (Any) -> Magic Shield of Spikes",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -612,7 +596,6 @@
   },
   {
     "Index": 18,
-    "Description": "4 Healing Potions (Any) + 1 Standard Ruby + 1 Magic Sword -> Sword of the Leech",
     "Class": "",
     "NumInputs": 6,
     "ResolvedInputsCount": 6,
@@ -653,7 +636,6 @@
   },
   {
     "Index": 19,
-    "Description": "1 Diamond (Any) + 1 Kris + 1 Staff + 1 Belt -> Savage Polearm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -698,7 +680,6 @@
   },
   {
     "Index": 20,
-    "Description": "1 Strangling Gas Potion + 1 Healing Potion (Any) -> Antidote Potion",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -728,7 +709,6 @@
   },
   {
     "Index": 21,
-    "Description": "2 Arrows -> Bolts",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -752,7 +732,6 @@
   },
   {
     "Index": 22,
-    "Description": "2 Bolts -> Arrows",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -776,7 +755,6 @@
   },
   {
     "Index": 23,
-    "Description": "2 Chipped Amethysts -> Flawed Amethyst",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -800,7 +778,6 @@
   },
   {
     "Index": 24,
-    "Description": "2 Flawed Amethysts -> Standard Amethyst",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -824,7 +801,6 @@
   },
   {
     "Index": 25,
-    "Description": "2 Standard Amethysts -> Flawless Amethyst",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -848,7 +824,6 @@
   },
   {
     "Index": 26,
-    "Description": "2 Flawless Amethysts -> Perfect Amethyst",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -872,7 +847,6 @@
   },
   {
     "Index": 27,
-    "Description": "2 Chipped Rubies -> Flawed Ruby",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -896,7 +870,6 @@
   },
   {
     "Index": 28,
-    "Description": "2 Flawed Rubies -> Standard Ruby",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -920,7 +893,6 @@
   },
   {
     "Index": 29,
-    "Description": "2 Standard Rubies -> Flawless Ruby",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -944,7 +916,6 @@
   },
   {
     "Index": 30,
-    "Description": "2 Flawless Rubies -> Perfect Ruby",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -968,7 +939,6 @@
   },
   {
     "Index": 31,
-    "Description": "2 Chipped Sapphires -> Flawed Sapphire",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -992,7 +962,6 @@
   },
   {
     "Index": 32,
-    "Description": "2 Flawed Sapphires -> Standard Sapphire",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1016,7 +985,6 @@
   },
   {
     "Index": 33,
-    "Description": "2 Standard Sapphires -> Flawless Sapphire",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1040,7 +1008,6 @@
   },
   {
     "Index": 34,
-    "Description": "2 Flawless Sapphires -> Perfect Sapphire",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1064,7 +1031,6 @@
   },
   {
     "Index": 35,
-    "Description": "2 Chipped Topazes -> Flawed Topaz",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1088,7 +1054,6 @@
   },
   {
     "Index": 36,
-    "Description": "2 Flawed Topazes -> Standard Topaz",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1112,7 +1077,6 @@
   },
   {
     "Index": 37,
-    "Description": "2 Standard Topazes -> Flawless Topaz",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1136,7 +1100,6 @@
   },
   {
     "Index": 38,
-    "Description": "2 Flawless Topazes -> Perfect Topaz",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1160,7 +1123,6 @@
   },
   {
     "Index": 39,
-    "Description": "2 Chipped Emeralds -> Flawed Emerald",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1184,7 +1146,6 @@
   },
   {
     "Index": 40,
-    "Description": "2 Flawed Emeralds -> Standard Emerald",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1208,7 +1169,6 @@
   },
   {
     "Index": 41,
-    "Description": "2 Standard Emeralds -> Flawless Emerald",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1232,7 +1192,6 @@
   },
   {
     "Index": 42,
-    "Description": "2 Flawless Emeralds -> Perfect Emerald",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1256,7 +1215,6 @@
   },
   {
     "Index": 43,
-    "Description": "2 Chipped Diamonds -> Flawed Diamond",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1280,7 +1238,6 @@
   },
   {
     "Index": 44,
-    "Description": "2 Flawed Diamonds -> Standard Diamond",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1304,7 +1261,6 @@
   },
   {
     "Index": 45,
-    "Description": "2 Standard Diamonds -> Flawless Diamond",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1328,7 +1284,6 @@
   },
   {
     "Index": 46,
-    "Description": "2 Flawless Diamonds -> Perfect Diamond",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1352,7 +1307,6 @@
   },
   {
     "Index": 47,
-    "Description": "2 Chipped Skulls -> Flawed Skull",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1376,7 +1330,6 @@
   },
   {
     "Index": 48,
-    "Description": "2 Flawed Skulls -> Standard Skull",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1400,7 +1353,6 @@
   },
   {
     "Index": 49,
-    "Description": "2 Standard Skulls -> Flawless Skull",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1424,7 +1376,6 @@
   },
   {
     "Index": 50,
-    "Description": "2 Flawless Skulls -> Perfect Skull",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1448,7 +1399,6 @@
   },
   {
     "Index": 51,
-    "Description": "2 El Runes -> Eld Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1472,7 +1422,6 @@
   },
   {
     "Index": 52,
-    "Description": "2 Eld Runes -> Tir Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1496,7 +1445,6 @@
   },
   {
     "Index": 53,
-    "Description": "2 Tir Runes -> Nef Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1520,7 +1468,6 @@
   },
   {
     "Index": 54,
-    "Description": "2 Nef Runes -> Eth Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1544,7 +1491,6 @@
   },
   {
     "Index": 55,
-    "Description": "2 Eth Runes -> Ith Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1568,7 +1514,6 @@
   },
   {
     "Index": 56,
-    "Description": "2 Ith Runes -> Tal Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1592,7 +1537,6 @@
   },
   {
     "Index": 57,
-    "Description": "2 Tal Runes -> Ral Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1616,7 +1560,6 @@
   },
   {
     "Index": 58,
-    "Description": "2 Ral Runes -> Ort Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1640,7 +1583,6 @@
   },
   {
     "Index": 59,
-    "Description": "2 Ort Runes -> Thul Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1664,7 +1606,6 @@
   },
   {
     "Index": 60,
-    "Description": "3 Perfect Gems (Any) + 1 Magic Item -> Re-rolled Magic Item",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -1698,7 +1639,6 @@
   },
   {
     "Index": 61,
-    "Description": "6 Perfect Skulls + 1 Rare Item -> 1 Low Quality Rare Item",
     "Class": "",
     "NumInputs": 7,
     "ResolvedInputsCount": 7,
@@ -1732,7 +1672,6 @@
   },
   {
     "Index": 62,
-    "Description": "1 Perfect Skull + 1 Rare Item  -> 1 High Quality Rare Item",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -1766,7 +1705,6 @@
   },
   {
     "Index": 63,
-    "Description": "3 Perfect Skull + 1 Rare Item  -> Add 1 Socket to Rare Item",
     "Class": "",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -1807,7 +1745,6 @@
   },
   {
     "Index": 64,
-    "Description": "1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -1869,7 +1806,6 @@
   },
   {
     "Index": 65,
-    "Description": "1 Magic Chain Boots + 1 Jewel + 1 Ral Rune + 1 Perfect Sapphire -> Hit Power Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -1931,7 +1867,6 @@
   },
   {
     "Index": 66,
-    "Description": "1 Magic Chain Gloves + 1 Jewel + 1 Ort Rune + 1 Perfect Sapphire -> Hit Power Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -1993,7 +1928,6 @@
   },
   {
     "Index": 67,
-    "Description": "1 Magic Heavy Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Sapphire -> Hit Power Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2055,7 +1989,6 @@
   },
   {
     "Index": 68,
-    "Description": "1 Magic Gothic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Sapphire -> Hit Power Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2117,7 +2050,6 @@
   },
   {
     "Index": 69,
-    "Description": "1 Magic Field Plate + 1 Jewel + 1 Nef Rune + 1 Perfect Sapphire -> Hit Power Body",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2179,7 +2111,6 @@
   },
   {
     "Index": 70,
-    "Description": "1 Magic Amulet + 1 Jewel + Thul Rune + 1 Perfect Sapphire -> Hit Power Amulet",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2240,7 +2171,6 @@
   },
   {
     "Index": 71,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Sapphire -> Hit Power Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2301,7 +2231,6 @@
   },
   {
     "Index": 72,
-    "Description": "1 Magic Blunt Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Sapphire -> Hit Power Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2362,7 +2291,6 @@
   },
   {
     "Index": 73,
-    "Description": "1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2424,7 +2352,6 @@
   },
   {
     "Index": 74,
-    "Description": "1 Magic Light Plated Boots + 1 Jewel + 1 Eth Rune + 1 Perfect Ruby -> Blood Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2486,7 +2413,6 @@
   },
   {
     "Index": 75,
-    "Description": "1 Magic Heavy Gloves + 1 Jewel + 1 Nef Rune + 1 Perfect Ruby -> Blood Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2548,7 +2474,6 @@
   },
   {
     "Index": 76,
-    "Description": "1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Ruby -> Blood Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2610,7 +2535,6 @@
   },
   {
     "Index": 77,
-    "Description": "1 Magic Spiked Shield + 1 Jewel + 1 Ith Rune + 1 Perfect Ruby -> Blood Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2672,7 +2596,6 @@
   },
   {
     "Index": 78,
-    "Description": "1 Magic Plate Mail + 1 Jewel + 1 Thul Rune + 1 Perfect Ruby -> Blood Body",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2734,7 +2657,6 @@
   },
   {
     "Index": 79,
-    "Description": "1 Magic Amulet + 1 Jewel + 1 Amn Rune + 1 Perfect Ruby -> Blood Amulet",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2795,7 +2717,6 @@
   },
   {
     "Index": 80,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Sol Rune + 1 Perfect Ruby -> Blood Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2856,7 +2777,6 @@
   },
   {
     "Index": 81,
-    "Description": "1 Magic Axe + 1 Jewel + Ort Rune + 1 Perfect Ruby -> Blood Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2917,7 +2837,6 @@
   },
   {
     "Index": 82,
-    "Description": "1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2979,7 +2898,6 @@
   },
   {
     "Index": 83,
-    "Description": "1 Magic Boots + 1 Jewel + Thul Rune + 1 Perfect Amethyst -> Caster Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3041,7 +2959,6 @@
   },
   {
     "Index": 84,
-    "Description": "1 Magic Leather Gloves + 1 Jewel + Ort Rune + 1 Perfect Amethyst -> Caster Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3103,7 +3020,6 @@
   },
   {
     "Index": 85,
-    "Description": "1 Magic Light Belt + 1 Jewel + Ith Rune + 1 Perfect Amethyst -> Caster Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3165,7 +3081,6 @@
   },
   {
     "Index": 86,
-    "Description": "1 Magic Small Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Amethyst -> Caster Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3227,7 +3142,6 @@
   },
   {
     "Index": 87,
-    "Description": "1 Magic Light Plate + 1 Jewel + 1 Tal Rune + 1 Perfect Amethyst -> Caster Body",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3289,7 +3203,6 @@
   },
   {
     "Index": 88,
-    "Description": "1 Magic Amulet + 1 Jewel + 1 Ral Rune + 1 Perfect Amethyst -> Caster Amulet",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3350,7 +3263,6 @@
   },
   {
     "Index": 89,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Amethyst -> Caster Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3411,7 +3323,6 @@
   },
   {
     "Index": 90,
-    "Description": "1 Magic Rod + 1 Jewel + 1 Tir Rune + 1 Perfect Amethyst -> Caster Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3472,7 +3383,6 @@
   },
   {
     "Index": 91,
-    "Description": "1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3538,7 +3448,6 @@
   },
   {
     "Index": 92,
-    "Description": "1 Magic Plated Boots + 1 Jewel + 1 Ort Rune + 1 Perfect Emerald -> Safety Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3604,7 +3513,6 @@
   },
   {
     "Index": 93,
-    "Description": "1 Magic Gauntlets + 1 Jewel + 1 Ral Rune + 1 Perfect Emerald -> Safety Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3670,7 +3578,6 @@
   },
   {
     "Index": 94,
-    "Description": "1 Magic Sash + 1 Jewel + 1 Tal Rune + 1 Perfect Emerald -> Safety Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3736,7 +3643,6 @@
   },
   {
     "Index": 95,
-    "Description": "1 Magic Kite Shield + 1 Jewel + 1 Nef Rune + 1 Perfect Emerald -> Safety Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3802,7 +3708,6 @@
   },
   {
     "Index": 96,
-    "Description": "1 Magic Breast Plate + 1 Jewel + 1 Eth Rune + 1 Perfect Emerald -> Safety Body",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3868,7 +3773,6 @@
   },
   {
     "Index": 97,
-    "Description": "1 Magic Amulet + 1 Jewel + 1 Thul Rune + 1 Perfect Emerald -> Safety Amulet",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3929,7 +3833,6 @@
   },
   {
     "Index": 98,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Emerald -> Safety Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3990,7 +3893,6 @@
   },
   {
     "Index": 99,
-    "Description": "1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -4051,7 +3953,6 @@
   },
   {
     "Index": 100,
-    "Description": "2 Thul Runes  -> Amn Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4075,7 +3976,6 @@
   },
   {
     "Index": 101,
-    "Description": "2 Amn Runes  -> Sol Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4099,7 +3999,6 @@
   },
   {
     "Index": 102,
-    "Description": "2  Sol Runes  -> Shael Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4123,7 +4022,6 @@
   },
   {
     "Index": 103,
-    "Description": "2 Shael Runes  -> Dol Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4147,7 +4045,6 @@
   },
   {
     "Index": 104,
-    "Description": "2 Dol Runes  -> Hel Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4171,7 +4068,6 @@
   },
   {
     "Index": 105,
-    "Description": "2 Hel Runes  -> Io Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4195,7 +4091,6 @@
   },
   {
     "Index": 106,
-    "Description": "2 Io Runes  -> Lum Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4219,7 +4114,6 @@
   },
   {
     "Index": 107,
-    "Description": "2 Lum Runes  -> Ko Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4243,7 +4137,6 @@
   },
   {
     "Index": 108,
-    "Description": "2 Ko Runes  -> Fal Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4267,7 +4160,6 @@
   },
   {
     "Index": 109,
-    "Description": "2 Fal Runes  -> Lem Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4291,7 +4183,6 @@
   },
   {
     "Index": 110,
-    "Description": "2 Lem Runes  -> Pul Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4315,7 +4206,6 @@
   },
   {
     "Index": 111,
-    "Description": "2 Pul Runes  -> Um Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4339,7 +4229,6 @@
   },
   {
     "Index": 112,
-    "Description": "2 Um Runes  -> Mal Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4363,7 +4252,6 @@
   },
   {
     "Index": 113,
-    "Description": "2 Mal Runes  -> Ist Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4387,7 +4275,6 @@
   },
   {
     "Index": 114,
-    "Description": "2 Ist Runes  -> Gul Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4411,7 +4298,6 @@
   },
   {
     "Index": 115,
-    "Description": "2 Gul Runes  -> Vex Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4435,7 +4321,6 @@
   },
   {
     "Index": 116,
-    "Description": "2 Vex Runes  -> Ohm Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4459,7 +4344,6 @@
   },
   {
     "Index": 117,
-    "Description": "2 Ohm Runes  -> Lo Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4483,7 +4367,6 @@
   },
   {
     "Index": 118,
-    "Description": "2 Lo Runes  -> Sur Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4507,7 +4390,6 @@
   },
   {
     "Index": 119,
-    "Description": "2 Sur Runes  -> Ber Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4531,7 +4413,6 @@
   },
   {
     "Index": 120,
-    "Description": "2 Ber Runes  -> Jah Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4555,7 +4436,6 @@
   },
   {
     "Index": 121,
-    "Description": "2 Jah Runes  -> Cham Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4579,7 +4459,6 @@
   },
   {
     "Index": 122,
-    "Description": "2 Cham Runes  -> Zod Rune",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -4603,7 +4482,6 @@
   },
   {
     "Index": 123,
-    "Description": "1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -4655,7 +4533,6 @@
   },
   {
     "Index": 124,
-    "Description": "1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -4707,7 +4584,6 @@
   },
   {
     "Index": 125,
-    "Description": "1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -4759,7 +4635,6 @@
   },
   {
     "Index": 126,
-    "Description": "1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -4811,7 +4686,6 @@
   },
   {
     "Index": 127,
-    "Description": "1 Eld Rune + 1 Chipped Gem (Any) + 1 Low Quality Weapon -> Normal Weapon",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -4851,7 +4725,6 @@
   },
   {
     "Index": 128,
-    "Description": "1 El Rune + 1 Chipped Gem (Any) + 1 Low Quality Armor -> Normal Armor",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -4891,7 +4764,6 @@
   },
   {
     "Index": 129,
-    "Description": "1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Unique Weapon -> Exceptional Unique Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -4946,7 +4818,6 @@
   },
   {
     "Index": 130,
-    "Description": "1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Unique Armor -> Exceptional Unique Armor",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5001,7 +4872,6 @@
   },
   {
     "Index": 131,
-    "Description": "1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5056,7 +4926,6 @@
   },
   {
     "Index": 132,
-    "Description": "1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Unique Armor -> Elite Unique Armor",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5111,7 +4980,6 @@
   },
   {
     "Index": 133,
-    "Description": "1 Ort Rune + 1 Amn Rune + 1 Perfect Sapphire + 1 Normal Rare Weapon -> Exceptional Rare Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5166,7 +5034,6 @@
   },
   {
     "Index": 134,
-    "Description": "1 Ral Rune + 1 Thul Rune + 1 Perfect Amethyst + 1 Normal Rare Armor -> Exceptional Rare Armor",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5221,7 +5088,6 @@
   },
   {
     "Index": 135,
-    "Description": "1 Fal Rune + 1 Um Rune + 1 Perfect Sapphire + 1 Exceptional Rare Weapon -> Elite Rare Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5276,7 +5142,6 @@
   },
   {
     "Index": 136,
-    "Description": "1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Rare Armor -> Elite Rare Armor",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5331,7 +5196,6 @@
   },
   {
     "Index": 137,
-    "Description": "1 Ort Rune + 1 Weapon -> Fully Repaired Weapon",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -5367,7 +5231,6 @@
   },
   {
     "Index": 138,
-    "Description": "1 Ral Rune + 1 Armor -> Fully Repaired Armor",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -5403,7 +5266,6 @@
   },
   {
     "Index": 139,
-    "Description": "1 Ort Rune + 1 Chipped Gem (Any) + 1 Weapon -> Fully Repaired and Recharged Weapon",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -5446,7 +5308,6 @@
   },
   {
     "Index": 140,
-    "Description": "1 Ral Rune + 1 Flawed Gem (Any) + 1 Armor -> Fully Repaired and Recharged Armor",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -5489,7 +5350,6 @@
   },
   {
     "Index": 141,
-    "Description": "1 Hel Rune + Scroll of Town Portal + 1 Socketed Item -> Clear Sockets on Item",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -5529,7 +5389,6 @@
   },
   {
     "Index": 142,
-    "Description": "3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5570,7 +5429,6 @@
   },
   {
     "Index": 143,
-    "Description": "1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)",
     "Op": 28,
     "Class": "",
     "NumInputs": 3,
@@ -5609,7 +5467,6 @@
   },
   {
     "Index": 144,
-    "Description": "1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)",
     "Op": 28,
     "Class": "",
     "NumInputs": 3,
@@ -5648,7 +5505,6 @@
   },
   {
     "Index": 145,
-    "Description": "1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5703,7 +5559,6 @@
   },
   {
     "Index": 146,
-    "Description": "1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5758,7 +5613,6 @@
   },
   {
     "Index": 147,
-    "Description": "1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5813,7 +5667,6 @@
   },
   {
     "Index": 148,
-    "Description": "1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -5868,7 +5721,6 @@
   },
   {
     "Index": 149,
-    "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Assassin Skill Tab",
     "Class": "Assassin",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -5928,7 +5780,6 @@
   },
   {
     "Index": 150,
-    "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Barbarian Skill Tab",
     "Class": "Barbarian",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -5988,7 +5839,6 @@
   },
   {
     "Index": 151,
-    "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Sorceress Skill Tab",
     "Class": "Sorceress",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -6048,7 +5898,6 @@
   },
   {
     "Index": 152,
-    "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Druid Skill Tab",
     "Class": "Druid",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -6108,7 +5957,6 @@
   },
   {
     "Index": 153,
-    "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Necromancer Skill Tab",
     "Class": "Necromancer",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -6168,7 +6016,6 @@
   },
   {
     "Index": 154,
-    "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Amazon Skill Tab",
     "Class": "Amazon",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -6228,7 +6075,6 @@
   },
   {
     "Index": 155,
-    "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Paladin Skill Tab",
     "Class": "Paladin",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
@@ -6288,7 +6134,6 @@
   },
   {
     "Index": 156,
-    "Description": "1 Twisted Essence of Suffering + 1 Rare Amulet  -> Unique Amulet",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -6296,8 +6141,10 @@
       {
         "Name": "Amulet",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"amu\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"amu,rar\""
       },
       {
         "Name": "Twisted Essence of Suffering",
@@ -6320,7 +6167,6 @@
   },
   {
     "Index": 157,
-    "Description": "1 Twisted Essence of Suffering + 1 Rare Ring  -> Unique Ring",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -6328,8 +6174,10 @@
       {
         "Name": "Ring",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"ring\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"ring,rar\""
       },
       {
         "Name": "Twisted Essence of Suffering",
@@ -6352,27 +6200,28 @@
   },
   {
     "Index": 158,
-    "Description": "1 Twisted Essence of Suffering + 1 Rare Amulet  -> Unique Amulet",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
     "Inputs": [
       {
-        "Name": "Amulet",
+        "Name": "Any Armor",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"amu\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"armo,rar\""
       },
       {
-        "Name": "Scroll of Identify",
+        "Name": "Charged Essense of Hatred",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "isc"
+        "RawToken": "ceh"
       }
     ],
     "Outputs": {
       "A": {
-        "Name": "Return Base Type",
+        "Name": "Any Armor",
         "Quantity": 1,
         "Qualifiers": [
           "Unique Item"
@@ -6384,27 +6233,28 @@
   },
   {
     "Index": 159,
-    "Description": "1 Twisted Essence of Suffering + 1 Rare Ring  -> Unique Ring",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
     "Inputs": [
       {
-        "Name": "Ring",
+        "Name": "Weapon",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"ring\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"weap,rar\""
       },
       {
-        "Name": "Scroll of Identify",
+        "Name": "Charged Essense of Hatred",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "isc"
+        "RawToken": "ceh"
       }
     ],
     "Outputs": {
       "A": {
-        "Name": "Return Base Type",
+        "Name": "Weapon",
         "Quantity": 1,
         "Qualifiers": [
           "Unique Item"
@@ -6416,30 +6266,31 @@
   },
   {
     "Index": 160,
-    "Description": "1 Charged Essence of Hatred + 1 Rare Armor  -> Unique Armor",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
     "Inputs": [
       {
-        "Name": "Any Armor",
+        "Name": "Amulet",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"armo\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"amu,rar\""
       },
       {
-        "Name": "Scroll of Identify",
+        "Name": "Burning Essence of Terror",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "isc"
+        "RawToken": "bet"
       }
     ],
     "Outputs": {
       "A": {
-        "Name": "Any Armor",
+        "Name": "Return Base Type",
         "Quantity": 1,
         "Qualifiers": [
-          "Unique Item"
+          "Set Item"
         ],
         "Properties": []
       }
@@ -6448,30 +6299,31 @@
   },
   {
     "Index": 161,
-    "Description": "1 Charged Essence of Hatred + 1 Rare Weapon  -> Unique Weapon",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
     "Inputs": [
       {
-        "Name": "Weapon",
+        "Name": "Ring",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"weap\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"rin,rar\""
       },
       {
-        "Name": "Scroll of Identify",
+        "Name": "Burning Essence of Terror",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "isc"
+        "RawToken": "bet"
       }
     ],
     "Outputs": {
       "A": {
-        "Name": "Weapon",
+        "Name": "Return Base Type",
         "Quantity": 1,
         "Qualifiers": [
-          "Unique Item"
+          "Set Item"
         ],
         "Properties": []
       }
@@ -6480,7 +6332,6 @@
   },
   {
     "Index": 162,
-    "Description": "1 Charged Essence of Hatred + 1 Rare Armor  -> Unique Armor",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -6488,14 +6339,16 @@
       {
         "Name": "Any Armor",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"armo\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"armo,rar\""
       },
       {
-        "Name": "Charged Essense of Hatred",
+        "Name": "Festering Essence of Destruction",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "ceh"
+        "RawToken": "fed"
       }
     ],
     "Outputs": {
@@ -6503,7 +6356,7 @@
         "Name": "Any Armor",
         "Quantity": 1,
         "Qualifiers": [
-          "Unique Item"
+          "Set Item"
         ],
         "Properties": []
       }
@@ -6512,7 +6365,6 @@
   },
   {
     "Index": 163,
-    "Description": "1 Charged Essence of Hatred + 1 Rare Weapon  -> Unique Weapon",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
@@ -6520,14 +6372,16 @@
       {
         "Name": "Weapon",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"weap\""
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"weap,rar\""
       },
       {
-        "Name": "Charged Essense of Hatred",
+        "Name": "Festering Essence of Destruction",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "ceh"
+        "RawToken": "fed"
       }
     ],
     "Outputs": {
@@ -6535,7 +6389,7 @@
         "Name": "Weapon",
         "Quantity": 1,
         "Qualifiers": [
-          "Unique Item"
+          "Set Item"
         ],
         "Properties": []
       }
@@ -6544,202 +6398,107 @@
   },
   {
     "Index": 164,
-    "Description": "1 Burning Essence of Terror + Rare Amulet -> Set Amulet",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
     "Inputs": [
       {
-        "Name": "Amulet",
+        "Name": "Any Armor",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"amu\""
+        "Qualifiers": [
+          "Not a Runeword"
+        ],
+        "RawToken": "\"armo,nru\""
       },
       {
-        "Name": "Burning Essence of Terror",
+        "Name": "Malus of Socketing",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "bet"
+        "RawToken": "mos"
       }
     ],
     "Outputs": {
       "A": {
-        "Name": "Amulet",
+        "Name": "Return Updated Item",
         "Quantity": 1,
-        "Qualifiers": [
-          "Set Item"
-        ],
-        "Properties": []
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "Socketed (1-4)",
+            "Index": 0
+          }
+        ]
       }
     },
-    "Notes": []
+    "Notes": [
+      "Socket Punch Recipe"
+    ]
   },
   {
     "Index": 165,
-    "Description": "1 Burning Essence of Terror + Rare Ring -> Set Ring",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
     "Inputs": [
       {
-        "Name": "Ring",
+        "Name": "Weapon",
         "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"rin\""
+        "Qualifiers": [
+          "Not a Runeword"
+        ],
+        "RawToken": "\"weap,nru\""
       },
       {
-        "Name": "Burning Essence of Terror",
+        "Name": "Malus of Socketing",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "bet"
+        "RawToken": "mos"
       }
     ],
     "Outputs": {
       "A": {
-        "Name": "Ring",
+        "Name": "Return Updated Item",
         "Quantity": 1,
-        "Qualifiers": [
-          "Set Item"
-        ],
-        "Properties": []
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "Socketed (1-6)",
+            "Index": 0
+          }
+        ]
       }
     },
-    "Notes": []
+    "Notes": [
+      "Socket Punch Recipe"
+    ]
   },
   {
     "Index": 166,
-    "Description": "1 Festering Essence of Destruction + Rare Armor -> Set Armor",
     "Class": "",
     "NumInputs": 2,
     "ResolvedInputsCount": 2,
     "Inputs": [
       {
-        "Name": "Any Armor",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"armo\""
-      },
-      {
-        "Name": "Festering Essence of Destruction",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "fed"
-      }
-    ],
-    "Outputs": {
-      "A": {
-        "Name": "Any Armor",
+        "Name": "Any Item",
         "Quantity": 1,
         "Qualifiers": [
-          "Set Item"
+          "Item with Sockets"
         ],
-        "Properties": []
-      }
-    },
-    "Notes": []
-  },
-  {
-    "Index": 167,
-    "Description": "1 Festering Essence of Destruction + Rare Weapon -> Set Weapon",
-    "Class": "",
-    "NumInputs": 2,
-    "ResolvedInputsCount": 2,
-    "Inputs": [
-      {
-        "Name": "Weapon",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "\"weap\""
+        "RawToken": "\"any,sock\""
       },
       {
-        "Name": "Festering Essence of Destruction",
+        "Name": "Malus of UnSocketing",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "fed"
+        "RawToken": "mou"
       }
     ],
     "Outputs": {
       "A": {
-        "Name": "Weapon",
+        "Name": "Return Updated Item",
         "Quantity": 1,
         "Qualifiers": [
-          "Set Item"
-        ],
-        "Properties": []
-      }
-    },
-    "Notes": []
-  },
-  {
-    "Index": 168,
-    "Description": "spawn1",
-    "Class": "",
-    "NumInputs": 1,
-    "ResolvedInputsCount": 1,
-    "Inputs": [
-      {
-        "Name": "Scroll of Town Portal",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "tsc"
-      }
-    ],
-    "Outputs": {
-      "A": {
-        "Name": "Twisted Essence of Suffering",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "Properties": []
-      },
-      "B": {
-        "Name": "Charged Essense of Hatred",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "Properties": []
-      },
-      "C": {
-        "Name": "Grand Charm",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Magic Item"
-        ],
-        "Properties": []
-      }
-    },
-    "Notes": []
-  },
-  {
-    "Index": 169,
-    "Description": "spawn2",
-    "Class": "",
-    "NumInputs": 1,
-    "ResolvedInputsCount": 1,
-    "Inputs": [
-      {
-        "Name": "Scroll of Identify",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "isc"
-      }
-    ],
-    "Outputs": {
-      "A": {
-        "Name": "Burning Essence of Terror",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "Properties": []
-      },
-      "B": {
-        "Name": "Festering Essence of Destruction",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "Properties": []
-      },
-      "C": {
-        "Name": "Grand Charm",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Magic Item"
+          "Remove Socketed (Return)"
         ],
         "Properties": []
       }
