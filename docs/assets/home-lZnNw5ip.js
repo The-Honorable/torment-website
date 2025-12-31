@@ -1,6 +1,6 @@
-import { C as CustomElement, c as customElement } from "./index-DlrjFR0v.js";
+import { C as CustomElement, c as customElement } from "./index-DYX1g6p1.js";
 const name = "home";
-const template = '<template>\n    <div class="container mx-auto mt-5">\n        <div class="max-w-5xl mx-auto text-lg type-text p-5">\n           Welcome to Torment. My mod I created to be a harder vanilla, but rebalance and add many more items, monsters, and suprises along the way.\n The mod is very work in progress, and at the early stages of development. There will be some bugs, and some things that are not fully fleshed out. But I hope you enjoy the ride as I continue to develop it.\n        </div>\n    </div>\n</template>';
+const template = '<template>\n    <div class="container mx-auto mt-5">\n        <div class="max-w-5xl mx-auto text-lg type-text p-5">\n            Welcome to Torment. My mod I created to be a harder vanilla, but rebalance and add many more items, monsters, and suprises along the way.\n        </div>\n        <div class="max-w-5xl mx-auto text-lg type-text p-5">\n            The mod is very work in progress, and at the early stages of development. There will be some bugs, and some things that are not fully fleshed out. But I hope you enjoy the ride as I continue to develop it.\n        </div>\n    </div>\n</template>';
 const dependencies = [];
 const bindables = {};
 let _e;

@@ -3184,10 +3184,6 @@ body {
     color: #9ca3af;
   }
 
-  .text-purple-500 {
-    color: #9061f9;
-  }
-
   .text-white {
     color: #fff;
   }
@@ -3325,10 +3321,6 @@ body {
 
     .hover\:bg-gray-700:hover {
       background-color: #374151;
-    }
-
-    .hover\:text-purple-400:hover {
-      color: #ac94fa;
     }
   }
 

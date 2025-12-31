@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/cube-recipes-2S7hyrHr.js","assets/debounce-DlM2vs2L.js","assets/filter-helpers-018iK1be.js","assets/uniques-BEcVqnBA.js","assets/item-type-filters-DhJkOFOx.js","assets/character-classes-LLAbBzNg.js","assets/damage-types-Du-j2Hbt.js","assets/uniques-Gzdpaqtq.js","assets/sets-DKIF3Nkp.js","assets/sets-C2BmTZpX.js","assets/runewords-WhMd1zXd.js","assets/runewords-B5RPaBdT.js","assets/grail-DDDBTxvt.js","assets/bases-BbXlLkHV.js","assets/affixes-DIWt--ce.js"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/cube-recipes-5P4En3q3.js","assets/debounce-DlM2vs2L.js","assets/filter-helpers-018iK1be.js","assets/uniques-w6tImxUV.js","assets/item-type-filters-DhJkOFOx.js","assets/character-classes-LLAbBzNg.js","assets/damage-types-Du-j2Hbt.js","assets/uniques-Bl_NKo60.js","assets/sets-CaD2sZ2f.js","assets/sets-D-TaYCCf.js","assets/runewords-BYg712O6.js","assets/runewords-DhXiI2AK.js","assets/grail-lvWOKJNy.js","assets/bases-BU66foGv.js","assets/affixes-DG9JFZVg.js"])))=>i.map(i=>d[i]);
 (function polyfill() {
   const relList = document.createElement("link").relList;
   if (relList && relList.supports && relList.supports("modulepreload")) return;
@@ -25907,7 +25907,6 @@ const template = `<nav class="bg-gray-800 fixed w-full z-20 top-0 left-0 shadow-
                 <span class="sr-only">Open main menu</span>
                 <span class="mso">menu</span>
             </button>
-
         </div>
 
         <div class="w-auto hidden fixed right-5 top-15.75 items-center justify-between lg:static lg:flex lg:w-auto lg:ms-0 lg:order-1"
@@ -26019,42 +26018,42 @@ _App_decorators = [customElement(__au2ViewDef), route({
   routes: [
     {
       path: "",
-      component: __vitePreload(() => import("./home-Dn_85C5n.js"), true ? [] : void 0),
+      component: __vitePreload(() => import("./home-lZnNw5ip.js"), true ? [] : void 0),
       title: "Home"
     },
     {
       path: "cube-recipes",
-      component: __vitePreload(() => import("./cube-recipes-2S7hyrHr.js"), true ? __vite__mapDeps([0,1,2]) : void 0),
+      component: __vitePreload(() => import("./cube-recipes-5P4En3q3.js"), true ? __vite__mapDeps([0,1,2]) : void 0),
       title: "Cube Recipes"
     },
     {
       path: "uniques",
-      component: __vitePreload(() => import("./uniques-BEcVqnBA.js"), true ? __vite__mapDeps([3,4,5,6,1,2,7]) : void 0),
+      component: __vitePreload(() => import("./uniques-w6tImxUV.js"), true ? __vite__mapDeps([3,4,5,6,1,2,7]) : void 0),
       title: "Uniques"
     },
     {
       path: "sets",
-      component: __vitePreload(() => import("./sets-DKIF3Nkp.js"), true ? __vite__mapDeps([8,4,5,6,1,2,9]) : void 0),
+      component: __vitePreload(() => import("./sets-CaD2sZ2f.js"), true ? __vite__mapDeps([8,4,5,6,1,2,9]) : void 0),
       title: "Sets"
     },
     {
       path: "runewords",
-      component: __vitePreload(() => import("./runewords-WhMd1zXd.js"), true ? __vite__mapDeps([10,4,1,2,11]) : void 0),
+      component: __vitePreload(() => import("./runewords-BYg712O6.js"), true ? __vite__mapDeps([10,4,1,2,11]) : void 0),
       title: "Runewords"
     },
     {
       path: "grail",
-      component: __vitePreload(() => import("./grail-DDDBTxvt.js"), true ? __vite__mapDeps([12,4,5,6,1,2,11,9,7]) : void 0),
+      component: __vitePreload(() => import("./grail-lvWOKJNy.js"), true ? __vite__mapDeps([12,4,5,6,1,2,11,9,7]) : void 0),
       title: "Holy Grail"
     },
     {
       path: "bases",
-      component: __vitePreload(() => import("./bases-BbXlLkHV.js"), true ? __vite__mapDeps([13,4,6,2]) : void 0),
+      component: __vitePreload(() => import("./bases-BU66foGv.js"), true ? __vite__mapDeps([13,4,6,2]) : void 0),
       title: "Bases"
     },
     {
       path: "affixes",
-      component: __vitePreload(() => import("./affixes-DIWt--ce.js"), true ? __vite__mapDeps([14,4,1,2]) : void 0),
+      component: __vitePreload(() => import("./affixes-DG9JFZVg.js"), true ? __vite__mapDeps([14,4,1,2]) : void 0),
       title: "Affixes"
     }
   ]
