@@ -25804,7 +25804,7 @@ function syncParamsToUrl(params, push = true) {
 }
 const scriptRel = "modulepreload";
 const assetsURL = function(dep) {
-  return "/d2rr-testsite/" + dep;
+  return "/torment-website/" + dep;
 };
 const seen = {};
 const __vitePreload = function preload(baseModule, deps, importerUrl) {
