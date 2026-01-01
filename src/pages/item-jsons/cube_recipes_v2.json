@@ -6504,5 +6504,133 @@
       }
     },
     "Notes": []
+  },
+  {
+    "Index": 167,
+    "Class": "",
+    "NumInputs": 3,
+    "ResolvedInputsCount": 3,
+    "Inputs": [
+      {
+        "Name": "Small Charm",
+        "Quantity": 3,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"cm1,mag,qty=3\""
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Small Charm",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": [
+      "Reroll Item Recipe"
+    ]
+  },
+  {
+    "Index": 168,
+    "Class": "",
+    "NumInputs": 3,
+    "ResolvedInputsCount": 3,
+    "Inputs": [
+      {
+        "Name": "Large Charm",
+        "Quantity": 3,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"cm2,mag,qty=3\""
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Large Charm",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": [
+      "Reroll Item Recipe"
+    ]
+  },
+  {
+    "Index": 169,
+    "Class": "",
+    "NumInputs": 3,
+    "ResolvedInputsCount": 3,
+    "Inputs": [
+      {
+        "Name": "Grand Charm",
+        "Quantity": 3,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"cm3,mag,qty=3\""
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Grand Charm",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": [
+      "Reroll Item Recipe"
+    ]
+  },
+  {
+    "Index": 170,
+    "Class": "",
+    "NumInputs": 4,
+    "ResolvedInputsCount": 4,
+    "Inputs": [
+      {
+        "Name": "Ral Rune",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "r08"
+      },
+      {
+        "Name": "Tal Rune",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "r07"
+      },
+      {
+        "Name": "Ort Rune",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "r09"
+      },
+      {
+        "Name": "Ring",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "ring"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Leap of Faith",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": []
+      }
+    },
+    "Notes": []
   }
 ]

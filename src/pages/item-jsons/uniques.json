@@ -856,14 +856,31 @@
     {
         "Type": "Amulet",
         "Vanilla": "N",
-        "Name": "Hellfire Ring",
-        "Index": "tbd",
+        "Name": "Cain\u2019s Fortune",
+        "Index": "Cains Fortune",
         "Enabled": false,
         "Rarity": 3,
         "ItemLevel": 1,
         "RequiredLevel": 5,
         "Code": "amu",
-        "Properties": [],
+        "Properties": [
+            {
+                "PropertyString": "+10% Faster Run/Walk",
+                "Index": 0
+            },
+            {
+                "PropertyString": "5% Mana stolen per hit",
+                "Index": 3
+            },
+            {
+                "PropertyString": "50% Extra Gold from Monsters",
+                "Index": 2
+            },
+            {
+                "PropertyString": "25% Better Chance of Getting Magic Items",
+                "Index": 1
+            }
+        ],
         "DamageArmorEnhanced": false,
         "Equipment": {
             "EquipmentType": 2,
@@ -1617,6 +1634,10 @@
             {
                 "PropertyString": "+40 to Attack Rating",
                 "Index": 5
+            },
+            {
+                "PropertyString": "5% Mana stolen per hit",
+                "Index": 6
             },
             {
                 "PropertyString": "+25% Deadly Strike",
@@ -5179,14 +5200,31 @@
     {
         "Type": "Amulet",
         "Vanilla": "N",
-        "Name": "Hellfire Ring",
-        "Index": "tbd",
+        "Name": "Chains of the Desert",
+        "Index": "Chains of the Desert",
         "Enabled": false,
         "Rarity": 3,
         "ItemLevel": 12,
         "RequiredLevel": 20,
         "Code": "amu",
-        "Properties": [],
+        "Properties": [
+            {
+                "PropertyString": "+15% Faster Run/Walk",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+50% Damage to Undead",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+10 to Strength",
+                "Index": 3
+            },
+            {
+                "PropertyString": "50% Extra Gold from Monsters",
+                "Index": 1
+            }
+        ],
         "DamageArmorEnhanced": false,
         "Equipment": {
             "EquipmentType": 2,
@@ -6537,6 +6575,36 @@
             "RequiredStrength": "0",
             "RequiredDexterity": "57",
             "Durability": 10,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Ring",
+        "Vanilla": "N",
+        "Name": "Leap of Faith",
+        "Index": "Leap of Faith",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 111,
+        "RequiredLevel": 25,
+        "Code": "rin",
+        "Properties": [
+            {
+                "PropertyString": "+1 to Blink (oskill)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "-4 to Light Radius",
+                "Index": 1
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Ring",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
             "RequiredClass": ""
         }
     },
@@ -16511,14 +16579,39 @@
     {
         "Type": "Amulet",
         "Vanilla": "N",
-        "Name": "Hellfire Ring",
-        "Index": "tbd",
+        "Name": "The Sewers\u2019 Deception",
+        "Index": "The Sewers Deception",
         "Enabled": false,
         "Rarity": 3,
         "ItemLevel": 47,
         "RequiredLevel": 50,
         "Code": "amu",
-        "Properties": [],
+        "Properties": [
+            {
+                "PropertyString": "poisonskill",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+10% Increased Attack Speed",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+10% Faster Cast Rate",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+10% to Poison Skill Damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Lightning Resist -20%",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Poison Resist +50%",
+                "Index": 2
+            }
+        ],
         "DamageArmorEnhanced": false,
         "Equipment": {
             "EquipmentType": 2,
@@ -18605,7 +18698,7 @@
         "Name": "Gheeds Gamble",
         "Index": "Gheeds Gamble",
         "Enabled": true,
-        "Rarity": 3,
+        "Rarity": 7,
         "ItemLevel": 60,
         "RequiredLevel": 60,
         "Code": "rin",
@@ -18652,14 +18745,39 @@
     {
         "Type": "Amulet",
         "Vanilla": "N",
-        "Name": "Hellfire Ring",
-        "Index": "tbd",
+        "Name": "Travincal\u2019s Array",
+        "Index": "Travincals Array",
         "Enabled": false,
         "Rarity": 3,
         "ItemLevel": 60,
         "RequiredLevel": 60,
         "Code": "amu",
-        "Properties": [],
+        "Properties": [
+            {
+                "PropertyString": "+6 to Max Hydras",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+2 to Fire Skills",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+10% Faster Cast Rate",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+5% to Maximum Fire Resist",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Fire Resist -50%",
+                "Index": 2
+            },
+            {
+                "PropertyString": "All Resistances +15",
+                "Index": 3
+            }
+        ],
         "DamageArmorEnhanced": false,
         "Equipment": {
             "EquipmentType": 2,
@@ -26411,7 +26529,7 @@
         "Index": "Hellfire Ring",
         "Enabled": true,
         "Rarity": 2,
-        "ItemLevel": 70,
+        "ItemLevel": 111,
         "RequiredLevel": 80,
         "Code": "rin",
         "Properties": [
@@ -26434,6 +26552,10 @@
             {
                 "PropertyString": "All Resistances +10-15",
                 "Index": 4
+            },
+            {
+                "PropertyString": "+1-2 to Light Radius",
+                "Index": 5
             }
         ],
         "DamageArmorEnhanced": false,
@@ -26453,29 +26575,33 @@
         "Index": "Hellfire Amulet",
         "Enabled": true,
         "Rarity": 2,
-        "ItemLevel": 70,
+        "ItemLevel": 111,
         "RequiredLevel": 80,
         "Code": "amu",
         "Properties": [
             {
-                "PropertyString": "+3 to (Random Class) Skill Levels",
+                "PropertyString": "+4 to (Random Class) Skill Levels",
                 "Index": 0
             },
             {
-                "PropertyString": "+10-20% Increased Attack Speed",
+                "PropertyString": "+15-25% Increased Attack Speed",
                 "Index": 2
             },
             {
-                "PropertyString": "+10-20% Faster Cast Rate",
+                "PropertyString": "+15-25% Faster Cast Rate",
                 "Index": 1
             },
             {
-                "PropertyString": "+10-20 to all Attributes",
+                "PropertyString": "+15-25 to all Attributes",
                 "Index": 3
             },
             {
-                "PropertyString": "All Resistances +10-20",
+                "PropertyString": "All Resistances +15-25",
                 "Index": 4
+            },
+            {
+                "PropertyString": "+1-4 to Light Radius",
+                "Index": 5
             }
         ],
         "DamageArmorEnhanced": false,
