@@ -8,11 +8,11 @@
         overflow-y: scroll;
     }
 
-    /* Themed scrollbars (track uses bg-zinc-900 + border-zinc-600; thumb/buttons reversed) */
+    /* Themed scrollbars (track uses bg-[#2c0a0a] + border-amber-600; thumb/buttons reversed) */
     /* Firefox */
     :root {
         /* thumb color, track color */
-        scrollbar-color: #4b5563 #111827; /* gray-600 thumb on gray-900 track */
+        scrollbar-color: #2c0a0a #2c0a0a; /* red-950 thumb on red-950 track */
         scrollbar-width: thin;
     }
 
@@ -24,27 +24,27 @@
     }
 
     *::-webkit-scrollbar-track {
-        background-color: #111827; /* gray-900 */
-        border: 1px solid #4b5563; /* gray-600 */
+        background-color: #2c0a0a; /* red-950 */
+        border: 1px solid #d97706; /* amber-600 */
     }
 
     *::-webkit-scrollbar-thumb {
-        background-color: #4b5563; /* gray-600 */
-        border: 1px solid #111827; /* gray-900 */
+        background-color: #2c0a0a; /* red-950 */
+        border: 1px solid #78350f; /* amber-900 */
         border-radius: 9999px; /* pill */
         background-clip: padding-box;
     }
 
     /* Optional: scrollbar corner when both bars are visible */
     *::-webkit-scrollbar-corner {
-        background-color: #111827; /* gray-900 */
-        border: 1px solid #4b5563; /* gray-600 */
+        background-color: #2c0a0a; /* red-950 */
+        border: 1px solid #d97706; /* amber-600 */
     }
 
     /* Scrollbar buttons (arrows) — many browsers hide these, but style for when shown */
     *::-webkit-scrollbar-button {
-        background-color: #4b5563; /* gray-600 */
-        border: 1px solid #111827; /* gray-900 */
+        background-color: #2c0a0a; /* red-950 */
+        border: 1px solid #78350f; /* amber-900 */
         width: 12px;
         height: 12px;
     }
@@ -71,70 +71,70 @@
 /* Base select style for floating label. Use: class="select-base peer" */
 @utility select-base {
     @apply w-full z-0 ring-0 outline-none
-    bg-zinc-800 border border-zinc-600 text-base type-text px-3 py-2;
+    bg-[#2c0a0a] border border-amber-600 text-base type-text px-3 py-2;
     /* So I can make differences if required. */
     &:hover {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     &:disabled {
-        @apply ring-0 bg-zinc-900 border-zinc-700;
+        @apply ring-0 bg-[#2c0a0a] border-amber-700;
     }
 
     &:focus {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 }
 
 /* Base select style for floating label next to exact button. Use: class="select-base-exact peer" */
 @utility select-base-exact {
     @apply w-full border border-r-0 z-0 ring-0 outline-none
-    bg-zinc-800 border-zinc-600 text-base type-text px-3 py-2;
+    bg-[#2c0a0a] border-amber-600 text-base type-text px-3 py-2;
     /* So I can make differences if required. */
     &:hover {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     &:disabled {
-        @apply ring-0 bg-zinc-900 border-zinc-700;
+        @apply ring-0 bg-[#2c0a0a] border-amber-700;
     }
 
     &:focus {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 }
 
 /* Exact toggle button used alongside select-base-exact Use: class="exact-button" */
 @utility exact-button {
-    @apply flex items-center px-3 py-2 bg-zinc-800 gap-1 text-base type-text
-    border border-zinc-600;
+    @apply flex items-center px-3 py-2 bg-[#2c0a0a] gap-1 text-base type-text
+    border border-amber-600;
 
     /* Hover shows a subtle focus ring */
     &:hover {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Keyboard focus should also show the subtle ring */
     &:focus,
     &:focus-visible {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Active state when toggled on */
     &[aria-pressed="true"] {
-        @apply ring ring-zinc-400;
+        @apply ring ring-amber-400;
     }
 
     /* When toggled and hovered/focused, the subtle ring should override */
     &[aria-pressed="true"]:hover,
     &[aria-pressed="true"]:focus,
     &[aria-pressed="true"]:focus-visible {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Indicator chip inside the button */
     .exact-indicator {
-        @apply h-2 w-3 bg-zinc-900 border border-zinc-600;
+        @apply h-2 w-3 bg-black border border-amber-600;
     }
 
     /* Indicator color when active */
@@ -148,7 +148,7 @@
     @apply pointer-events-none outline-none z-10 ml-1 origin-left
     absolute left-2 top-1/2 -translate-y-1/2
     transform transition-all duration-200
-    bg-zinc-800 text-base type-text;
+    bg-[#2c0a0a] text-base type-text;
 }
 
 @layer utilities {
@@ -169,7 +169,7 @@
     }
 
     .peer:disabled ~ .floating-label {
-        @apply bg-zinc-900 text-zinc-500;
+        @apply bg-[#2c0a0a] text-red-500;
     }
 
     /* MSO Float compatibility */
@@ -182,33 +182,33 @@
     /* Inputs: subtle ring on hover/focus, stronger ring when value present (placeholder not shown) */
     input.peer:hover:not(:disabled),
     input.peer:focus:not(:disabled) {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Lower specificity so :focus can override */
     :where(input.peer:not(:placeholder-shown)):not(:disabled) {
-        @apply ring ring-zinc-400;
+        @apply ring ring-amber-400;
     }
 
     /* Focus should override the filled state */
     input.peer:focus:not(:disabled) {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Selects: subtle ring on hover/focus, stronger ring when a non-empty option is selected */
     select.peer:hover:not(:disabled),
     select.peer:focus:not(:disabled) {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Lower specificity so :focus can override */
     :where(select.peer:has(option:checked:not([value=""]))):not(:disabled) {
-        @apply ring ring-zinc-400;
+        @apply ring ring-amber-400;
     }
 
     /* Focus should override the selected state */
     select.peer:focus:not(:disabled) {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 }
 
@@ -222,50 +222,50 @@
     font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
     -webkit-font-feature-settings: 'liga';
     @apply absolute inset-y-0 end-0 flex items-center pointer-events-none
-    px-3 py-2 border-l border-zinc-600 text-base base-text;
+    px-3 py-2 border-l border-amber-600 text-base base-text;
 }
 
 /* Base button style use: class="button-base" */
 @utility button-base {
     @apply w-full px-3 py-2 border cursor-pointer text-base
-    border-red-600 text-red-600 bg-zinc-800;
+    border-red-600 text-red-600 bg-black;
 
     &:hover {
-        @apply ring ring-zinc-200 type-text bg-red-800;
+        @apply ring ring-amber-200 type-text bg-red-800;
     }
 }
 
 /* Vanilla toggle button (stand-alone) */
 @utility vanilla-button {
-    @apply w-full flex items-center justify-between px-3 py-2 bg-zinc-800 gap-1 text-base type-text
-    border border-zinc-600;
+    @apply w-full flex items-center justify-between px-3 py-2 bg-[#2c0a0a] gap-1 text-base type-text
+    border border-amber-600;
 
     /* Hover shows a subtle focus ring */
     &:hover {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Keyboard focus should also show the subtle ring */
     &:focus,
     &:focus-visible {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Active state when toggled on */
     &[aria-pressed="true"] {
-        @apply ring ring-zinc-400;
+        @apply ring ring-amber-400;
     }
 
     /* When toggled and hovered/focused, the subtle ring should override */
     &[aria-pressed="true"]:hover,
     &[aria-pressed="true"]:focus,
     &[aria-pressed="true"]:focus-visible {
-        @apply ring ring-zinc-200;
+        @apply ring ring-amber-200;
     }
 
     /* Indicator chip inside the button */
     .vanilla-indicator {
-        @apply h-2 w-3 bg-zinc-900 border border-zinc-600;
+        @apply h-2 w-3 bg-black border border-amber-600;
     }
 
     /* Indicator color when active */
@@ -276,18 +276,18 @@
 
 /* Reusable toggle switch track (used in grail.html) */
 .grail-toggle {
-    @apply relative inline-block w-9 h-5 border bg-zinc-800 border-zinc-600 hover:border-zinc-300 type-text;
+    @apply relative inline-block w-9 h-5 border bg-[#2c0a0a] border-amber-600 hover:border-amber-300 type-text;
 }
 
 /* Knob */
 .grail-toggle::after {
     content: '';
-    @apply absolute top-1/2 -translate-y-1/2 left-0.5 h-4 w-4 border border-zinc-600 hover:border-zinc-300 bg-current transition duration-200;
+    @apply absolute top-1/2 -translate-y-1/2 left-0.5 h-4 w-4 border border-amber-600 hover:border-amber-300 bg-current transition duration-200;
 }
 
 /* State via peer (adjacent input) */
 .peer:checked + .grail-toggle {
-    @apply bg-lime-500 border-zinc-400;
+    @apply bg-lime-500 border-amber-400;
 }
 
 .peer:checked + .grail-toggle::after {
@@ -296,7 +296,7 @@
 
 /* A11y/focus/disabled */
 .peer:focus-visible + .grail-toggle {
-    @apply ring ring-zinc-300;
+    @apply ring ring-amber-300;
 }
 
 .peer:disabled + .grail-toggle {
@@ -314,7 +314,7 @@
 }
 
 .card-box {
-    @apply bg-zinc-800 border border-zinc-600 p-2
+    @apply bg-[#2c0a0a] border border-amber-600 p-2
 }
 
 /* Use on card repeat.for loops to help with window freezing on resize */
@@ -327,8 +327,8 @@
 /* Mobile Information Button Class (shows up to the right of the filters at 1024 or less */
 .m-info-button {
     @apply lg:hidden inline-flex items-center self-center ml-2 p-3
-    bg-zinc-800 border border-zinc-600
-    aria-expanded:ring aria-expanded:ring-zinc-200
+    bg-[#2c0a0a] border border-amber-600
+    aria-expanded:ring aria-expanded:ring-amber-200
     text-base type-text
 }
 
@@ -336,7 +336,7 @@
 
 @utility tooltip-base {
     @apply absolute z-50 min-w-3xs max-w-xl px-3 py-2
-    bg-zinc-900 border border-zinc-600 text-base type-text shadow-sm;
+    bg-[#2c0a0a] border border-amber-600 text-base type-text shadow-sm;
 }
 
 /* Tooltip Hidden state */
@@ -350,16 +350,16 @@
 
 /* Inline info panel (mobile) */
 @utility info-panel-base {
-    @apply block w-full px-3 py-2 bg-zinc-950 border border-zinc-600 text-base type-text;
+    @apply block w-full px-3 py-2 bg-[#2c0a0a] border border-amber-600 text-base type-text;
 }
 
 /* Text Colors repeatedly used */
 .link-text {
-    @apply text-zinc-50
+    @apply text-white
 }
 
 .link-text:hover {
-    @apply unique-text
+    @apply text-amber-600
 
 }
 
@@ -368,7 +368,7 @@
 }
 
 @utility type-text {
-    @apply text-zinc-50
+    @apply text-white
 }
 
 .set-text {
@@ -380,7 +380,7 @@
 }
 
 @utility base-text {
-    @apply text-zinc-400
+    @apply text-white
 }
 
 .prop-text {

@@ -1,4 +1,4 @@
-<nav class="bg-zinc-800 fixed w-full z-20 top-0 left-0 shadow-xl border-b border-zinc-600 h-16">
+<nav class="bg-[#2c0a0a] fixed w-full z-20 top-0 left-0 shadow-xl border-b border-amber-600 h-16">
     <div class="w-full h-16 px-4 flex flex-nowrap items-center justify-between mx-auto">
 
         <a href="./" class="text-xl link-text truncate">
@@ -22,7 +22,7 @@
                 </button>
                 <!-- Dropdown panel -->
                 <div if.bind="fontMenuOpen"
-                     class="fixed right-5 top-15.75 min-w-70 z-30 bg-zinc-800 border border-zinc-600 rounded-b-lg shadow-md overflow-hidden"
+                     class="fixed right-5 top-15.75 min-w-70 z-30 bg-[#2c0a0a] border border-amber-600 rounded-b-lg shadow-md overflow-hidden"
                      role="menu"
                      keydown.trigger="event.key === 'Escape' && closeFontMenu()">
                     <ul class="py-1">
@@ -52,7 +52,7 @@
 
         <div class="w-auto hidden fixed right-5 top-15.75 items-center justify-between lg:static lg:flex lg:w-auto lg:ms-0 lg:order-1"
              id="navbar-sticky">
-            <ul class="flex flex-col gap-4 p-4 border border-zinc-600 bg-zinc-800 rounded-b-lg lg:flex-row lg:gap-6 lg:p-0 lg:border-0 lg:bg-transparent">
+            <ul class="flex flex-col gap-4 p-4 border border-amber-600 bg-[#2c0a0a] rounded-b-lg lg:flex-row lg:gap-6 lg:p-0 lg:border-0 lg:bg-transparent">
                 <li>
                     <a href="./bases" class="block text-lg link-text" aria-current="page"
                        click.trigger="closeMobileMenu()">Bases</a>
@@ -98,7 +98,7 @@
 <button type="button"
         class="min-w-10 min-h-10 m-auto flex items-center justify-center text-2xl type-text
         fixed bottom-2 right-2 z-50 ring-0 ring-offset-0 rounded-full shadow-md
-         bg-zinc-800 border border-zinc-600 hover:bg-zinc-700 hover:border-zinc-400"
+         bg-[#2c0a0a] border border-amber-600 hover:bg-[#2c0a0a] hover:border-amber-400"
         aria-label="Back to top" click.trigger="scrollToTop()" if.bind="showBackToTop">
     <span class="mso" aria-hidden="true">arrow_upward</span>
     <span class="sr-only">Top</span>
