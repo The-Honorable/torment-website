@@ -3342,15 +3342,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -3360,9 +3351,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -3407,15 +3407,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -3425,9 +3416,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -3472,15 +3472,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -3490,9 +3481,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -3537,15 +3537,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -3555,9 +3546,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -3602,15 +3602,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -3620,9 +3611,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -5857,15 +5857,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -5875,9 +5866,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -5922,15 +5922,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -5940,9 +5931,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -5987,15 +5987,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -6005,9 +5996,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -6052,15 +6052,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -6070,9 +6061,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -6117,15 +6117,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -6135,9 +6126,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -7022,15 +7022,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -7040,9 +7031,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -7087,15 +7087,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -7105,9 +7096,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -7152,15 +7152,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -7170,9 +7161,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -7217,15 +7217,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -7235,9 +7226,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"
@@ -7282,15 +7282,6 @@
                 ]
             },
             {
-                "Name": "of Venom",
-                "Level": 15,
-                "RequiredLevel": 11,
-                "PropertyStrings": [
-                    "+4-6% to Poison Skill Damage",
-                    "-4-6% to Enemy Poison Resistance"
-                ]
-            },
-            {
                 "Name": "of Pestilence",
                 "Level": 25,
                 "RequiredLevel": 18,
@@ -7300,9 +7291,18 @@
                 ]
             },
             {
+                "Name": "of Venom",
+                "Level": 15,
+                "RequiredLevel": 20,
+                "PropertyStrings": [
+                    "+4-6% to Poison Skill Damage",
+                    "-4-6% to Enemy Poison Resistance"
+                ]
+            },
+            {
                 "Name": "of Anthrax",
-                "Level": 33,
-                "RequiredLevel": 25,
+                "Level": 60,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Poison Skill Damage",
                     "-10-12% to Enemy Poison Resistance"

@@ -4915,7 +4915,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "6% Chance to cast level 14 Mind Blast when struck",
+                "PropertyString": "12% Chance to cast level 30 Bone Spirit when struck",
                 "Index": 4
             },
             {
@@ -5309,11 +5309,11 @@
             },
             {
                 "PropertyString": "+20% Increased Attack Speed",
-                "Index": 2
+                "Index": 1
             },
             {
                 "PropertyString": "+200-250% Enhanced Damage",
-                "Index": 3
+                "Index": 2
             },
             {
                 "PropertyString": "+300 to Attack Rating",
@@ -5321,15 +5321,15 @@
             },
             {
                 "PropertyString": "+8-15% to Fire Skill Damage",
-                "Index": 4
+                "Index": 3
             },
             {
                 "PropertyString": "+8-15% to Cold Skill Damage",
-                "Index": 5
+                "Index": 4
             },
             {
                 "PropertyString": "+8-15% to Lightning Skill Damage",
-                "Index": 6
+                "Index": 5
             },
             {
                 "PropertyString": "7% Life stolen per hit",
@@ -8930,10 +8930,6 @@
             {
                 "PropertyString": "+5 to Shape Shifting Skills (Druid Only)",
                 "Index": 2
-            },
-            {
-                "PropertyString": "+25% Chance of Crushing Blow",
-                "Index": 5
             },
             {
                 "PropertyString": "+50-80% Enhanced Defense",

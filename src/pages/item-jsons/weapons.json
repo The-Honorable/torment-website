@@ -8472,14 +8472,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -8489,11 +8481,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -8507,16 +8507,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -8525,49 +8525,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -8615,14 +8615,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -8632,11 +8624,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -8650,16 +8650,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -8668,49 +8668,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -8758,14 +8758,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -8775,11 +8767,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -8793,16 +8793,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -8811,49 +8811,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -8901,14 +8901,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -8918,11 +8910,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -8936,16 +8936,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -8954,49 +8954,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -9044,14 +9044,6 @@
         "GemSockets": "(1-25): 2 - (26+): 3",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -9061,11 +9053,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -9079,16 +9079,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -9097,49 +9097,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -9205,7 +9205,7 @@
             {
                 "Name": "Archer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Bow and Crossbow Skills (Amazon Only)"
                 ]
@@ -9261,7 +9261,7 @@
             {
                 "Name": "Archer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Bow and Crossbow Skills (Amazon Only)"
                 ]
@@ -9317,7 +9317,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -9373,7 +9373,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -9433,7 +9433,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -9471,14 +9471,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -9488,11 +9480,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -9506,16 +9506,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -9524,49 +9524,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -9614,14 +9614,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -9631,11 +9623,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -9649,16 +9649,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -9667,49 +9667,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -9757,14 +9757,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -9774,11 +9766,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -9792,16 +9792,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -9810,49 +9810,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -9900,14 +9900,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -9917,11 +9909,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -9935,16 +9935,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -9953,49 +9953,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -10043,14 +10043,6 @@
         "GemSockets": "(1-25): 2 - (26+): 3",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -10060,11 +10052,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -10078,16 +10078,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -10096,49 +10096,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -10204,7 +10204,7 @@
             {
                 "Name": "Archer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Bow and Crossbow Skills (Amazon Only)"
                 ]
@@ -10260,7 +10260,7 @@
             {
                 "Name": "Archer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Bow and Crossbow Skills (Amazon Only)"
                 ]
@@ -10316,7 +10316,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -10372,7 +10372,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -10432,7 +10432,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -10470,14 +10470,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -10487,11 +10479,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -10505,16 +10505,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -10523,49 +10523,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -10613,14 +10613,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -10630,11 +10622,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -10648,16 +10648,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -10666,49 +10666,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -10756,14 +10756,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -10773,11 +10765,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -10791,16 +10791,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -10809,49 +10809,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -10899,14 +10899,6 @@
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -10916,11 +10908,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -10934,16 +10934,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -10952,49 +10952,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -11042,14 +11042,6 @@
         "GemSockets": "(1-25): 2 - (26+): 3",
         "AutoMagicGroups": [
             {
-                "Name": "of the Jackal",
-                "Level": 1,
-                "RequiredLevel": 3,
-                "PropertyStrings": [
-                    "+5% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Lizard's",
                 "Level": 3,
                 "RequiredLevel": 3,
@@ -11059,11 +11051,19 @@
                 ]
             },
             {
+                "Name": "of the Jackal",
+                "Level": 3,
+                "RequiredLevel": 3,
+                "PropertyStrings": [
+                    "+10% Faster Cast Rate"
+                ]
+            },
+            {
                 "Name": "of the Fox",
-                "Level": 11,
+                "Level": 12,
                 "RequiredLevel": 8,
                 "PropertyStrings": [
-                    "+6-10% Faster Cast Rate"
+                    "+15% Faster Cast Rate"
                 ]
             },
             {
@@ -11077,16 +11077,16 @@
             },
             {
                 "Name": "of the Wolf",
-                "Level": 27,
-                "RequiredLevel": 20,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
-                    "+11-15% Faster Cast Rate"
+                    "+20% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Serpent's",
-                "Level": 23,
-                "RequiredLevel": 25,
+                "Level": 25,
+                "RequiredLevel": 30,
                 "PropertyStrings": [
                     "+5-8% to Fire Skill Damage",
                     "-5-8% to Enemy Fire Resistance"
@@ -11095,49 +11095,49 @@
             {
                 "Name": "of the Tiger",
                 "Level": 43,
-                "RequiredLevel": 35,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+16-20% Faster Cast Rate"
+                    "+25% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Drake's",
                 "Level": 43,
-                "RequiredLevel": 45,
+                "RequiredLevel": 50,
                 "PropertyStrings": [
                     "+8-10% to Fire Skill Damage",
                     "-8-10% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Mammoth",
-                "Level": 59,
-                "RequiredLevel": 51,
-                "PropertyStrings": [
-                    "+21-25% Faster Cast Rate"
-                ]
-            },
-            {
                 "Name": "Dragon's",
                 "Level": 50,
-                "RequiredLevel": 55,
+                "RequiredLevel": 60,
                 "PropertyStrings": [
                     "+10-12% to Fire Skill Damage",
                     "-10-12% to Enemy Fire Resistance"
                 ]
             },
             {
-                "Name": "of the Colossus",
-                "Level": 75,
-                "RequiredLevel": 67,
+                "Name": "of the Mammoth",
+                "Level": 60,
+                "RequiredLevel": 65,
                 "PropertyStrings": [
-                    "+26-30% Faster Cast Rate"
+                    "+30% Faster Cast Rate"
+                ]
+            },
+            {
+                "Name": "of the Colossus",
+                "Level": 70,
+                "RequiredLevel": 75,
+                "PropertyStrings": [
+                    "+40% Faster Cast Rate"
                 ]
             },
             {
                 "Name": "Wyrm's",
-                "Level": 60,
-                "RequiredLevel": 70,
+                "Level": 70,
+                "RequiredLevel": 80,
                 "PropertyStrings": [
                     "+12-15% to Fire Skill Damage",
                     "-12-15% to Enemy Fire Resistance"
@@ -11203,7 +11203,7 @@
             {
                 "Name": "Archer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Bow and Crossbow Skills (Amazon Only)"
                 ]
@@ -11259,7 +11259,7 @@
             {
                 "Name": "Archer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Bow and Crossbow Skills (Amazon Only)"
                 ]
@@ -11315,7 +11315,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -11371,7 +11371,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]
@@ -11431,7 +11431,7 @@
             {
                 "Name": "Lancer's",
                 "Level": 60,
-                "RequiredLevel": 45,
+                "RequiredLevel": 70,
                 "PropertyStrings": [
                     "+3 to Javelin and Spear Skills (Amazon Only)"
                 ]

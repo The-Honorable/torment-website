@@ -5852,11 +5852,11 @@
                         "Index": 1
                     },
                     {
-                        "PropertyString": "+35% Chance of Crushing Blow",
+                        "PropertyString": "Adds 15-25 damage",
                         "Index": 2
                     },
                     {
-                        "PropertyString": "+15% Deadly Strike",
+                        "PropertyString": "+25% Deadly Strike",
                         "Index": 3
                     },
                     {
@@ -6495,7 +6495,7 @@
                         "Index": 4
                     },
                     {
-                        "PropertyString": "+35% Chance of Crushing Blow",
+                        "PropertyString": "+40% Deadly Strike",
                         "Index": 0
                     },
                     {
