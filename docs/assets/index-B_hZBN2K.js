@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/cube-recipes-ClyyGa6T.js","assets/debounce-DlM2vs2L.js","assets/filter-helpers-C07hLFTd.js","assets/uniques-C4fPNl6Z.js","assets/item-type-filters-DhJkOFOx.js","assets/character-classes-LLAbBzNg.js","assets/damage-types-Du-j2Hbt.js","assets/uniques-CsIcsZ5z.js","assets/sets-DaFRl9zK.js","assets/sets-CpfVT5SM.js","assets/runewords-DzilR0MD.js","assets/runewords-DhXiI2AK.js","assets/grail-apG6nF28.js","assets/bases-gOtT5P4_.js","assets/affixes-BBLTNRbS.js"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/cube-recipes-DYtZp9t6.js","assets/debounce-DlM2vs2L.js","assets/filter-helpers-C07hLFTd.js","assets/uniques-B-CYyESd.js","assets/item-type-filters-DhJkOFOx.js","assets/character-classes-LLAbBzNg.js","assets/damage-types-Du-j2Hbt.js","assets/uniques-CsIcsZ5z.js","assets/sets-Cl1kcpHW.js","assets/sets-B32-5MET.js","assets/runewords-B5NNEiC1.js","assets/runewords-AZKNU64r.js","assets/grail-BP_RzeSx.js","assets/bases-D6ZyJbg2.js","assets/affixes-DeBOsPfc.js"])))=>i.map(i=>d[i]);
 (function polyfill() {
   const relList = document.createElement("link").relList;
   if (relList && relList.supports && relList.supports("modulepreload")) return;
@@ -25857,7 +25857,7 @@ const __vitePreload = function preload(baseModule, deps, importerUrl) {
   });
 };
 const name = "app";
-const template = `<nav class="bg-[#2c0a0a] fixed w-full z-20 top-0 left-0 shadow-xl border-b border-amber-600 h-16">
+const template = `<nav class="bg-[#2e1305] fixed w-full z-20 top-0 left-0 shadow-xl border-b border-amber-600 h-16">
     <div class="w-full h-16 px-4 flex flex-nowrap items-center justify-between mx-auto">
 
         <a href="./" class="text-xl link-text truncate">
@@ -25881,7 +25881,7 @@ const template = `<nav class="bg-[#2c0a0a] fixed w-full z-20 top-0 left-0 shadow
                 </button>
                 <!-- Dropdown panel -->
                 <div if.bind="fontMenuOpen"
-                     class="fixed right-5 top-15.75 min-w-70 z-30 bg-[#2c0a0a] border border-amber-600 rounded-b-lg shadow-md overflow-hidden"
+                     class="fixed right-5 top-15.75 min-w-70 z-30 bg-[#2e1305] border border-amber-600 rounded-b-lg shadow-md overflow-hidden"
                      role="menu"
                      keydown.trigger="event.key === 'Escape' && closeFontMenu()">
                     <ul class="py-1">
@@ -25911,7 +25911,19 @@ const template = `<nav class="bg-[#2c0a0a] fixed w-full z-20 top-0 left-0 shadow
 
         <div class="w-auto hidden fixed right-5 top-15.75 items-center justify-between lg:static lg:flex lg:w-auto lg:ms-0 lg:order-1"
              id="navbar-sticky">
-            <ul class="flex flex-col gap-4 p-4 border border-amber-600 bg-[#2c0a0a] rounded-b-lg lg:flex-row lg:gap-6 lg:p-0 lg:border-0 lg:bg-transparent">
+            <ul class="flex flex-col gap-4 p-4 border border-amber-600 bg-[#2e1305] rounded-b-lg lg:flex-row lg:gap-6 lg:p-0 lg:border-0 lg:bg-transparent">
+                <li>
+                    <a href="./uniques" class="block text-lg link-text" aria-current="page"
+                       click.trigger="closeMobileMenu()">Uniques</a>
+                </li>
+                <li>
+                    <a href="./runewords" class="block text-lg link-text" aria-current="page"
+                       click.trigger="closeMobileMenu()">Runewords</a>
+                </li>
+                <li>
+                    <a href="./sets" class="block text-lg link-text" aria-current="page"
+                       click.trigger="closeMobileMenu()">Sets</a>
+                </li>
                 <li>
                     <a href="./bases" class="block text-lg link-text" aria-current="page"
                        click.trigger="closeMobileMenu()">Bases</a>
@@ -25921,20 +25933,8 @@ const template = `<nav class="bg-[#2c0a0a] fixed w-full z-20 top-0 left-0 shadow
                        click.trigger="closeMobileMenu()">Affixes</a>
                 </li>
                 <li>
-                    <a href="./uniques" class="block text-lg link-text" aria-current="page"
-                       click.trigger="closeMobileMenu()">Uniques</a>
-                </li>
-                <li>
-                    <a href="./sets" class="block text-lg link-text" aria-current="page"
-                       click.trigger="closeMobileMenu()">Sets</a>
-                </li>
-                <li>
-                    <a href="./runewords" class="block text-lg link-text" aria-current="page"
-                       click.trigger="closeMobileMenu()">Runewords</a>
-                </li>
-                <li>
                     <a href="./grail" class="block text-lg link-text" aria-current="page"
-                       click.trigger="closeMobileMenu()">Grail</a>
+                       click.trigger="closeMobileMenu()">Grail Tracker</a>
                 </li>
                 <li>
                     <a href="./cube-recipes" class="block text-lg link-text truncate" aria-current="page"
@@ -25957,7 +25957,7 @@ const template = `<nav class="bg-[#2c0a0a] fixed w-full z-20 top-0 left-0 shadow
 <button type="button"
         class="min-w-10 min-h-10 m-auto flex items-center justify-center text-2xl type-text
         fixed bottom-2 right-2 z-50 ring-0 ring-offset-0 rounded-full shadow-md
-         bg-[#2c0a0a] border border-amber-600 hover:bg-[#2c0a0a] hover:border-amber-400"
+         bg-[#2e1305] border border-amber-600 hover:bg-[#2e1305] hover:border-amber-400"
         aria-label="Back to top" click.trigger="scrollToTop()" if.bind="showBackToTop">
     <span class="mso" aria-hidden="true">arrow_upward</span>
     <span class="sr-only">Top</span>
@@ -26019,42 +26019,42 @@ _App_decorators = [customElement(__au2ViewDef), route({
     {
       id: "Home",
       path: "",
-      component: __vitePreload(() => import("./home-HElN4fub.js"), true ? [] : void 0),
+      component: __vitePreload(() => import("./home-CrvsAjI2.js"), true ? [] : void 0),
       title: "Home"
     },
     {
       path: "cube-recipes",
-      component: __vitePreload(() => import("./cube-recipes-ClyyGa6T.js"), true ? __vite__mapDeps([0,1,2]) : void 0),
+      component: __vitePreload(() => import("./cube-recipes-DYtZp9t6.js"), true ? __vite__mapDeps([0,1,2]) : void 0),
       title: "Cube Recipes"
     },
     {
       path: "uniques",
-      component: __vitePreload(() => import("./uniques-C4fPNl6Z.js"), true ? __vite__mapDeps([3,4,5,6,1,2,7]) : void 0),
+      component: __vitePreload(() => import("./uniques-B-CYyESd.js"), true ? __vite__mapDeps([3,4,5,6,1,2,7]) : void 0),
       title: "Uniques"
     },
     {
       path: "sets",
-      component: __vitePreload(() => import("./sets-DaFRl9zK.js"), true ? __vite__mapDeps([8,4,5,6,1,2,9]) : void 0),
+      component: __vitePreload(() => import("./sets-Cl1kcpHW.js"), true ? __vite__mapDeps([8,4,5,6,1,2,9]) : void 0),
       title: "Sets"
     },
     {
       path: "runewords",
-      component: __vitePreload(() => import("./runewords-DzilR0MD.js"), true ? __vite__mapDeps([10,4,1,2,11]) : void 0),
+      component: __vitePreload(() => import("./runewords-B5NNEiC1.js"), true ? __vite__mapDeps([10,4,1,2,11]) : void 0),
       title: "Runewords"
     },
     {
       path: "grail",
-      component: __vitePreload(() => import("./grail-apG6nF28.js"), true ? __vite__mapDeps([12,4,5,6,1,2,11,9,7]) : void 0),
+      component: __vitePreload(() => import("./grail-BP_RzeSx.js"), true ? __vite__mapDeps([12,4,5,6,1,2,11,9,7]) : void 0),
       title: "Holy Grail"
     },
     {
       path: "bases",
-      component: __vitePreload(() => import("./bases-gOtT5P4_.js"), true ? __vite__mapDeps([13,4,6,2]) : void 0),
+      component: __vitePreload(() => import("./bases-D6ZyJbg2.js"), true ? __vite__mapDeps([13,4,6,2]) : void 0),
       title: "Bases"
     },
     {
       path: "affixes",
-      component: __vitePreload(() => import("./affixes-BBLTNRbS.js"), true ? __vite__mapDeps([14,4,1,2]) : void 0),
+      component: __vitePreload(() => import("./affixes-DeBOsPfc.js"), true ? __vite__mapDeps([14,4,1,2]) : void 0),
       title: "Affixes"
     }
   ]
