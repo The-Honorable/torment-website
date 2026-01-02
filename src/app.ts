@@ -4,6 +4,7 @@ import { route } from '@aurelia/router';
     title: 'D2R Torment',
     routes: [
         {
+            id: 'Home',
             path: '',
             component: import('./pages/home/home'),
             title: 'Home',
@@ -47,7 +48,6 @@ import { route } from '@aurelia/router';
 })
 export class App {
     fonts: Font[] = [
-        { class: 'font-classic', name: 'Classic' },
         { class: 'font-resurrected', name: 'Resurrected' },
         { class: 'font-neutral', name: 'Neutral' },
     ];
