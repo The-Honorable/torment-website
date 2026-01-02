@@ -9,7 +9,7 @@ export default defineConfig({
         port: 9500,
         strictPort: true,
     },
-    publicDir: 'static',
+    publicDir: 'src/assets/icons',
     build: {
         minify: false,
         target: 'es2022',
