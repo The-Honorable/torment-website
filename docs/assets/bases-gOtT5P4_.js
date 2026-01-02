@@ -1,9 +1,9 @@
-import { C as CustomElement, i as isBlankOrInvalid, s as syncParamsToUrl, w as watch, c as customElement, b as bindable } from "./index-CANn2AMq.js";
+import { C as CustomElement, i as isBlankOrInvalid, s as syncParamsToUrl, w as watch, c as customElement, b as bindable } from "./index-CQX04MeL.js";
 import { r as resolveBaseTypeName, b as buildOptionsForPresentTypes, g as getChainForTypeNameReadonly, t as type_filtering_options } from "./item-type-filters-DhJkOFOx.js";
 import { g as getDamageTypeString } from "./damage-types-Du-j2Hbt.js";
 import { p as prependTypeResetOption, t as tokenizeSearch } from "./filter-helpers-C07hLFTd.js";
 const name = "bases";
-const template = `\uFEFF<template>
+const template = `<template>
     <h3 class="text-lg type-text text-center my-4">
         <span class="rarity-text">[N]</span> = Normal <span class="rarity-text">[X]</span> = Exceptional <span
             class="rarity-text">[E]</span> = Elite
@@ -200,7 +200,7 @@ const template = `\uFEFF<template>
                     </div>
 
                     <div if.bind="item.AutoMagicGroups && item.AutoMagicGroups.length">
-                        <div class="flex justify-between items-start mb-1 border-b border-zinc-700 last:border-b-0 last:mb-0"
+                        <div class="flex justify-between items-start mb-1 border-b border-amber-700 last:border-b-0 last:mb-0"
                              repeat.for="group of groupedProperties(item)">
                             <div class="text-base prop-text text-left whitespace-nowrap">
                                 <span if.bind="group.requiredLevel && group.requiredLevel > 0">

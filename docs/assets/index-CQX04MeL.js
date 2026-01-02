@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/cube-recipes-oUTH1A5f.js","assets/debounce-DlM2vs2L.js","assets/filter-helpers-C07hLFTd.js","assets/uniques-Bffduda7.js","assets/item-type-filters-DhJkOFOx.js","assets/character-classes-LLAbBzNg.js","assets/damage-types-Du-j2Hbt.js","assets/uniques-CsIcsZ5z.js","assets/sets-D772KGLO.js","assets/sets-CpfVT5SM.js","assets/runewords-BZHapsFc.js","assets/runewords-DhXiI2AK.js","assets/grail-1imGbr99.js","assets/bases-DQcZ22P7.js","assets/affixes-DexIQBuM.js"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/cube-recipes-ClyyGa6T.js","assets/debounce-DlM2vs2L.js","assets/filter-helpers-C07hLFTd.js","assets/uniques-C4fPNl6Z.js","assets/item-type-filters-DhJkOFOx.js","assets/character-classes-LLAbBzNg.js","assets/damage-types-Du-j2Hbt.js","assets/uniques-CsIcsZ5z.js","assets/sets-DaFRl9zK.js","assets/sets-CpfVT5SM.js","assets/runewords-DzilR0MD.js","assets/runewords-DhXiI2AK.js","assets/grail-apG6nF28.js","assets/bases-gOtT5P4_.js","assets/affixes-BBLTNRbS.js"])))=>i.map(i=>d[i]);
 (function polyfill() {
   const relList = document.createElement("link").relList;
   if (relList && relList.supports && relList.supports("modulepreload")) return;
@@ -25568,7 +25568,7 @@ const RouterConfiguration = {
   }
 };
 const name$1 = "search-area";
-const template$1 = '<div class="static top-16 z-10 m-auto bg-black border-b border-zinc-600 lg:sticky">\n    <au-slot></au-slot>\n</div>\n';
+const template$1 = '<div class="static top-16 z-10 m-auto bg-black border-b border-amber-600 lg:sticky">\n    <au-slot></au-slot>\n</div>\n';
 const dependencies$1 = [];
 const bindables$1 = {};
 let _e$1;
@@ -25857,7 +25857,7 @@ const __vitePreload = function preload(baseModule, deps, importerUrl) {
   });
 };
 const name = "app";
-const template = `<nav class="bg-zinc-800 fixed w-full z-20 top-0 left-0 shadow-xl border-b border-zinc-600 h-16">
+const template = `<nav class="bg-[#2c0a0a] fixed w-full z-20 top-0 left-0 shadow-xl border-b border-amber-600 h-16">
     <div class="w-full h-16 px-4 flex flex-nowrap items-center justify-between mx-auto">
 
         <a href="./" class="text-xl link-text truncate">
@@ -25881,7 +25881,7 @@ const template = `<nav class="bg-zinc-800 fixed w-full z-20 top-0 left-0 shadow-
                 </button>
                 <!-- Dropdown panel -->
                 <div if.bind="fontMenuOpen"
-                     class="fixed right-5 top-15.75 min-w-70 z-30 bg-zinc-800 border border-zinc-600 rounded-b-lg shadow-md overflow-hidden"
+                     class="fixed right-5 top-15.75 min-w-70 z-30 bg-[#2c0a0a] border border-amber-600 rounded-b-lg shadow-md overflow-hidden"
                      role="menu"
                      keydown.trigger="event.key === 'Escape' && closeFontMenu()">
                     <ul class="py-1">
@@ -25911,7 +25911,7 @@ const template = `<nav class="bg-zinc-800 fixed w-full z-20 top-0 left-0 shadow-
 
         <div class="w-auto hidden fixed right-5 top-15.75 items-center justify-between lg:static lg:flex lg:w-auto lg:ms-0 lg:order-1"
              id="navbar-sticky">
-            <ul class="flex flex-col gap-4 p-4 border border-zinc-600 bg-zinc-800 rounded-b-lg lg:flex-row lg:gap-6 lg:p-0 lg:border-0 lg:bg-transparent">
+            <ul class="flex flex-col gap-4 p-4 border border-amber-600 bg-[#2c0a0a] rounded-b-lg lg:flex-row lg:gap-6 lg:p-0 lg:border-0 lg:bg-transparent">
                 <li>
                     <a href="./bases" class="block text-lg link-text" aria-current="page"
                        click.trigger="closeMobileMenu()">Bases</a>
@@ -25957,7 +25957,7 @@ const template = `<nav class="bg-zinc-800 fixed w-full z-20 top-0 left-0 shadow-
 <button type="button"
         class="min-w-10 min-h-10 m-auto flex items-center justify-center text-2xl type-text
         fixed bottom-2 right-2 z-50 ring-0 ring-offset-0 rounded-full shadow-md
-         bg-zinc-800 border border-zinc-600 hover:bg-zinc-700 hover:border-zinc-400"
+         bg-[#2c0a0a] border border-amber-600 hover:bg-[#2c0a0a] hover:border-amber-400"
         aria-label="Back to top" click.trigger="scrollToTop()" if.bind="showBackToTop">
     <span class="mso" aria-hidden="true">arrow_upward</span>
     <span class="sr-only">Top</span>
@@ -26019,42 +26019,42 @@ _App_decorators = [customElement(__au2ViewDef), route({
     {
       id: "Home",
       path: "",
-      component: __vitePreload(() => import("./home-CMlOaAim.js"), true ? [] : void 0),
+      component: __vitePreload(() => import("./home-HElN4fub.js"), true ? [] : void 0),
       title: "Home"
     },
     {
       path: "cube-recipes",
-      component: __vitePreload(() => import("./cube-recipes-oUTH1A5f.js"), true ? __vite__mapDeps([0,1,2]) : void 0),
+      component: __vitePreload(() => import("./cube-recipes-ClyyGa6T.js"), true ? __vite__mapDeps([0,1,2]) : void 0),
       title: "Cube Recipes"
     },
     {
       path: "uniques",
-      component: __vitePreload(() => import("./uniques-Bffduda7.js"), true ? __vite__mapDeps([3,4,5,6,1,2,7]) : void 0),
+      component: __vitePreload(() => import("./uniques-C4fPNl6Z.js"), true ? __vite__mapDeps([3,4,5,6,1,2,7]) : void 0),
       title: "Uniques"
     },
     {
       path: "sets",
-      component: __vitePreload(() => import("./sets-D772KGLO.js"), true ? __vite__mapDeps([8,4,5,6,1,2,9]) : void 0),
+      component: __vitePreload(() => import("./sets-DaFRl9zK.js"), true ? __vite__mapDeps([8,4,5,6,1,2,9]) : void 0),
       title: "Sets"
     },
     {
       path: "runewords",
-      component: __vitePreload(() => import("./runewords-BZHapsFc.js"), true ? __vite__mapDeps([10,4,1,2,11]) : void 0),
+      component: __vitePreload(() => import("./runewords-DzilR0MD.js"), true ? __vite__mapDeps([10,4,1,2,11]) : void 0),
       title: "Runewords"
     },
     {
       path: "grail",
-      component: __vitePreload(() => import("./grail-1imGbr99.js"), true ? __vite__mapDeps([12,4,5,6,1,2,11,9,7]) : void 0),
+      component: __vitePreload(() => import("./grail-apG6nF28.js"), true ? __vite__mapDeps([12,4,5,6,1,2,11,9,7]) : void 0),
       title: "Holy Grail"
     },
     {
       path: "bases",
-      component: __vitePreload(() => import("./bases-DQcZ22P7.js"), true ? __vite__mapDeps([13,4,6,2]) : void 0),
+      component: __vitePreload(() => import("./bases-gOtT5P4_.js"), true ? __vite__mapDeps([13,4,6,2]) : void 0),
       title: "Bases"
     },
     {
       path: "affixes",
-      component: __vitePreload(() => import("./affixes-DexIQBuM.js"), true ? __vite__mapDeps([14,4,1,2]) : void 0),
+      component: __vitePreload(() => import("./affixes-BBLTNRbS.js"), true ? __vite__mapDeps([14,4,1,2]) : void 0),
       title: "Affixes"
     }
   ]
