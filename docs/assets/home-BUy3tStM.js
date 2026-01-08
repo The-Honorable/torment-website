@@ -1,4 +1,4 @@
-import { C as CustomElement, c as customElement } from "./index-B_hZBN2K.js";
+import { C as CustomElement, c as customElement } from "./index-D-79PDV4.js";
 const name = "home";
 const template = '<template>\n    <div class="container mx-auto mt-5">\n        <div class="max-w-5xl mx-auto text-lg type-text p-5">\n            Welcome to Torment. My mod I created to be a harder vanilla, but rebalance and add more unique items, skills, monsters, and suprises along the way.\n        </div>\n        <div class="max-w-5xl mx-auto text-lg type-text p-5">\n            The mod is very work in progress, and at the early stages of development. There will be some bugs, and some things that are not fully fleshed out. But I hope you enjoy the ride as I continue to develop it.\n        </div>\n        <div class="flex justify-center">\n            <img src="assets/images/torment_logo.png" alt="Torment Logo" class="max-w-xl h-auto">\n        </div>\n    </div>\n</template>\n';
 const dependencies = [];
