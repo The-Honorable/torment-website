@@ -20,16 +20,6 @@
                     "Index": "Rune",
                     "Class": ""
                 }
-            },
-            {
-                "Name": "El Rune",
-                "ItemLevel": 11,
-                "RequiredLevel": 11,
-                "Type": {
-                    "Name": "Rune",
-                    "Index": "Rune",
-                    "Class": ""
-                }
             }
         ],
         "Types": [
@@ -49,7 +39,7 @@
         "Code": "Runeword68",
         "Properties": [
             {
-                "PropertyString": "+15% Faster Run/Walk",
+                "PropertyString": "+10% Faster Run/Walk",
                 "Index": 2
             },
             {
@@ -57,19 +47,19 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+30 Defense",
+                "PropertyString": "+15 Defense",
                 "Index": 0
             },
             {
-                "PropertyString": "+2 to Mana after each Kill",
+                "PropertyString": "+4 to Mana after each Kill",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+5% to Experience Gained",
                 "Index": 0
             },
             {
-                "PropertyString": "+10-20% to Experience Gained",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+1-4 to Light Radius",
+                "PropertyString": "+1 to Light Radius",
                 "Index": 1
             }
         ],
@@ -217,6 +207,136 @@
             {
                 "PropertyString": "+2 to Mana after each Kill",
                 "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Tir Rune",
+                "ItemLevel": 13,
+                "RequiredLevel": 13,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ith Rune",
+                "ItemLevel": 15,
+                "RequiredLevel": 15,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Weapon",
+                "Index": "Weapon",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Blood",
+        "Index": "Runeword7",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 15,
+        "RequiredLevel": 15,
+        "Code": "Runeword7",
+        "Properties": [
+            {
+                "PropertyString": "+50% Enhanced Damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+9 to Maximum Damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "3% Mana stolen per hit",
+                "Index": 2
+            },
+            {
+                "PropertyString": "3% Life stolen per hit",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Drain Life -5",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Tir Rune",
+                "ItemLevel": 13,
+                "RequiredLevel": 13,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Eth Rune",
+                "ItemLevel": 15,
+                "RequiredLevel": 15,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Any Shield",
+                "Index": "Any Shield",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Chance",
+        "Index": "Runeword15",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 15,
+        "RequiredLevel": 15,
+        "Code": "Runeword15",
+        "Properties": [
+            {
+                "PropertyString": "Regenerate Mana 15%",
+                "Index": 0
+            },
+            {
+                "PropertyString": "All Resistances +5-10",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
+            },
+            {
+                "PropertyString": "20% Extra Gold from Monsters",
+                "Index": 0
+            },
+            {
+                "PropertyString": "20% Better Chance of Getting Magic Items",
+                "Index": 1
             }
         ],
         "DamageArmorEnhanced": false,
@@ -529,6 +649,87 @@
             {
                 "PropertyString": "+10% Damage Taken Goes To Mana",
                 "Index": 3
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Ral Rune",
+                "ItemLevel": 19,
+                "RequiredLevel": 19,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ort Rune",
+                "ItemLevel": 21,
+                "RequiredLevel": 21,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Tal Rune",
+                "ItemLevel": 17,
+                "RequiredLevel": 17,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Body Armor",
+                "Index": "Body Armor",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Envy",
+        "Index": "Runeword35",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 21,
+        "RequiredLevel": 21,
+        "Code": "Runeword35",
+        "Properties": [
+            {
+                "PropertyString": "+15-20% Increased Attack Speed",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+15-20% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+1 to Blink (oskill)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Lightning Resist +30%",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Fire Resist +30%",
+                "Index": 0
+            },
+            {
+                "PropertyString": "All Resistances +10",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Poison Resist +30%",
+                "Index": 0
             }
         ],
         "DamageArmorEnhanced": false,

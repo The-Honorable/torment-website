@@ -217,8 +217,7 @@
             "Melee Weapon"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -241,8 +240,7 @@
             "Melee Weapon"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -257,7 +255,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 1-3",
+                "PropertyString": "Attacker Takes Damage of 5-10",
                 "Index": 0
             }
         ],
@@ -281,7 +279,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 2-6",
+                "PropertyString": "Attacker Takes Damage of 10-15",
                 "Index": 0
             }
         ],
@@ -356,8 +354,7 @@
             "Melee Weapon"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -380,8 +377,7 @@
             "Melee Weapon"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -762,10 +758,7 @@
             "Amulet",
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon",
-            "Staves And Rods"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -894,8 +887,7 @@
             "Weapon"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -918,8 +910,7 @@
             "Weapon"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -964,9 +955,7 @@
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Staves And Rods"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -1359,9 +1348,7 @@
         "Types": [
             "Any Armor"
         ],
-        "ETypes": [
-            "Gloves"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -1382,9 +1369,7 @@
         "Types": [
             "Any Armor"
         ],
-        "ETypes": [
-            "Gloves"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -1583,7 +1568,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "10-19% Better Chance of Getting Magic Items",
+                "PropertyString": "10-25% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -1605,7 +1590,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "20-35% Better Chance of Getting Magic Items",
+                "PropertyString": "25-50% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -1619,8 +1604,8 @@
     },
     {
         "Name": "of Energy",
-        "Level": 4,
-        "MaxLevel": 0,
+        "Level": 1,
+        "MaxLevel": 60,
         "RequiredLevel": 3,
         "Group": 24,
         "ClassSpecific": "",
@@ -1628,29 +1613,30 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1 to Mana",
+                "PropertyString": "+5-10 to Mana",
                 "Index": 0
             }
         ],
         "Types": [
             "Ring",
-            "Amulet"
+            "Amulet",
+            "Staves And Rods"
         ],
         "ETypes": [],
         "PType": "Suffix"
     },
     {
         "Name": "of Energy",
-        "Level": 5,
-        "MaxLevel": 0,
-        "RequiredLevel": 3,
+        "Level": 10,
+        "MaxLevel": 80,
+        "RequiredLevel": 10,
         "Group": 24,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-5 to Mana",
+                "PropertyString": "+10-20 to Mana",
                 "Index": 0
             }
         ],
@@ -1664,16 +1650,16 @@
     },
     {
         "Name": "of the Mind",
-        "Level": 10,
+        "Level": 20,
         "MaxLevel": 0,
-        "RequiredLevel": 7,
+        "RequiredLevel": 20,
         "Group": 24,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+6-10 to Mana",
+                "PropertyString": "+20-30 to Mana",
                 "Index": 0
             }
         ],
@@ -1687,16 +1673,16 @@
     },
     {
         "Name": "of Brilliance",
-        "Level": 18,
+        "Level": 40,
         "MaxLevel": 0,
-        "RequiredLevel": 13,
+        "RequiredLevel": 40,
         "Group": 24,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-15 to Mana",
+                "PropertyString": "+30-45 to Mana",
                 "Index": 0
             }
         ],
@@ -1710,16 +1696,16 @@
     },
     {
         "Name": "of Sorcery",
-        "Level": 22,
+        "Level": 60,
         "MaxLevel": 0,
-        "RequiredLevel": 16,
+        "RequiredLevel": 65,
         "Group": 24,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+16-20 to Mana",
+                "PropertyString": "+50-70 to Mana",
                 "Index": 0
             }
         ],
@@ -1732,16 +1718,16 @@
     },
     {
         "Name": "of Wizardry",
-        "Level": 30,
+        "Level": 75,
         "MaxLevel": 0,
-        "RequiredLevel": 22,
+        "RequiredLevel": 75,
         "Group": 24,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+21-30 to Mana",
+                "PropertyString": "+80-100 to Mana",
                 "Index": 0
             }
         ],
@@ -1769,14 +1755,15 @@
             }
         ],
         "Types": [
-            "Melee Weapon"
+            "Melee Weapon",
+            "Missile Weapon"
         ],
         "ETypes": [],
         "PType": "Suffix"
     },
     {
         "Name": "of Light",
-        "Level": 6,
+        "Level": 1,
         "MaxLevel": 0,
         "RequiredLevel": 4,
         "Group": 26,
@@ -1800,17 +1787,41 @@
         "PType": "Suffix"
     },
     {
-        "Name": "of Life",
-        "Level": 23,
+        "Name": "of Radiance",
+        "Level": 12,
         "MaxLevel": 0,
-        "RequiredLevel": 17,
+        "RequiredLevel": 12,
+        "Group": 26,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+2 to Light Radius",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Staves And Rods",
+            "Missile Weapon",
+            "Ring",
+            "Amulet"
+        ],
+        "ETypes": [],
+        "PType": "Suffix"
+    },
+    {
+        "Name": "of Life",
+        "Level": 1,
+        "MaxLevel": 0,
+        "RequiredLevel": 3,
         "Group": 27,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+5 to Life",
+                "PropertyString": "+5-10 to Life",
                 "Index": 0
             }
         ],
@@ -1826,16 +1837,16 @@
     },
     {
         "Name": "of the Jackal",
-        "Level": 3,
+        "Level": 1,
         "MaxLevel": 0,
-        "RequiredLevel": 2,
+        "RequiredLevel": 3,
         "Group": 27,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-5 to Life",
+                "PropertyString": "+5-10 to Life",
                 "Index": 0
             }
         ],
@@ -2056,7 +2067,8 @@
             }
         ],
         "Types": [
-            "Melee Weapon"
+            "Melee Weapon",
+            "Missile Weapon"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -2100,7 +2112,8 @@
             }
         ],
         "Types": [
-            "Melee Weapon"
+            "Melee Weapon",
+            "Missile Weapon"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -2230,7 +2243,7 @@
     },
     {
         "Name": "of Strength",
-        "Level": 5,
+        "Level": 1,
         "MaxLevel": 0,
         "RequiredLevel": 3,
         "Group": 34,
@@ -2239,7 +2252,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-3 to Strength",
+                "PropertyString": "+1-5 to Strength",
                 "Index": 0
             }
         ],
@@ -2255,14 +2268,14 @@
         "Name": "of Might",
         "Level": 10,
         "MaxLevel": 0,
-        "RequiredLevel": 7,
+        "RequiredLevel": 10,
         "Group": 34,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+4-6 to Strength",
+                "PropertyString": "+5-8 to Strength",
                 "Index": 0
             }
         ],
@@ -2273,8 +2286,7 @@
             "Amulet"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -2289,7 +2301,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+7-10 to Strength",
+                "PropertyString": "+8-12 to Strength",
                 "Index": 0
             }
         ],
@@ -2300,8 +2312,7 @@
             "Amulet"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -2316,7 +2327,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+7-10 to Strength",
+                "PropertyString": "+8-12 to Strength",
                 "Index": 0
             }
         ],
@@ -2339,7 +2350,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-15 to Strength",
+                "PropertyString": "+13-16 to Strength",
                 "Index": 0
             }
         ],
@@ -2349,8 +2360,7 @@
             "Amulet"
         ],
         "ETypes": [
-            "Wand",
-            "Staff"
+            "Wand"
         ],
         "PType": "Suffix"
     },
@@ -2365,7 +2375,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-15 to Strength",
+                "PropertyString": "+13-16 to Strength",
                 "Index": 0
             }
         ],
@@ -2389,7 +2399,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+16-20 to Strength",
+                "PropertyString": "+17-25 to Strength",
                 "Index": 0
             }
         ],
@@ -2403,7 +2413,7 @@
     },
     {
         "Name": "of Pacing",
-        "Level": 2,
+        "Level": 1,
         "MaxLevel": 0,
         "RequiredLevel": 1,
         "Group": 35,
@@ -2426,7 +2436,7 @@
         "Name": "of Haste",
         "Level": 12,
         "MaxLevel": 0,
-        "RequiredLevel": 9,
+        "RequiredLevel": 12,
         "Group": 35,
         "ClassSpecific": "",
         "Class": "",
@@ -2445,9 +2455,9 @@
     },
     {
         "Name": "of Speed",
-        "Level": 22,
+        "Level": 26,
         "MaxLevel": 0,
-        "RequiredLevel": 16,
+        "RequiredLevel": 26,
         "Group": 35,
         "ClassSpecific": "",
         "Class": "",
@@ -3508,7 +3518,6 @@
         ],
         "ETypes": [
             "Wand",
-            "Staff",
             "Orb"
         ],
         "PType": "Suffix"
@@ -3547,7 +3556,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 1-3",
+                "PropertyString": "Attacker Takes Damage of 10-15",
                 "Index": 0
             }
         ],
@@ -3571,7 +3580,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 4-6",
+                "PropertyString": "Attacker Takes Damage of 15-20",
                 "Index": 0
             }
         ],
@@ -3586,7 +3595,7 @@
     },
     {
         "Name": "of Razors",
-        "Level": 34,
+        "Level": 26,
         "MaxLevel": 0,
         "RequiredLevel": 26,
         "Group": 6,
@@ -3595,7 +3604,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 7-9",
+                "PropertyString": "Attacker Takes Damage of 25-40",
                 "Index": 0
             }
         ],
@@ -3609,16 +3618,16 @@
     },
     {
         "Name": "of Swords",
-        "Level": 47,
+        "Level": 50,
         "MaxLevel": 0,
-        "RequiredLevel": 39,
+        "RequiredLevel": 50,
         "Group": 6,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 50-80",
+                "PropertyString": "Attacker Takes Damage of 50-100",
                 "Index": 0
             }
         ],
@@ -3632,16 +3641,16 @@
     },
     {
         "Name": "of Malice",
-        "Level": 37,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 29,
+        "RequiredLevel": 70,
         "Group": 6,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 10-20",
+                "PropertyString": "Attacker Takes Damage of 150-200",
                 "Index": 0
             }
         ],
@@ -5925,7 +5934,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Replenish Life +3-5",
+                "PropertyString": "Replenish Life +5-10",
                 "Index": 0
             }
         ],
@@ -5947,7 +5956,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Replenish Life +3-5",
+                "PropertyString": "Replenish Life +20-30",
                 "Index": 0
             }
         ],
@@ -5972,7 +5981,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Replenish Life +6-10",
+                "PropertyString": "Replenish Life +10-15",
                 "Index": 0
             }
         ],
@@ -5995,7 +6004,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Replenish Life +6-9",
+                "PropertyString": "Replenish Life +15-20",
                 "Index": 0
             }
         ],
@@ -6017,7 +6026,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Replenish Life +11-15",
+                "PropertyString": "Replenish Life +20-25",
                 "Index": 0
             }
         ],
@@ -6040,7 +6049,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Replenish Life +1-4",
+                "PropertyString": "Replenish Life +5-10",
                 "Index": 0
             }
         ],
@@ -6280,7 +6289,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5-15% Better Chance of Getting Magic Items",
+                "PropertyString": "10-20% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -6305,7 +6314,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "16-25% Better Chance of Getting Magic Items",
+                "PropertyString": "21-30% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -6329,7 +6338,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "16-25% Better Chance of Getting Magic Items",
+                "PropertyString": "21-30% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -6373,7 +6382,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "3-5% Better Chance of Getting Magic Items",
+                "PropertyString": "5-12% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -6394,7 +6403,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "6-7% Better Chance of Getting Magic Items",
+                "PropertyString": "13-18% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -6415,7 +6424,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5-10% Better Chance of Getting Magic Items",
+                "PropertyString": "10-20% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -6436,7 +6445,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-3 to Energy",
+                "PropertyString": "+3-5 to Energy",
                 "Index": 0
             }
         ],
@@ -6461,7 +6470,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+4-6 to Energy",
+                "PropertyString": "+6-8 to Energy",
                 "Index": 0
             }
         ],
@@ -6486,7 +6495,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+7-10 to Energy",
+                "PropertyString": "+9-11 to Energy",
                 "Index": 0
             }
         ],
@@ -6511,7 +6520,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-15 to Energy",
+                "PropertyString": "+12-15 to Energy",
                 "Index": 0
             }
         ],
@@ -6586,7 +6595,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-3 to Energy",
+                "PropertyString": "+3-5 to Energy",
                 "Index": 0
             }
         ],
@@ -6607,7 +6616,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+4-6 to Energy",
+                "PropertyString": "+6-8 to Energy",
                 "Index": 0
             }
         ],
@@ -6628,7 +6637,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+7-10 to Energy",
+                "PropertyString": "+8-11 to Energy",
                 "Index": 0
             }
         ],
@@ -6649,7 +6658,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-15 to Energy",
+                "PropertyString": "+12-15 to Energy",
                 "Index": 0
             }
         ],
@@ -6691,7 +6700,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-3 to Energy",
+                "PropertyString": "+3-5 to Energy",
                 "Index": 0
             }
         ],
@@ -6713,7 +6722,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+4-6 to Energy",
+                "PropertyString": "+6-8 to Energy",
                 "Index": 0
             }
         ],
@@ -6735,7 +6744,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+7-10 to Energy",
+                "PropertyString": "+9-11 to Energy",
                 "Index": 0
             }
         ],
@@ -6757,7 +6766,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-15 to Energy",
+                "PropertyString": "+12-16 to Energy",
                 "Index": 0
             }
         ],
@@ -6779,7 +6788,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-5 to Energy",
+                "PropertyString": "+3-5 to Energy",
                 "Index": 0
             }
         ],
@@ -6805,7 +6814,8 @@
             }
         ],
         "Types": [
-            "Melee Weapon"
+            "Melee Weapon",
+            "Missile Weapon"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -6900,7 +6910,7 @@
     {
         "Name": "of the Jackal",
         "Level": 1,
-        "MaxLevel": 0,
+        "MaxLevel": 60,
         "RequiredLevel": 1,
         "Group": 26,
         "ClassSpecific": "",
@@ -6908,7 +6918,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-5 to Life",
+                "PropertyString": "+5-10 to Life",
                 "Index": 0
             }
         ],
@@ -6925,7 +6935,7 @@
     {
         "Name": "of the Fox",
         "Level": 7,
-        "MaxLevel": 0,
+        "MaxLevel": 70,
         "RequiredLevel": 5,
         "Group": 26,
         "ClassSpecific": "",
@@ -6933,7 +6943,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+6-10 to Life",
+                "PropertyString": "+10-15 to Life",
                 "Index": 0
             }
         ],
@@ -6958,7 +6968,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-20 to Life",
+                "PropertyString": "+15-20 to Life",
                 "Index": 0
             }
         ],
@@ -7108,7 +7118,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-5 to Life",
+                "PropertyString": "+5-10 to Life",
                 "Index": 0
             }
         ],
@@ -7130,7 +7140,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+6-10 to Life",
+                "PropertyString": "+10-15 to Life",
                 "Index": 0
             }
         ],
@@ -7152,7 +7162,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-20 to Life",
+                "PropertyString": "+15-20 to Life",
                 "Index": 0
             }
         ],
@@ -7232,7 +7242,7 @@
     {
         "Name": "of the Jackal",
         "Level": 8,
-        "MaxLevel": 0,
+        "MaxLevel": 60,
         "RequiredLevel": 6,
         "Group": 26,
         "ClassSpecific": "",
@@ -7240,7 +7250,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-5 to Life",
+                "PropertyString": "+5-10 to Life",
                 "Index": 0
             }
         ],
@@ -7265,7 +7275,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+6-10 to Life",
+                "PropertyString": "+10-15 to Life",
                 "Index": 0
             }
         ],
@@ -7290,7 +7300,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-20 to Life",
+                "PropertyString": "+15-20 to Life",
                 "Index": 0
             }
         ],
@@ -7419,7 +7429,7 @@
     },
     {
         "Name": "of Sustenance",
-        "Level": 31,
+        "Level": 30,
         "MaxLevel": 0,
         "RequiredLevel": 23,
         "Group": 26,
@@ -7461,7 +7471,7 @@
     },
     {
         "Name": "of Sustenance",
-        "Level": 61,
+        "Level": 60,
         "MaxLevel": 0,
         "RequiredLevel": 53,
         "Group": 26,
@@ -7482,7 +7492,7 @@
     },
     {
         "Name": "of Vita",
-        "Level": 77,
+        "Level": 70,
         "MaxLevel": 0,
         "RequiredLevel": 69,
         "Group": 26,
@@ -7503,7 +7513,7 @@
     },
     {
         "Name": "of Vita",
-        "Level": 91,
+        "Level": 80,
         "MaxLevel": 0,
         "RequiredLevel": 83,
         "Group": 26,
@@ -7512,7 +7522,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+41-45 to Life",
+                "PropertyString": "+41-50 to Life",
                 "Index": 0
             }
         ],
@@ -7524,7 +7534,7 @@
     },
     {
         "Name": "of Vita",
-        "Level": 110,
+        "Level": 95,
         "MaxLevel": 0,
         "RequiredLevel": 97,
         "Group": 26,
@@ -7533,7 +7543,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+46-50 to Life",
+                "PropertyString": "+50-70 to Life",
                 "Index": 0
             }
         ],
@@ -7701,7 +7711,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-15 to Life",
+                "PropertyString": "+11-18 to Life",
                 "Index": 0
             }
         ],
@@ -7722,7 +7732,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+16-20 to Life",
+                "PropertyString": "+19-30 to Life",
                 "Index": 0
             }
         ],
@@ -7743,7 +7753,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-8 to Life",
+                "PropertyString": "+5-10 to Life",
                 "Index": 0
             }
         ],
@@ -7764,7 +7774,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+9-20 to Life",
+                "PropertyString": "+10-25 to Life",
                 "Index": 0
             }
         ],
@@ -8238,7 +8248,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-2 to Strength",
+                "PropertyString": "+2-5 to Strength",
                 "Index": 0
             }
         ],
@@ -8263,7 +8273,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-5 to Strength",
+                "PropertyString": "+6-8 to Strength",
                 "Index": 0
             }
         ],
@@ -8288,7 +8298,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+6-9 to Strength",
+                "PropertyString": "+8-11 to Strength",
                 "Index": 0
             }
         ],
@@ -8313,7 +8323,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+10-15 to Strength",
+                "PropertyString": "+12-15 to Strength",
                 "Index": 0
             }
         ],
@@ -8388,7 +8398,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-2 to Strength",
+                "PropertyString": "+1-5 to Strength",
                 "Index": 0
             }
         ],
@@ -8412,7 +8422,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-5 to Strength",
+                "PropertyString": "+5-8 to Strength",
                 "Index": 0
             }
         ],
@@ -8436,7 +8446,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+6-9 to Strength",
+                "PropertyString": "+9-11 to Strength",
                 "Index": 0
             }
         ],
@@ -8460,7 +8470,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+10-15 to Strength",
+                "PropertyString": "+12-16 to Strength",
                 "Index": 0
             }
         ],
@@ -8484,7 +8494,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+16-20 to Strength",
+                "PropertyString": "+17-25 to Strength",
                 "Index": 0
             }
         ],
@@ -8508,7 +8518,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-2 to Strength",
+                "PropertyString": "+1-5 to Strength",
                 "Index": 0
             }
         ],
@@ -8533,7 +8543,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-5 to Strength",
+                "PropertyString": "+6-8 to Strength",
                 "Index": 0
             }
         ],
@@ -8558,7 +8568,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+6-9 to Strength",
+                "PropertyString": "+9-11 to Strength",
                 "Index": 0
             }
         ],
@@ -8583,7 +8593,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+10-15 to Strength",
+                "PropertyString": "+12-20 to Strength",
                 "Index": 0
             }
         ],
@@ -8607,7 +8617,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-4 to Strength",
+                "PropertyString": "+3-6 to Strength",
                 "Index": 0
             }
         ],
@@ -8628,7 +8638,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+2-3 to Strength",
+                "PropertyString": "+2-4 to Strength",
                 "Index": 0
             }
         ],
@@ -8649,7 +8659,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1 to Strength",
+                "PropertyString": "+1-2 to Strength",
                 "Index": 0
             }
         ],
@@ -9300,48 +9310,44 @@
     },
     {
         "Name": "of Firebolts",
-        "Level": 16,
+        "Level": 12,
         "MaxLevel": 0,
-        "RequiredLevel": 12,
+        "RequiredLevel": 14,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 8 Fire Bolt on striking",
+                "PropertyString": "10% Chance to cast level 10 Fire Bolt on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
         "Name": "of Firebolts",
         "Level": 6,
         "MaxLevel": 0,
-        "RequiredLevel": 4,
+        "RequiredLevel": 6,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5% Chance to cast level 3 Fire Bolt on attack",
+                "PropertyString": "5% Chance to cast level 5 Fire Bolt on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9355,16 +9361,14 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 4 Fire Bolt on attack",
+                "PropertyString": "10% Chance to cast level 12 Fire Bolt on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9378,7 +9382,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 3 Charged Bolt when struck",
+                "PropertyString": "10% Chance to cast level 5 Charged Bolt when struck",
                 "Index": 0
             }
         ],
@@ -9401,7 +9405,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "12% Chance to cast level 4 Charged Bolt when struck",
+                "PropertyString": "12% Chance to cast level 9 Charged Bolt when struck",
                 "Index": 0
             }
         ],
@@ -9424,7 +9428,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "14% Chance to cast level 5 Charged Bolt when struck",
+                "PropertyString": "14% Chance to cast level 13 Charged Bolt when struck",
                 "Index": 0
             }
         ],
@@ -9447,43 +9451,55 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5% Chance to cast level 3 Ice Bolt on attack",
+                "PropertyString": "5% Chance to cast level 5 Ice Bolt on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
         "Name": "of Frozen Armor",
-        "Level": 0,
+        "Level": 20,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 30,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
-        "Properties": null,
-        "Types": [],
+        "Properties": [
+            {
+                "PropertyString": "5% Chance to cast level 10 Frozen Armor when struck",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Any Armor"
+        ],
         "ETypes": [],
         "PType": "Suffix"
     },
     {
         "Name": "of Static Field",
-        "Level": 0,
+        "Level": 20,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 30,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
-        "Properties": null,
-        "Types": [],
+        "Properties": [
+            {
+                "PropertyString": "5% Chance to cast level 5 Static Field when struck",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Any Armor"
+        ],
         "ETypes": [],
         "PType": "Suffix"
     },
@@ -9512,7 +9528,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5% Chance to cast level 3 Frost Nova when struck",
+                "PropertyString": "7% Chance to cast level 7 Frost Nova when struck",
                 "Index": 0
             }
         ],
@@ -9532,16 +9548,24 @@
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
-        "Properties": null,
-        "Types": [],
+        "Properties": [
+            {
+                "PropertyString": "7% Chance to cast level 12 Blaze when struck",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Amulet",
+            "Boots"
+        ],
         "ETypes": [],
         "PType": "Suffix"
     },
     {
         "Name": "of Blaze",
-        "Level": 0,
+        "Level": 12,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 12,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
@@ -9576,16 +9600,14 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 3 Nova on striking",
+                "PropertyString": "10% Chance to cast level 5 Nova on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9599,16 +9621,14 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "12% Chance to cast level 4 Nova on striking",
+                "PropertyString": "12% Chance to cast level 9 Nova on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9622,7 +9642,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 3 Nova when struck",
+                "PropertyString": "10% Chance to cast level 7 Nova when struck",
                 "Index": 0
             }
         ],
@@ -9644,7 +9664,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "12% Chance to cast level 4 Nova when struck",
+                "PropertyString": "12% Chance to cast level 11 Nova when struck",
                 "Index": 0
             }
         ],
@@ -9666,7 +9686,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "14% Chance to cast level 5 Nova when struck",
+                "PropertyString": "14% Chance to cast level 16 Nova when struck",
                 "Index": 0
             }
         ],
@@ -9688,16 +9708,14 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5% Chance to cast level 3 Lightning on attack",
+                "PropertyString": "7% Chance to cast level 7 Nova on striking",
                 "Index": 0
             }
         ],
         "Types": [
             "Weapon"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9707,11 +9725,11 @@
         "RequiredLevel": 18,
         "Group": 44,
         "ClassSpecific": "",
-        "Class": "Sorceress",
-        "ClassLevelReq": 9,
+        "Class": "",
+        "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Level 1 Lightning (50 Charges)",
+                "PropertyString": "Level 5 Static Field (15 Charges)",
                 "Index": 0
             }
         ],
@@ -9751,15 +9769,23 @@
     },
     {
         "Name": "of Enchant",
-        "Level": 0,
+        "Level": 20,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 30,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
-        "Properties": null,
-        "Types": [],
+        "Properties": [
+            {
+                "PropertyString": "5% Chance to cast level 5 Enchant when struck",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Amulet",
+            "Gloves"
+        ],
         "ETypes": [],
         "PType": "Suffix"
     },
@@ -9774,7 +9800,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5% Chance to cast level 3 Chain Lightning on attack",
+                "PropertyString": "7% Chance to cast level 7 Chain Lightning on striking",
                 "Index": 0
             }
         ],
@@ -9783,9 +9809,7 @@
             "Ring",
             "Amulet"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9799,7 +9823,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "8% Chance to cast level 3 Chain Lightning on attack",
+                "PropertyString": "9% Chance to cast level 11 Chain Lightning on striking",
                 "Index": 0
             }
         ],
@@ -9808,9 +9832,7 @@
             "Ring",
             "Amulet"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9824,7 +9846,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "8% Chance to cast level 5 Chain Lightning on attack",
+                "PropertyString": "12% Chance to cast level 18 Chain Lightning on striking",
                 "Index": 0
             }
         ],
@@ -9833,9 +9855,7 @@
             "Ring",
             "Amulet"
         ],
-        "ETypes": [
-            "Missile Weapon"
-        ],
+        "ETypes": [],
         "PType": "Suffix"
     },
     {
@@ -9923,15 +9943,24 @@
     },
     {
         "Name": "of Meteor",
-        "Level": 0,
+        "Level": 40,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 50,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
-        "Properties": null,
-        "Types": [],
+        "Properties": [
+            {
+                "PropertyString": "9% Chance to cast level 14 Meteor when struck",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Any Armor",
+            "Ring",
+            "Amulet"
+        ],
         "ETypes": [],
         "PType": "Suffix"
     },
@@ -14504,7 +14533,7 @@
         "Name": "of Amplify Damage",
         "Level": 3,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 5,
         "Group": 44,
         "ClassSpecific": "",
         "Class": "",
@@ -16138,7 +16167,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Attacker Takes Damage of 1",
+                "PropertyString": "Attacker Takes Damage of 5-10",
                 "Index": 0
             }
         ],
@@ -16261,7 +16290,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "Replenish Life +2",
+                "PropertyString": "Replenish Life +5-10",
                 "Index": 0
             }
         ],

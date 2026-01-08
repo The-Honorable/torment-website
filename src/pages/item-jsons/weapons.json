@@ -3,7 +3,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "3 to 6"
+                "DamageString": "4 to 7"
             }
         ],
         "Speed": 0,
@@ -33,11 +33,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "4 to 11"
+                "DamageString": "5 to 12"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -63,11 +63,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "5 to 13"
+                "DamageString": "6 to 14"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -93,11 +93,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "7 to 11"
+                "DamageString": "8 to 12"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -123,11 +123,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 18"
+                "DamageString": "11 to 19"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -153,11 +153,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 13"
+                "DamageString": "8 to 14"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -183,11 +183,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "10 to 18"
+                "DamageString": "12 to 20"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -213,11 +213,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "12 to 32"
+                "DamageString": "14 to 36"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -243,11 +243,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "9 to 30"
+                "DamageString": "10 to 32"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -273,11 +273,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "22 to 45"
+                "DamageString": "24 to 48"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -423,11 +423,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "1 to 6"
+                "DamageString": "3 to 7"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -453,11 +453,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "6 to 11"
+                "DamageString": "7 to 12"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -483,11 +483,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 18"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -513,11 +513,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 17"
+                "DamageString": "12 to 20"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 5",
         "EquipmentType": 1,
@@ -543,11 +543,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "5 to 8"
+                "DamageString": "6 to 10"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -573,11 +573,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "3 to 10"
+                "DamageString": "4 to 12"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -603,11 +603,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "7 to 16"
+                "DamageString": "8 to 18"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -633,11 +633,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "1 to 24"
+                "DamageString": "6 to 26"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
@@ -663,7 +663,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "19 to 29"
+                "DamageString": "20 to 30"
             }
         ],
         "Speed": 20,
@@ -693,11 +693,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "30 to 43"
+                "DamageString": "30 to 46"
             }
         ],
         "Speed": 10,
-        "StrBonus": 110,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -723,11 +723,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "38 to 58"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": 20,
-        "StrBonus": 110,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -753,7 +753,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "2 to 7"
+                "DamageString": "3 to 8"
             }
         ],
         "Speed": 0,
@@ -783,11 +783,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "2 to 6"
+                "DamageString": "3 to 7"
             }
         ],
         "Speed": -20,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -813,11 +813,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "3 to 8"
+                "DamageString": "4 to 9"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -843,11 +843,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "9 to 17"
+                "DamageString": "10 to 18"
             }
         ],
         "Speed": 20,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -873,11 +873,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "5 to 15"
+                "DamageString": "6 to 16"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -903,11 +903,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "7 to 14"
+                "DamageString": "8 to 15"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -933,11 +933,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "3 to 19"
+                "DamageString": "4 to 20"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -963,11 +963,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 20"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 110,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -993,15 +993,15 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "2 to 9"
+                "DamageString": "3 to 10"
             },
             {
                 "Type": 1,
-                "DamageString": "8 to 17"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -1027,15 +1027,15 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "5 to 12"
+                "DamageString": "6 to 12"
             },
             {
                 "Type": 1,
-                "DamageString": "13 to 30"
+                "DamageString": "14 to 30"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -1061,15 +1061,15 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "3 to 16"
+                "DamageString": "4 to 18"
             },
             {
                 "Type": 1,
-                "DamageString": "9 to 28"
+                "DamageString": "10 to 30"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -1095,15 +1095,15 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "7 to 19"
+                "DamageString": "8 to 20"
             },
             {
                 "Type": 1,
-                "DamageString": "20 to 28"
+                "DamageString": "22 to 32"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -1129,15 +1129,15 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "9 to 15"
+                "DamageString": "10 to 18"
             },
             {
                 "Type": 1,
-                "DamageString": "13 to 26"
+                "DamageString": "18 to 28"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
@@ -1163,15 +1163,15 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "12 to 20"
+                "DamageString": "14 to 24"
             },
             {
                 "Type": 1,
-                "DamageString": "25 to 42"
+                "DamageString": "26 to 46"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -1197,12 +1197,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "1 to 4"
+                "DamageString": "2 to 6"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Dagger",
@@ -1227,12 +1227,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "3 to 9"
+                "DamageString": "4 to 10"
             }
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Dirk",
@@ -1257,12 +1257,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "2 to 11"
+                "DamageString": "3 to 12"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Kris",
@@ -1287,12 +1287,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "4 to 15"
+                "DamageString": "7 to 17"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Blade",
@@ -1317,16 +1317,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "2 to 3"
+                "DamageString": "3 to 6"
             },
             {
                 "Type": 2,
-                "DamageString": "4 to 9"
+                "DamageString": "6 to 12"
             }
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Throwing Knife",
@@ -1351,16 +1351,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "4 to 7"
+                "DamageString": "4 to 8"
             },
             {
                 "Type": 2,
-                "DamageString": "8 to 12"
+                "DamageString": "10 to 14"
             }
         ],
         "Speed": 10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Throwing Axe",
@@ -1385,16 +1385,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "1 to 8"
+                "DamageString": "1 to 10"
             },
             {
                 "Type": 2,
-                "DamageString": "6 to 11"
+                "DamageString": "8 to 12"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Balanced Knife",
@@ -1419,16 +1419,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "5 to 10"
+                "DamageString": "6 to 12"
             },
             {
                 "Type": 2,
-                "DamageString": "12 to 15"
+                "DamageString": "14 to 16"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Balanced Axe",
@@ -1453,16 +1453,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "1 to 5"
+                "DamageString": "2 to 5"
             },
             {
                 "Type": 2,
-                "DamageString": "6 to 14"
+                "DamageString": "6 to 16"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Javelin",
@@ -1487,16 +1487,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "4 to 9"
+                "DamageString": "5 to 10"
             },
             {
                 "Type": 2,
-                "DamageString": "7 to 20"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Pilum",
@@ -1521,7 +1521,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "2 to 13"
+                "DamageString": "3 to 13"
             },
             {
                 "Type": 2,
@@ -1530,7 +1530,7 @@
         ],
         "Speed": 10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Short Spear",
@@ -1555,16 +1555,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "5 to 17"
+                "DamageString": "7 to 17"
             },
             {
                 "Type": 2,
-                "DamageString": "16 to 22"
+                "DamageString": "16 to 26"
             }
         ],
         "Speed": 20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Glaive",
@@ -1593,12 +1593,12 @@
             },
             {
                 "Type": 2,
-                "DamageString": "12 to 30"
+                "DamageString": "16 to 36"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Throwing Spear",
@@ -1623,12 +1623,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "3 to 15"
+                "DamageString": "6 to 16"
             }
         ],
         "Speed": -10,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Spear",
@@ -1653,12 +1653,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "9 to 15"
+                "DamageString": "9 to 19"
             }
         ],
         "Speed": 0,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Trident",
@@ -1688,7 +1688,7 @@
         ],
         "Speed": -20,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Brandistock",
@@ -1713,12 +1713,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "15 to 23"
+                "DamageString": "15 to 25"
             }
         ],
         "Speed": 0,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Spetum",
@@ -1743,12 +1743,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "14 to 63"
+                "DamageString": "16 to 64"
             }
         ],
         "Speed": 20,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Pike",
@@ -1773,11 +1773,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "1 to 27"
+                "DamageString": "7 to 27"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -1807,7 +1807,7 @@
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -1833,12 +1833,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "8 to 20"
+                "DamageString": "10 to 30"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Scythe",
@@ -1863,12 +1863,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "18 to 39"
+                "DamageString": "20 to 40"
             }
         ],
         "Speed": 10,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Poleaxe",
@@ -1893,12 +1893,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "12 to 45"
+                "DamageString": "15 to 45"
             }
         ],
         "Speed": 0,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Halberd",
@@ -1923,12 +1923,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "15 to 36"
+                "DamageString": "16 to 36"
             }
         ],
         "Speed": -10,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "War Scythe",
@@ -1953,11 +1953,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "1 to 5"
+                "DamageString": "3 to 6"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -1983,11 +1983,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "2 to 8"
+                "DamageString": "4 to 8"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -2013,11 +2013,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "4 to 12"
+                "DamageString": "6 to 12"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -2043,11 +2043,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 13"
+                "DamageString": "8 to 16"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -2077,7 +2077,7 @@
             }
         ],
         "Speed": 20,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 5 - (26+): 6",
         "EquipmentType": 1,
@@ -2103,12 +2103,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "1 to 4"
+                "DamageString": "3 to 6"
             }
         ],
         "Speed": 5,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Short Bow",
@@ -2133,12 +2133,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "2 to 6"
+                "DamageString": "4 to 8"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Hunter's Bow",
@@ -2163,12 +2163,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "3 to 10"
+                "DamageString": "5 to 10"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Long Bow",
@@ -2193,12 +2193,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "4 to 8"
+                "DamageString": "6 to 9"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Composite Bow",
@@ -2223,12 +2223,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "5 to 11"
+                "DamageString": "6 to 12"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Short Battle Bow",
@@ -2253,12 +2253,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "3 to 18"
+                "DamageString": "8 to 18"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Long Battle Bow",
@@ -2283,12 +2283,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 14"
+                "DamageString": "8 to 14"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Short War Bow",
@@ -2313,12 +2313,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "3 to 23"
+                "DamageString": "5 to 25"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Long War Bow",
@@ -2343,12 +2343,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 9"
+                "DamageString": "8 to 16"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 140,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Light Crossbow",
@@ -2373,12 +2373,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "9 to 16"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Crossbow",
@@ -2403,12 +2403,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "14 to 26"
+                "DamageString": "20 to 30"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Heavy Crossbow",
@@ -2433,12 +2433,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 12"
+                "DamageString": "10 to 15"
             }
         ],
         "Speed": -40,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Repeating Crossbow",
@@ -2673,12 +2673,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "3 to 7"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": -20,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 300,
         "GemSockets": "0",
         "EquipmentType": 1,
         "Name": "The Gidbinn",
@@ -2703,11 +2703,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "2 to 8"
+                "DamageString": "10 to 30"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 300,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -2733,11 +2733,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "6 to 15"
+                "DamageString": "20 to 30"
             }
         ],
         "Speed": 20,
-        "StrBonus": 100,
+        "StrBonus": 300,
         "DexBonus": 0,
         "GemSockets": "0",
         "EquipmentType": 1,
@@ -2763,11 +2763,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "6 to 15"
+                "DamageString": "20 to 30"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 300,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
@@ -2793,7 +2793,7 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "12 to 20"
+                "DamageString": "50 to 100"
             }
         ],
         "Speed": 0,
@@ -2823,7 +2823,7 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "10 to 15"
+                "DamageString": "50 to 100"
             }
         ],
         "Speed": 0,
@@ -2853,12 +2853,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 21"
+                "DamageString": "12 to 24"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Hatchet",
@@ -2883,11 +2883,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 33"
+                "DamageString": "12 to 34"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -2913,11 +2913,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 38"
+                "DamageString": "14 to 40"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -2943,12 +2943,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "14 to 34"
+                "DamageString": "16 to 36"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Crowbill",
@@ -2973,11 +2973,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "16 to 45"
+                "DamageString": "18 to 48"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -3003,11 +3003,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "14 to 34"
+                "DamageString": "18 to 38"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 145,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -3033,11 +3033,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "21 to 49"
+                "DamageString": "26 to 52"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 145,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -3063,11 +3063,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "24 to 77"
+                "DamageString": "30 to 80"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 145,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -3093,12 +3093,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "18 to 70"
+                "DamageString": "26 to 76"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 145,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Gothic Axe",
@@ -3123,11 +3123,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "43 to 85"
+                "DamageString": "50 to 90"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 145,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -3273,11 +3273,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "6 to 21"
+                "DamageString": "10 to 25"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -3303,11 +3303,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 24"
+                "DamageString": "16 to 28"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -3333,11 +3333,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "14 to 36"
+                "DamageString": "16 to 40"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -3363,11 +3363,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "16 to 38"
+                "DamageString": "22 to 42"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 5",
         "EquipmentType": 1,
@@ -3393,11 +3393,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 25"
+                "DamageString": "18 to 28"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -3423,11 +3423,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "15 to 23"
+                "DamageString": "16 to 26"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -3453,11 +3453,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "20 to 31"
+                "DamageString": "24 to 34"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -3483,12 +3483,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 35"
+                "DamageString": "20 to 40"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Knout",
@@ -3513,11 +3513,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "35 to 58"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": 20,
-        "StrBonus": 110,
+        "StrBonus": 115,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -3543,11 +3543,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "53 to 78"
+                "DamageString": "62 to 82"
             }
         ],
         "Speed": 10,
-        "StrBonus": 110,
+        "StrBonus": 145,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -3573,11 +3573,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "61 to 99"
+                "DamageString": "62 to 112"
             }
         ],
         "Speed": 20,
-        "StrBonus": 110,
+        "StrBonus": 145,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -3603,7 +3603,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 22"
+                "DamageString": "12 to 24"
             }
         ],
         "Speed": 0,
@@ -3633,12 +3633,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 21"
+                "DamageString": "10 to 22"
             }
         ],
         "Speed": -30,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Cutlass",
@@ -3663,12 +3663,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 24"
+                "DamageString": "16 to 26"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Shamshir",
@@ -3693,12 +3693,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "16 to 35"
+                "DamageString": "18 to 38"
             }
         ],
         "Speed": 20,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Tulwar",
@@ -3723,12 +3723,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 35"
+                "DamageString": "16 to 36"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Dimensional Blade",
@@ -3753,12 +3753,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "16 to 34"
+                "DamageString": "20 to 35"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Battle Sword",
@@ -3783,12 +3783,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 42"
+                "DamageString": "20 to 48"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Rune Sword",
@@ -3813,12 +3813,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "18 to 43"
+                "DamageString": "26 to 52"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 100,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Ancient Sword",
@@ -3843,16 +3843,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "8 to 26"
+                "DamageString": "10 to 30"
             },
             {
                 "Type": 1,
-                "DamageString": "18 to 40"
+                "DamageString": "20 to 42"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Espandon",
@@ -3877,16 +3877,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "13 to 30"
+                "DamageString": "14 to 32"
             },
             {
                 "Type": 1,
-                "DamageString": "26 to 61"
+                "DamageString": "28 to 64"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Dacian Falx",
@@ -3911,16 +3911,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "10 to 37"
+                "DamageString": "12 to 38"
             },
             {
                 "Type": 1,
-                "DamageString": "19 to 58"
+                "DamageString": "20 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Tusk Sword",
@@ -3945,16 +3945,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "14 to 40"
+                "DamageString": "16 to 42"
             },
             {
                 "Type": 1,
-                "DamageString": "39 to 60"
+                "DamageString": "40 to 62"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Gothic Sword",
@@ -3979,16 +3979,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "19 to 35"
+                "DamageString": "24 to 44"
             },
             {
                 "Type": 1,
-                "DamageString": "29 to 54"
+                "DamageString": "33 to 73"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Zweihander",
@@ -4013,16 +4013,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "24 to 40"
+                "DamageString": "30 to 50"
             },
             {
                 "Type": 1,
-                "DamageString": "47 to 80"
+                "DamageString": "50 to 90"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Executioner Sword",
@@ -4047,12 +4047,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "6 to 18"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Poignard",
@@ -4077,12 +4077,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 26"
+                "DamageString": "12 to 28"
             }
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Rondel",
@@ -4107,12 +4107,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "15 to 31"
+                "DamageString": "16 to 36"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Cinquedeas",
@@ -4137,12 +4137,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "19 to 36"
+                "DamageString": "22 to 40"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Stiletto",
@@ -4167,16 +4167,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 16"
+                "DamageString": "10 to 20"
             },
             {
                 "Type": 2,
-                "DamageString": "11 to 24"
+                "DamageString": "14 to 24"
             }
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Battle Dart",
@@ -4201,16 +4201,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "11 to 22"
+                "DamageString": "12 to 24"
             },
             {
                 "Type": 2,
-                "DamageString": "18 to 33"
+                "DamageString": "24 to 34"
             }
         ],
         "Speed": 10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Francisca",
@@ -4235,16 +4235,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "6 to 24"
+                "DamageString": "10 to 26"
             },
             {
                 "Type": 2,
-                "DamageString": "14 to 27"
+                "DamageString": "18 to 28"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "War Dart",
@@ -4269,16 +4269,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 27"
+                "DamageString": "16 to 30"
             },
             {
                 "Type": 2,
-                "DamageString": "24 to 34"
+                "DamageString": "30 to 40"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Hurlbat",
@@ -4303,7 +4303,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "6 to 19"
+                "DamageString": "10 to 21"
             },
             {
                 "Type": 2,
@@ -4312,7 +4312,7 @@
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "War Javelin",
@@ -4337,7 +4337,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "11 to 26"
+                "DamageString": "12 to 28"
             },
             {
                 "Type": 2,
@@ -4346,7 +4346,7 @@
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Great Pilum",
@@ -4371,7 +4371,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 32"
+                "DamageString": "10 to 34"
             },
             {
                 "Type": 2,
@@ -4380,7 +4380,7 @@
         ],
         "Speed": 10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Simbilan",
@@ -4405,7 +4405,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 38"
+                "DamageString": "16 to 40"
             },
             {
                 "Type": 2,
@@ -4414,7 +4414,7 @@
         ],
         "Speed": 20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Spiculum",
@@ -4439,7 +4439,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 35"
+                "DamageString": "16 to 36"
             },
             {
                 "Type": 2,
@@ -4448,7 +4448,7 @@
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Harpoon",
@@ -4473,11 +4473,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "10 to 37"
+                "DamageString": "20 to 40"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -4503,11 +4503,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "19 to 37"
+                "DamageString": "20 to 42"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -4533,12 +4533,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "16 to 40"
+                "DamageString": "24 to 44"
             }
         ],
         "Speed": -20,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "War Fork",
@@ -4563,11 +4563,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "29 to 59"
+                "DamageString": "33 to 63"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -4593,12 +4593,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "27 to 114"
+                "DamageString": "40 to 120"
             }
         ],
         "Speed": 20,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Lance",
@@ -4623,11 +4623,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 58"
+                "DamageString": "12 to 62"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -4653,11 +4653,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "14 to 53"
+                "DamageString": "16 to 56"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -4683,12 +4683,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "18 to 45"
+                "DamageString": "22 to 52"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Battle Scythe",
@@ -4713,12 +4713,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "34 to 75"
+                "DamageString": "36 to 76"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Partizan",
@@ -4743,12 +4743,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "13 to 85"
+                "DamageString": "16 to 86"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Bec-de-Corbin",
@@ -4773,12 +4773,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "30 to 70"
+                "DamageString": "35 to 75"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 140,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Grim Scythe",
@@ -4803,11 +4803,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 21"
+                "DamageString": "10 to 24"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -4833,11 +4833,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "8 to 26"
+                "DamageString": "12 to 28"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -4863,11 +4863,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "11 to 32"
+                "DamageString": "14 to 34"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -4893,11 +4893,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "14 to 34"
+                "DamageString": "16 to 36"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -4923,11 +4923,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "24 to 58"
+                "DamageString": "30 to 60"
             }
         ],
         "Speed": 20,
-        "StrBonus": 100,
+        "StrBonus": 140,
         "DexBonus": 0,
         "GemSockets": "(1-25): 5 - (26+): 6",
         "EquipmentType": 1,
@@ -4953,12 +4953,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "6 to 19"
+                "DamageString": "10 to 20"
             }
         ],
         "Speed": 5,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Edge Bow",
@@ -4983,12 +4983,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "8 to 22"
+                "DamageString": "12 to 24"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Razor Bow",
@@ -5013,12 +5013,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "10 to 29"
+                "DamageString": "12 to 32"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Cedar Bow",
@@ -5043,12 +5043,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "11 to 26"
+                "DamageString": "14 to 28"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Double Bow",
@@ -5073,12 +5073,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "13 to 30"
+                "DamageString": "18 to 32"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Short Siege Bow",
@@ -5103,12 +5103,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "10 to 42"
+                "DamageString": "15 to 45"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Large Siege Bow",
@@ -5133,12 +5133,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "14 to 35"
+                "DamageString": "16 to 39"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Rune Bow",
@@ -5163,12 +5163,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "10 to 50"
+                "DamageString": "20 to 60"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Gothic Bow",
@@ -5198,7 +5198,7 @@
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Arbalest",
@@ -5228,7 +5228,7 @@
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Siege Crossbow",
@@ -5258,7 +5258,7 @@
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Ballista",
@@ -5288,7 +5288,7 @@
         ],
         "Speed": -60,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Chu-Ko-Nu",
@@ -5313,11 +5313,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "1 to 15"
+                "DamageString": "50 to 100"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 300,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -5343,11 +5343,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "1 to 15"
+                "DamageString": "50 to 100"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 300,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -5373,12 +5373,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "4 to 7"
+                "DamageString": "4 to 8"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 100,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Katar",
@@ -5403,12 +5403,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "5 to 9"
+                "DamageString": "5 to 10"
             }
         ],
         "Speed": 0,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 100,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Wrist Blade",
@@ -5433,12 +5433,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "2 to 15"
+                "DamageString": "6 to 16"
             }
         ],
         "Speed": 10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 100,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Hatchet Hands",
@@ -5463,12 +5463,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "7 to 15"
+                "DamageString": "8 to 16"
             }
         ],
         "Speed": 0,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 100,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Cestus",
@@ -5493,12 +5493,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 15"
+                "DamageString": "10 to 18"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 100,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Claws",
@@ -5523,12 +5523,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "10 to 14"
+                "DamageString": "12 to 20"
             }
         ],
         "Speed": -20,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 100,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Blade Talons",
@@ -5553,12 +5553,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "9 to 17"
+                "DamageString": "10 to 22"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 100,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Scissors Katar",
@@ -5583,12 +5583,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "11 to 24"
+                "DamageString": "18 to 28"
             }
         ],
         "Speed": 0,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Quhab",
@@ -5613,12 +5613,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 27"
+                "DamageString": "19 to 29"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Wrist Spike",
@@ -5643,12 +5643,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "8 to 37"
+                "DamageString": "10 to 40"
             }
         ],
         "Speed": 10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Fascia",
@@ -5673,12 +5673,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "16 to 37"
+                "DamageString": "20 to 40"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Hand Scythe",
@@ -5703,12 +5703,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "18 to 37"
+                "DamageString": "20 to 40"
             }
         ],
         "Speed": -20,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Greater Claws",
@@ -5733,12 +5733,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "21 to 35"
+                "DamageString": "26 to 36"
             }
         ],
         "Speed": -30,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Greater Talons",
@@ -5763,12 +5763,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "19 to 40"
+                "DamageString": "22 to 42"
             }
         ],
         "Speed": 0,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 110,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Scissors Quhab",
@@ -5793,12 +5793,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "39 to 52"
+                "DamageString": "44 to 54"
             }
         ],
         "Speed": 0,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Suwayyah",
@@ -5823,12 +5823,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "34 to 45"
+                "DamageString": "36 to 56"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Wrist Sword",
@@ -5853,12 +5853,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "44 to 53"
+                "DamageString": "38 to 58"
             }
         ],
         "Speed": 10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "War Fist",
@@ -5883,12 +5883,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "36 to 42"
+                "DamageString": "39 to 59"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Battle Cestus",
@@ -5913,12 +5913,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "22 to 53"
+                "DamageString": "42 to 62"
             }
         ],
         "Speed": -20,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Feral Claws",
@@ -5943,12 +5943,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "24 to 44"
+                "DamageString": "30 to 50"
             }
         ],
         "Speed": -30,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Runic Talons",
@@ -5973,12 +5973,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "40 to 51"
+                "DamageString": "50 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Scissors Suwayyah",
@@ -6003,11 +6003,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "33 to 58"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -6033,11 +6033,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "38 to 60"
+                "DamageString": "40 to 64"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -6063,11 +6063,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "33 to 66"
+                "DamageString": "40 to 70"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -6093,11 +6093,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "30 to 48"
+                "DamageString": "35 to 50"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -6123,11 +6123,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "24 to 71"
+                "DamageString": "30 to 75"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -6153,11 +6153,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "25 to 123"
+                "DamageString": "40 to 130"
             }
         ],
         "Speed": -15,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -6183,11 +6183,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "62 to 110"
+                "DamageString": "70 to 120"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -6213,11 +6213,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "49 to 137"
+                "DamageString": "60 to 160"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26+): 5",
         "EquipmentType": 1,
@@ -6243,11 +6243,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "59 to 94"
+                "DamageString": "60 to 100"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -6273,11 +6273,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "60 to 124"
+                "DamageString": "70 to 140"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1-25): 4 - (26-40): 5 - (41+): 6",
         "EquipmentType": 1,
@@ -6423,11 +6423,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "35 to 43"
+                "DamageString": "40 to 50"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -6453,11 +6453,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "40 to 52"
+                "DamageString": "44 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -6483,11 +6483,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "45 to 54"
+                "DamageString": "50 to 60"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -6513,11 +6513,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "37 to 43"
+                "DamageString": "40 to 55"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 5",
         "EquipmentType": 1,
@@ -6543,11 +6543,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "32 to 58"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -6573,11 +6573,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "41 to 49"
+                "DamageString": "44 to 54"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -6603,11 +6603,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "43 to 53"
+                "DamageString": "45 to 60"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -6633,12 +6633,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "3 to 80"
+                "DamageString": "30 to 90"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Scourge",
@@ -6663,11 +6663,11 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "50 to 61"
+                "DamageString": "60 to 75"
             }
         ],
         "Speed": 20,
-        "StrBonus": 110,
+        "StrBonus": 120,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
@@ -6693,11 +6693,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "77 to 106"
+                "DamageString": "80 to 120"
             }
         ],
         "Speed": 10,
-        "StrBonus": 110,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -6723,11 +6723,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "33 to 180"
+                "DamageString": "50 to 200"
             }
         ],
         "Speed": 20,
-        "StrBonus": 110,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
@@ -6753,12 +6753,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "31 to 59"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Falcata",
@@ -6783,12 +6783,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "26 to 46"
+                "DamageString": "30 to 50"
             }
         ],
         "Speed": -20,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Ataghan",
@@ -6813,12 +6813,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "33 to 45"
+                "DamageString": "36 to 46"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Elegant Blade",
@@ -6843,12 +6843,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "28 to 68"
+                "DamageString": "30 to 70"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 100,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Hydra Edge",
@@ -6873,12 +6873,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "31 to 35"
+                "DamageString": "32 to 38"
             }
         ],
         "Speed": -30,
         "StrBonus": 100,
-        "DexBonus": 0,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Phase Blade",
@@ -6903,12 +6903,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "37 to 53"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Conquest Sword",
@@ -6933,12 +6933,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "5 to 77"
+                "DamageString": "20 to 80"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Cryptic Sword",
@@ -6963,12 +6963,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "40 to 50"
+                "DamageString": "50 to 60"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 100,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Mythical Sword",
@@ -6993,16 +6993,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "22 to 56"
+                "DamageString": "30 to 60"
             },
             {
                 "Type": 1,
-                "DamageString": "50 to 94"
+                "DamageString": "60 to 100"
             }
         ],
         "Speed": -15,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 100,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Legend Sword",
@@ -7027,16 +7027,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "22 to 62"
+                "DamageString": "30 to 70"
             },
             {
                 "Type": 1,
-                "DamageString": "67 to 96"
+                "DamageString": "70 to 110"
             }
         ],
         "Speed": -5,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Highland Blade",
@@ -7061,16 +7061,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "15 to 75"
+                "DamageString": "20 to 80"
             },
             {
                 "Type": 1,
-                "DamageString": "55 to 118"
+                "DamageString": "60 to 120"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Balrog Blade",
@@ -7095,16 +7095,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "24 to 54"
+                "DamageString": "30 to 60"
             },
             {
                 "Type": 1,
-                "DamageString": "71 to 83"
+                "DamageString": "75 to 90"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Champion Sword",
@@ -7129,16 +7129,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "26 to 70"
+                "DamageString": "30 to 75"
             },
             {
                 "Type": 1,
-                "DamageString": "61 to 121"
+                "DamageString": "65 to 130"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Colossus Sword",
@@ -7163,16 +7163,16 @@
         "DamageTypes": [
             {
                 "Type": 0,
-                "DamageString": "25 to 65"
+                "DamageString": "30 to 70"
             },
             {
                 "Type": 1,
-                "DamageString": "58 to 115"
+                "DamageString": "65 to 125"
             }
         ],
         "Speed": 5,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 100,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Colossus Blade",
@@ -7197,12 +7197,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "23 to 49"
+                "DamageString": "30 to 55"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Bone Knife",
@@ -7227,12 +7227,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "37 to 53"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1+): 1",
         "EquipmentType": 1,
         "Name": "Mithril Point",
@@ -7257,12 +7257,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "15 to 57"
+                "DamageString": "20 to 66"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 2 - (26+): 3",
         "EquipmentType": 1,
         "Name": "Fanged Knife",
@@ -7287,12 +7287,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "31 to 47"
+                "DamageString": "40 to 60"
             }
         ],
         "Speed": -10,
-        "StrBonus": 75,
-        "DexBonus": 75,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
         "Name": "Legend Spike",
@@ -7317,16 +7317,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "23 to 54"
+                "DamageString": "28 to 58"
             },
             {
                 "Type": 2,
-                "DamageString": "23 to 54"
+                "DamageString": "28 to 58"
             }
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Flying Knife",
@@ -7351,16 +7351,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "17 to 65"
+                "DamageString": "24 to 74"
             },
             {
                 "Type": 2,
-                "DamageString": "15 to 66"
+                "DamageString": "24 to 74"
             }
         ],
         "Speed": 10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Flying Axe",
@@ -7385,16 +7385,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "27 to 35"
+                "DamageString": "30 to 40"
             },
             {
                 "Type": 2,
-                "DamageString": "23 to 39"
+                "DamageString": "30 to 40"
             }
         ],
         "Speed": -20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "EquipmentType": 1,
         "Name": "Winged Knife",
@@ -7419,16 +7419,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "11 to 56"
+                "DamageString": "20 to 60"
             },
             {
                 "Type": 2,
-                "DamageString": "7 to 60"
+                "DamageString": "20 to 60"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "EquipmentType": 1,
         "Name": "Winged Axe",
@@ -7453,7 +7453,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "21 to 57"
+                "DamageString": "25 to 60"
             },
             {
                 "Type": 2,
@@ -7462,7 +7462,7 @@
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "EquipmentType": 1,
         "Name": "Hyperion Javelin",
@@ -7487,7 +7487,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "14 to 64"
+                "DamageString": "18 to 68"
             },
             {
                 "Type": 2,
@@ -7496,7 +7496,7 @@
         ],
         "Speed": 0,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "EquipmentType": 1,
         "Name": "Stygian Pilum",
@@ -7521,7 +7521,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "33 to 63"
+                "DamageString": "39 to 69"
             },
             {
                 "Type": 2,
@@ -7530,7 +7530,7 @@
         ],
         "Speed": 10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "EquipmentType": 1,
         "Name": "Balrog Spear",
@@ -7555,16 +7555,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "19 to 60"
+                "DamageString": "24 to 64"
             },
             {
                 "Type": 2,
-                "DamageString": "30 to 85"
+                "DamageString": "40 to 85"
             }
         ],
         "Speed": 20,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "EquipmentType": 1,
         "Name": "Ghost Glaive",
@@ -7589,16 +7589,16 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "27 to 35"
+                "DamageString": "30 to 40"
             },
             {
                 "Type": 2,
-                "DamageString": "11 to 77"
+                "DamageString": "20 to 77"
             }
         ],
         "Speed": -10,
         "StrBonus": 75,
-        "DexBonus": 75,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "EquipmentType": 1,
         "Name": "Winged Harpoon",
@@ -7623,12 +7623,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "35 to 119"
+                "DamageString": "40 to 120"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Hyperion Spear",
@@ -7653,12 +7653,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "29 to 144"
+                "DamageString": "40 to 150"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Stygian Pike",
@@ -7683,12 +7683,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "42 to 92"
+                "DamageString": "50 to 95"
             }
         ],
         "Speed": -20,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Mancatcher",
@@ -7713,12 +7713,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "18 to 155"
+                "DamageString": "30 to 160"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Ghost Spear",
@@ -7743,12 +7743,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "33 to 178"
+                "DamageString": "40 to 180"
             }
         ],
         "Speed": 20,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "War Pike",
@@ -7773,12 +7773,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "28 to 145"
+                "DamageString": "30 to 150"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Ogre Axe",
@@ -7803,12 +7803,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "17 to 165"
+                "DamageString": "22 to 172"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Colossus Voulge",
@@ -7833,12 +7833,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "12 to 141"
+                "DamageString": "50 to 150"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Thresher",
@@ -7863,12 +7863,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "33 to 150"
+                "DamageString": "50 to 160"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Cryptic Axe",
@@ -7893,12 +7893,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "46 to 127"
+                "DamageString": "50 to 130"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Great Poleaxe",
@@ -7923,12 +7923,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "40 to 114"
+                "DamageString": "40 to 120"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 150,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Giant Thresher",
@@ -7953,11 +7953,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "69 to 85"
+                "DamageString": "70 to 90"
             }
         ],
         "Speed": -10,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1+): 2",
         "EquipmentType": 1,
@@ -7983,11 +7983,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "75 to 107"
+                "DamageString": "80 to 112"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
@@ -8013,11 +8013,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "80 to 93"
+                "DamageString": "90 to 120"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -8043,11 +8043,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "65 to 108"
+                "DamageString": "80 to 120"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1+): 4",
         "EquipmentType": 1,
@@ -8073,11 +8073,11 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "83 to 99"
+                "DamageString": "100 to 130"
             }
         ],
         "Speed": 10,
-        "StrBonus": 100,
+        "StrBonus": 150,
         "DexBonus": 0,
         "GemSockets": "(1-25): 5 - (26+): 6",
         "EquipmentType": 1,
@@ -8103,12 +8103,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "23 to 50"
+                "DamageString": "30 to 60"
             }
         ],
         "Speed": 5,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Spider Bow",
@@ -8133,12 +8133,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "21 to 41"
+                "DamageString": "25 to 50"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Blade Bow",
@@ -8163,12 +8163,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "15 to 59"
+                "DamageString": "20 to 60"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Shadow Bow",
@@ -8193,12 +8193,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "12 to 52"
+                "DamageString": "16 to 56"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Great Bow",
@@ -8223,12 +8223,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "33 to 40"
+                "DamageString": "40 to 50"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Diamond Bow",
@@ -8253,12 +8253,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "15 to 63"
+                "DamageString": "16 to 66"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Crusader Bow",
@@ -8283,12 +8283,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "20 to 53"
+                "DamageString": "28 to 58"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Ward Bow",
@@ -8313,12 +8313,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "10 to 68"
+                "DamageString": "30 to 70"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Hydra Bow",
@@ -8343,12 +8343,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "28 to 73"
+                "DamageString": "40 to 80"
             }
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1+): 3",
         "EquipmentType": 1,
         "Name": "Pellet Bow",
@@ -8373,12 +8373,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "25 to 87"
+                "DamageString": "35 to 95"
             }
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26+): 4",
         "EquipmentType": 1,
         "Name": "Gorgon Crossbow",
@@ -8403,12 +8403,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "32 to 91"
+                "DamageString": "50 to 120"
             }
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 150,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "EquipmentType": 1,
         "Name": "Colossus Crossbow",
@@ -8433,12 +8433,12 @@
         "DamageTypes": [
             {
                 "Type": 1,
-                "DamageString": "26 to 40"
+                "DamageString": "30 to 45"
             }
         ],
         "Speed": -60,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 115,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "EquipmentType": 1,
         "Name": "Demon Crossbow",
@@ -9183,7 +9183,7 @@
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "AutoMagicGroups": [
             {
@@ -9239,7 +9239,7 @@
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "AutoMagicGroups": [
             {
@@ -9295,7 +9295,7 @@
         ],
         "Speed": 0,
         "StrBonus": 80,
-        "DexBonus": 50,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "AutoMagicGroups": [
             {
@@ -9351,7 +9351,7 @@
         ],
         "Speed": 10,
         "StrBonus": 80,
-        "DexBonus": 50,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "AutoMagicGroups": [
             {
@@ -9411,7 +9411,7 @@
         ],
         "Speed": -10,
         "StrBonus": 80,
-        "DexBonus": 50,
+        "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "AutoMagicGroups": [
             {
@@ -9891,12 +9891,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "13 to 32"
+                "DamageString": "25 to 45"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 115,
+        "DexBonus": 115,
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
@@ -10182,7 +10182,7 @@
         ],
         "Speed": 0,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "AutoMagicGroups": [
             {
@@ -10238,7 +10238,7 @@
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "AutoMagicGroups": [
             {
@@ -10293,8 +10293,8 @@
             }
         ],
         "Speed": 0,
-        "StrBonus": 80,
-        "DexBonus": 50,
+        "StrBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "AutoMagicGroups": [
             {
@@ -10349,8 +10349,8 @@
             }
         ],
         "Speed": 20,
-        "StrBonus": 80,
-        "DexBonus": 50,
+        "StrBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "AutoMagicGroups": [
             {
@@ -10409,8 +10409,8 @@
             }
         ],
         "Speed": -10,
-        "StrBonus": 80,
-        "DexBonus": 50,
+        "StrBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26+): 2",
         "AutoMagicGroups": [
             {
@@ -10890,12 +10890,12 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "12 to 66"
+                "DamageString": "30 to 80"
             }
         ],
         "Speed": 0,
-        "StrBonus": 100,
-        "DexBonus": 0,
+        "StrBonus": 120,
+        "DexBonus": 120,
         "GemSockets": "(1+): 2",
         "AutoMagicGroups": [
             {
@@ -11181,7 +11181,7 @@
         ],
         "Speed": -10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "AutoMagicGroups": [
             {
@@ -11237,7 +11237,7 @@
         ],
         "Speed": 10,
         "StrBonus": 0,
-        "DexBonus": 100,
+        "DexBonus": 140,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 5",
         "AutoMagicGroups": [
             {
@@ -11292,8 +11292,8 @@
             }
         ],
         "Speed": 0,
-        "StrBonus": 80,
-        "DexBonus": 50,
+        "StrBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "AutoMagicGroups": [
             {
@@ -11348,8 +11348,8 @@
             }
         ],
         "Speed": 20,
-        "StrBonus": 80,
-        "DexBonus": 50,
+        "StrBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 3 - (26-40): 4 - (41+): 6",
         "AutoMagicGroups": [
             {
@@ -11408,8 +11408,8 @@
             }
         ],
         "Speed": -10,
-        "StrBonus": 80,
-        "DexBonus": 50,
+        "StrBonus": 100,
+        "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "AutoMagicGroups": [
             {

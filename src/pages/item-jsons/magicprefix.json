@@ -291,7 +291,6 @@
             "Weapon"
         ],
         "ETypes": [
-            "Staff",
             "Wand"
         ],
         "PType": "Prefix"
@@ -315,7 +314,6 @@
             "Weapon"
         ],
         "ETypes": [
-            "Staff",
             "Wand"
         ],
         "PType": "Prefix"
@@ -541,7 +539,6 @@
             "Ring"
         ],
         "ETypes": [
-            "Staff",
             "Wand"
         ],
         "PType": "Prefix"
@@ -694,7 +691,6 @@
             "Weapon"
         ],
         "ETypes": [
-            "Staff",
             "Wand"
         ],
         "PType": "Prefix"
@@ -722,7 +718,6 @@
             "Weapon"
         ],
         "ETypes": [
-            "Staff",
             "Wand"
         ],
         "PType": "Prefix"
@@ -738,7 +733,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "10-15% Better Chance of Getting Magic Items",
+                "PropertyString": "10-20% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -810,7 +805,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-5 to Mana",
+                "PropertyString": "+5-10 to Mana",
                 "Index": 0
             }
         ],
@@ -837,7 +832,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+5-10 to Mana",
+                "PropertyString": "+11-15 to Mana",
                 "Index": 0
             }
         ],
@@ -862,7 +857,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-20 to Mana",
+                "PropertyString": "+15-21 to Mana",
                 "Index": 0
             }
         ],
@@ -887,7 +882,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-20 to Mana",
+                "PropertyString": "+20-30 to Mana",
                 "Index": 0
             }
         ],
@@ -915,7 +910,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+21-30 to Mana",
+                "PropertyString": "+31-35 to Mana",
                 "Index": 0
             }
         ],
@@ -939,7 +934,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+31-40 to Mana",
+                "PropertyString": "+36-41 to Mana",
                 "Index": 0
             }
         ],
@@ -962,7 +957,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+31-40 to Mana",
+                "PropertyString": "+42-49 to Mana",
                 "Index": 0
             }
         ],
@@ -986,7 +981,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+41-60 to Mana",
+                "PropertyString": "+50-60 to Mana",
                 "Index": 0
             }
         ],
@@ -1979,7 +1974,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1 to Mana after each Kill",
+                "PropertyString": "+1-2 to Mana after each Kill",
                 "Index": 0
             }
         ],
@@ -4804,7 +4799,7 @@
     {
         "Name": "Screaming",
         "Level": 10,
-        "MaxLevel": 0,
+        "MaxLevel": 60,
         "RequiredLevel": 7,
         "Group": 113,
         "ClassSpecific": "",
@@ -4846,7 +4841,7 @@
     {
         "Name": "Wailing",
         "Level": 24,
-        "MaxLevel": 0,
+        "MaxLevel": 80,
         "RequiredLevel": 18,
         "Group": 113,
         "ClassSpecific": "",
@@ -4866,16 +4861,16 @@
     },
     {
         "Name": "Lucky",
-        "Level": 21,
+        "Level": 9,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 10,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "1-4% Better Chance of Getting Magic Items",
+                "PropertyString": "8-15% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -4887,16 +4882,16 @@
     },
     {
         "Name": "Lucky",
-        "Level": 38,
+        "Level": 24,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 28,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "5-7% Better Chance of Getting Magic Items",
+                "PropertyString": "16-24% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -4908,16 +4903,16 @@
     },
     {
         "Name": "Lucky",
-        "Level": 55,
+        "Level": 50,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 60,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "8-12% Better Chance of Getting Magic Items",
+                "PropertyString": "25-35% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -4929,16 +4924,16 @@
     },
     {
         "Name": "Lucky",
-        "Level": 34,
+        "Level": 9,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 10,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "1% Better Chance of Getting Magic Items",
+                "PropertyString": "5-10% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -4950,16 +4945,16 @@
     },
     {
         "Name": "Lucky",
-        "Level": 53,
+        "Level": 24,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 28,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "2-3% Better Chance of Getting Magic Items",
+                "PropertyString": "15-20% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -4971,16 +4966,16 @@
     },
     {
         "Name": "Lucky",
-        "Level": 51,
+        "Level": 50,
         "MaxLevel": 0,
-        "RequiredLevel": 0,
+        "RequiredLevel": 60,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "4-6% Better Chance of Getting Magic Items",
+                "PropertyString": "20-30% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
@@ -4992,7 +4987,7 @@
     },
     {
         "Name": "Felicitous",
-        "Level": 5,
+        "Level": 3,
         "MaxLevel": 0,
         "RequiredLevel": 3,
         "Group": 114,
@@ -5008,7 +5003,8 @@
         "Types": [
             "Ring",
             "Amulet",
-            "Circlet"
+            "Circlet",
+            "Jewel"
         ],
         "ETypes": [],
         "PType": "Prefix"
@@ -5017,7 +5013,7 @@
         "Name": "Fortuitous",
         "Level": 12,
         "MaxLevel": 0,
-        "RequiredLevel": 8,
+        "RequiredLevel": 12,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
@@ -5031,27 +5027,31 @@
         "Types": [
             "Ring",
             "Amulet",
-            "Circlet"
+            "Circlet",
+            "Jewel"
         ],
         "ETypes": [],
         "PType": "Prefix"
     },
     {
         "Name": "Emerald",
-        "Level": 16,
+        "Level": 50,
         "MaxLevel": 0,
-        "RequiredLevel": 12,
+        "RequiredLevel": 50,
         "Group": 114,
         "ClassSpecific": "",
         "Class": "",
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "3-7% Better Chance of Getting Magic Items",
+                "PropertyString": "20-30% Better Chance of Getting Magic Items",
                 "Index": 0
             }
         ],
         "Types": [
+            "Ring",
+            "Amulet",
+            "Circlet",
             "Jewel"
         ],
         "ETypes": [],
@@ -5068,7 +5068,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-7 to Mana",
+                "PropertyString": "+5-10 to Mana",
                 "Index": 0
             }
         ],
@@ -5089,7 +5089,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+8-13 to Mana",
+                "PropertyString": "+10-15 to Mana",
                 "Index": 0
             }
         ],
@@ -5110,7 +5110,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+14-20 to Mana",
+                "PropertyString": "+16-20 to Mana",
                 "Index": 0
             }
         ],
@@ -5257,7 +5257,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+2-4 to Mana",
+                "PropertyString": "+2-5 to Mana",
                 "Index": 0
             }
         ],
@@ -5278,7 +5278,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+5-7 to Mana",
+                "PropertyString": "+6-8 to Mana",
                 "Index": 0
             }
         ],
@@ -5299,7 +5299,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+8-12 to Mana",
+                "PropertyString": "+9-12 to Mana",
                 "Index": 0
             }
         ],
@@ -5404,7 +5404,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-2 to Mana",
+                "PropertyString": "+3-4 to Mana",
                 "Index": 0
             }
         ],
@@ -5425,7 +5425,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-7 to Mana",
+                "PropertyString": "+5-7 to Mana",
                 "Index": 0
             }
         ],
@@ -5488,7 +5488,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+3-5 to Mana",
+                "PropertyString": "+5-10 to Mana",
                 "Index": 0
             }
         ],
@@ -5516,7 +5516,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+5-10 to Mana",
+                "PropertyString": "+11-15 to Mana",
                 "Index": 0
             }
         ],
@@ -5542,7 +5542,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+11-20 to Mana",
+                "PropertyString": "+16-20 to Mana",
                 "Index": 0
             }
         ],
@@ -5806,7 +5806,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +3-6",
+                "PropertyString": "All Resistances +3-8",
                 "Index": 0
             }
         ],
@@ -5827,7 +5827,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +8-12",
+                "PropertyString": "All Resistances +9-12",
                 "Index": 0
             }
         ],
@@ -5869,7 +5869,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +3-5",
+                "PropertyString": "All Resistances +3-7",
                 "Index": 0
             }
         ],
@@ -5890,7 +5890,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +6-8",
+                "PropertyString": "All Resistances +8-10",
                 "Index": 0
             }
         ],
@@ -5911,7 +5911,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +3-5",
+                "PropertyString": "All Resistances +4-5",
                 "Index": 0
             }
         ],
@@ -5932,7 +5932,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +3-7",
+                "PropertyString": "All Resistances +5-8",
                 "Index": 0
             }
         ],
@@ -5953,7 +5953,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +8-11",
+                "PropertyString": "All Resistances +9-12",
                 "Index": 0
             }
         ],
@@ -5974,7 +5974,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +12-15",
+                "PropertyString": "All Resistances +13-16",
                 "Index": 0
             }
         ],
@@ -5995,7 +5995,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +16-20",
+                "PropertyString": "All Resistances +17-24",
                 "Index": 0
             }
         ],
@@ -6016,7 +6016,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +21-30",
+                "PropertyString": "All Resistances +25-30",
                 "Index": 0
             }
         ],
@@ -6037,7 +6037,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +3-7",
+                "PropertyString": "All Resistances +4-8",
                 "Index": 0
             }
         ],
@@ -6059,7 +6059,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +8-11",
+                "PropertyString": "All Resistances +9-12",
                 "Index": 0
             }
         ],
@@ -6081,7 +6081,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +12-15",
+                "PropertyString": "All Resistances +13-15",
                 "Index": 0
             }
         ],
@@ -6147,7 +6147,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +3-7",
+                "PropertyString": "All Resistances +4-8",
                 "Index": 0
             }
         ],
@@ -6168,7 +6168,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +8-11",
+                "PropertyString": "All Resistances +9-12",
                 "Index": 0
             }
         ],
@@ -6189,7 +6189,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "All Resistances +12-15",
+                "PropertyString": "All Resistances +13-15",
                 "Index": 0
             }
         ],
@@ -8047,7 +8047,7 @@
     },
     {
         "Name": "Mechanic's",
-        "Level": 10,
+        "Level": 7,
         "MaxLevel": 0,
         "RequiredLevel": 7,
         "Group": 122,
@@ -8067,14 +8067,12 @@
             "Body Armor",
             "Circlet"
         ],
-        "ETypes": [
-            "Thrown Weapon"
-        ],
+        "ETypes": [],
         "PType": "Prefix"
     },
     {
         "Name": "Artisan's",
-        "Level": 33,
+        "Level": 25,
         "MaxLevel": 0,
         "RequiredLevel": 25,
         "Group": 122,
@@ -8093,16 +8091,14 @@
             "Merc Equipment",
             "Body Armor"
         ],
-        "ETypes": [
-            "Thrown Weapon"
-        ],
+        "ETypes": [],
         "PType": "Prefix"
     },
     {
         "Name": "Jeweler's",
-        "Level": 55,
+        "Level": 40,
         "MaxLevel": 0,
-        "RequiredLevel": 47,
+        "RequiredLevel": 40,
         "Group": 122,
         "ClassSpecific": "",
         "Class": "",
@@ -8119,9 +8115,7 @@
             "Merc Equipment",
             "Body Armor"
         ],
-        "ETypes": [
-            "Thrown Weapon"
-        ],
+        "ETypes": [],
         "PType": "Prefix"
     },
     {
@@ -9019,9 +9013,7 @@
             "Knife",
             "Circlet"
         ],
-        "ETypes": [
-            "Throwing Knife"
-        ],
+        "ETypes": [],
         "PType": "Prefix"
     },
     {
@@ -9046,9 +9038,7 @@
             "Knife",
             "Circlet"
         ],
-        "ETypes": [
-            "Throwing Knife"
-        ],
+        "ETypes": [],
         "PType": "Prefix"
     },
     {
@@ -9073,9 +9063,7 @@
             "Knife",
             "Circlet"
         ],
-        "ETypes": [
-            "Throwing Knife"
-        ],
+        "ETypes": [],
         "PType": "Prefix"
     },
     {
@@ -13768,7 +13756,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+1-2 to Mana",
+                "PropertyString": "+3-5 to Mana",
                 "Index": 0
             }
         ],
