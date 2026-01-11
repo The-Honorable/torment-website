@@ -554,6 +554,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "+25-30% Faster Cast Rate",
+                "Index": 6
+            },
+            {
                 "PropertyString": "Adds 5-30 fire damage",
                 "Index": 0
             },
@@ -864,6 +868,10 @@
             {
                 "PropertyString": "lightningskill",
                 "Index": 0
+            },
+            {
+                "PropertyString": "+25-30% Faster Cast Rate",
+                "Index": 6
             },
             {
                 "PropertyString": "Adds 1-50 lightning damage",
@@ -1285,6 +1293,10 @@
             {
                 "PropertyString": "coldskill",
                 "Index": 0
+            },
+            {
+                "PropertyString": "+25-30% Faster Cast Rate",
+                "Index": 6
             },
             {
                 "PropertyString": "Adds 3-14 cold damage",
