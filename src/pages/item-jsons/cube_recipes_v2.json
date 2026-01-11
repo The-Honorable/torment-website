@@ -4758,7 +4758,7 @@
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Merc Equipment",
+        "Name": "Helm",
         "Quantity": 1,
         "Qualifiers": [
           "Normal Quality",
@@ -6843,6 +6843,1049 @@
         "Quantity": 1,
         "Qualifiers": [],
         "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 172,
+    "Description": "upgrade torment charm first",
+    "Op": 16,
+    "Param": 80,
+    "Value": 24,
+    "Class": "Amazon",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Amazon Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10 to Life",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to Mana",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 173,
+    "Description": "upgrade torment charm first",
+    "Op": 16,
+    "Param": 80,
+    "Value": 24,
+    "Class": "Sorceress",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Sorceress Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10 to Life",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to Mana",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 174,
+    "Description": "upgrade torment charm first",
+    "Op": 16,
+    "Param": 80,
+    "Value": 24,
+    "Class": "Necromancer",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Necromancer Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10 to Life",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to Mana",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 175,
+    "Description": "upgrade torment charm first",
+    "Op": 16,
+    "Param": 80,
+    "Value": 24,
+    "Class": "Paladin",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Paladin Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10 to Life",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to Mana",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 176,
+    "Description": "upgrade torment charm first",
+    "Op": 16,
+    "Param": 80,
+    "Value": 24,
+    "Class": "Barbarian",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Barbarian Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10 to Life",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to Mana",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 177,
+    "Description": "upgrade torment charm first",
+    "Op": 16,
+    "Param": 80,
+    "Value": 24,
+    "Class": "Druid",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Druid Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10 to Life",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to Mana",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 178,
+    "Description": "upgrade torment charm first",
+    "Op": 16,
+    "Param": 80,
+    "Value": 24,
+    "Class": "Assassin",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Assassin Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10 to Life",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to Mana",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 179,
+    "Description": "upgrade torment charm second",
+    "Op": 16,
+    "Param": 80,
+    "Value": 49,
+    "Class": "Amazon",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Amazon Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+20% Increased Attack Speed",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+20 to Dexterity",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          },
+          {
+            "PropertyString": "25% Extra Gold from Monsters",
+            "ModChance": 100,
+            "Index": 4
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 180,
+    "Description": "upgrade torment charm second",
+    "Op": 16,
+    "Param": 80,
+    "Value": 49,
+    "Class": "Sorceress",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Sorceress Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+20% Faster Cast Rate",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+20 to Energy",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          },
+          {
+            "PropertyString": "25% Extra Gold from Monsters",
+            "ModChance": 100,
+            "Index": 4
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 181,
+    "Description": "upgrade torment charm second",
+    "Op": 16,
+    "Param": 80,
+    "Value": 49,
+    "Class": "Necromancer",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Necromancer Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+20% Faster Hit Recovery",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "Magic Resist +10%",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          },
+          {
+            "PropertyString": "25% Extra Gold from Monsters",
+            "ModChance": 100,
+            "Index": 4
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 182,
+    "Description": "upgrade torment charm second",
+    "Op": 16,
+    "Param": 80,
+    "Value": 49,
+    "Class": "Paladin",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Paladin Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "Physical Damage Received Reduced by 10%",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+20 to Vitality",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          },
+          {
+            "PropertyString": "25% Extra Gold from Monsters",
+            "ModChance": 100,
+            "Index": 4
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 183,
+    "Description": "upgrade torment charm second",
+    "Op": 16,
+    "Param": 80,
+    "Value": 49,
+    "Class": "Barbarian",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Barbarian Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "Physical Damage Received Reduced by 10%",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+20 to Strength",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          },
+          {
+            "PropertyString": "25% Extra Gold from Monsters",
+            "ModChance": 100,
+            "Index": 4
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 184,
+    "Description": "upgrade torment charm second",
+    "Op": 16,
+    "Param": 80,
+    "Value": 49,
+    "Class": "Druid",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Druid Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "All Resistances +20",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10 to all Attributes",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          },
+          {
+            "PropertyString": "25% Extra Gold from Monsters",
+            "ModChance": 100,
+            "Index": 4
+          }
+        ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 185,
+    "Description": "upgrade torment charm second",
+    "Op": 16,
+    "Param": 80,
+    "Value": 49,
+    "Class": "Assassin",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Tormented Charm",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "Tormented Charm"
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "Properties": [
+          {
+            "PropertyString": "+1 to Assassin Skill Levels",
+            "ModChance": 100,
+            "Index": 0
+          },
+          {
+            "PropertyString": "+20% Increased Attack Speed",
+            "ModChance": 100,
+            "Index": 1
+          },
+          {
+            "PropertyString": "+10% to Fire Skill Damage",
+            "ModChance": 100,
+            "Index": 2
+          },
+          {
+            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "ModChance": 100,
+            "Index": 3
+          },
+          {
+            "PropertyString": "25% Extra Gold from Monsters",
+            "ModChance": 100,
+            "Index": 4
+          }
+        ]
       }
     },
     "Notes": []

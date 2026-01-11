@@ -16,8 +16,8 @@
         "Durability": 12,
         "ItemLevel": 1,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "cap",
@@ -43,8 +43,8 @@
         "Durability": 18,
         "ItemLevel": 5,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "skp",
@@ -70,8 +70,8 @@
         "Durability": 24,
         "ItemLevel": 11,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "hlm",
@@ -97,8 +97,8 @@
         "Durability": 30,
         "ItemLevel": 15,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "fhl",
@@ -124,8 +124,8 @@
         "Durability": 40,
         "ItemLevel": 23,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "ghm",
@@ -151,8 +151,8 @@
         "Durability": 50,
         "ItemLevel": 29,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "crn",
@@ -178,8 +178,8 @@
         "Durability": 20,
         "ItemLevel": 19,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "msk",
@@ -1177,8 +1177,8 @@
         "Durability": 40,
         "ItemLevel": 22,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "bhm",
@@ -1258,8 +1258,8 @@
         "Durability": 12,
         "ItemLevel": 34,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "cap",
@@ -1285,8 +1285,8 @@
         "Durability": 18,
         "ItemLevel": 37,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "skp",
@@ -1312,8 +1312,8 @@
         "Durability": 24,
         "ItemLevel": 42,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "hlm",
@@ -1339,8 +1339,8 @@
         "Durability": 30,
         "ItemLevel": 45,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "fhl",
@@ -1366,8 +1366,8 @@
         "Durability": 40,
         "ItemLevel": 51,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "ghm",
@@ -1393,8 +1393,8 @@
         "Durability": 50,
         "ItemLevel": 55,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "crn",
@@ -1420,8 +1420,8 @@
         "Durability": 20,
         "ItemLevel": 48,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "msk",
@@ -2419,8 +2419,8 @@
         "Durability": 40,
         "ItemLevel": 50,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "bhm",
@@ -3773,8 +3773,8 @@
         "Durability": 12,
         "ItemLevel": 58,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "cap",
@@ -3800,8 +3800,8 @@
         "Durability": 18,
         "ItemLevel": 63,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "skp",
@@ -3827,8 +3827,8 @@
         "Durability": 24,
         "ItemLevel": 68,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "hlm",
@@ -3854,8 +3854,8 @@
         "Durability": 30,
         "ItemLevel": 54,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "fhl",
@@ -3881,8 +3881,8 @@
         "Durability": 40,
         "ItemLevel": 79,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "ghm",
@@ -3908,8 +3908,8 @@
         "Durability": 50,
         "ItemLevel": 80,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "crn",
@@ -3935,8 +3935,8 @@
         "Durability": 20,
         "ItemLevel": 74,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "msk",
@@ -4934,8 +4934,8 @@
         "Durability": 40,
         "ItemLevel": 80,
         "Type": {
-            "Name": "Merc Equipment",
-            "Index": "Merc Equipment",
+            "Name": "Helm",
+            "Index": "Helm",
             "Class": ""
         },
         "NormCode": "bhm",

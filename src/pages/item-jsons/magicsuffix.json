@@ -16,7 +16,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Ring",
             "Amulet"
@@ -105,7 +105,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Ring",
             "Amulet"
@@ -261,7 +261,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Belt"
         ],
@@ -285,7 +285,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Belt"
         ],
@@ -1040,7 +1040,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Ring",
             "Amulet"
         ],
@@ -1435,7 +1435,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Weapon",
             "Boots"
         ],
@@ -1827,7 +1827,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Belt",
             "Amulet"
@@ -1970,7 +1970,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Ring",
             "Amulet"
@@ -2020,7 +2020,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Belt",
             "Amulet"
@@ -2135,7 +2135,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Amulet"
         ],
@@ -2159,7 +2159,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Amulet"
         ],
@@ -2206,7 +2206,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Weapon",
             "Any Shield"
         ],
@@ -2232,7 +2232,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Weapon",
             "Any Shield"
         ],
@@ -6705,7 +6705,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment",
+            "Helm",
             "Scepter"
         ],
         "ETypes": [],
@@ -6727,7 +6727,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment",
+            "Helm",
             "Scepter"
         ],
         "ETypes": [],
@@ -6749,7 +6749,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment",
+            "Helm",
             "Scepter"
         ],
         "ETypes": [],
@@ -6771,7 +6771,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment",
+            "Helm",
             "Scepter"
         ],
         "ETypes": [],
@@ -6872,7 +6872,7 @@
             "Missile Weapon",
             "Ring",
             "Amulet",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -6902,7 +6902,7 @@
             "Gloves",
             "Ring",
             "Amulet",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -7259,7 +7259,7 @@
             "Hammer",
             "Mace",
             "Ring",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -7284,7 +7284,7 @@
             "Hammer",
             "Mace",
             "Ring",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -7309,7 +7309,7 @@
             "Hammer",
             "Mace",
             "Ring",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -7334,7 +7334,7 @@
             "Hammer",
             "Mace",
             "Ring",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -7359,7 +7359,7 @@
             "Hammer",
             "Mace",
             "Ring",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -9156,7 +9156,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment",
+            "Helm",
             "Amulet"
         ],
         "ETypes": [],
@@ -9227,7 +9227,7 @@
         ],
         "Types": [
             "Any Shield",
-            "Merc Equipment",
+            "Helm",
             "Amulet"
         ],
         "ETypes": [],
@@ -11922,7 +11922,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Suffix"
@@ -16322,7 +16322,7 @@
             "Circlet",
             "Wand",
             "Staff",
-            "Merc Equipment",
+            "Helm",
             "Ring"
         ],
         "ETypes": [],

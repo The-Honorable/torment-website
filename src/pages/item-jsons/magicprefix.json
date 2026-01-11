@@ -888,7 +888,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Boots",
             "Gloves",
             "Melee Weapon"
@@ -963,7 +963,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Boots",
             "Gloves"
         ],
@@ -1577,7 +1577,7 @@
         ],
         "Types": [
             "Body Armor",
-            "Merc Equipment",
+            "Helm",
             "Any Shield",
             "Scepter",
             "Staff",
@@ -8063,7 +8063,7 @@
         "Types": [
             "Weapon",
             "Any Shield",
-            "Merc Equipment",
+            "Helm",
             "Body Armor",
             "Circlet"
         ],
@@ -8088,7 +8088,7 @@
         "Types": [
             "Weapon",
             "Any Shield",
-            "Merc Equipment",
+            "Helm",
             "Body Armor"
         ],
         "ETypes": [],
@@ -8112,7 +8112,7 @@
         "Types": [
             "Weapon",
             "Any Shield",
-            "Merc Equipment",
+            "Helm",
             "Body Armor"
         ],
         "ETypes": [],
@@ -9516,7 +9516,7 @@
         "Types": [
             "Primal Helm",
             "Weapon",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [
             "Missile Weapon",
@@ -9542,7 +9542,7 @@
         "Types": [
             "Primal Helm",
             "Weapon",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [
             "Missile Weapon",
@@ -9568,7 +9568,7 @@
         "Types": [
             "Primal Helm",
             "Weapon",
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [
             "Missile Weapon",
@@ -10161,7 +10161,7 @@
         "Types": [
             "Hand to Hand",
             "Amulet",
-            "Merc Equipment",
+            "Helm",
             "Circlet"
         ],
         "ETypes": [],
@@ -10185,7 +10185,7 @@
         "Types": [
             "Hand to Hand",
             "Amulet",
-            "Merc Equipment",
+            "Helm",
             "Circlet"
         ],
         "ETypes": [],
@@ -10209,7 +10209,7 @@
         "Types": [
             "Hand to Hand",
             "Amulet",
-            "Merc Equipment",
+            "Helm",
             "Circlet"
         ],
         "ETypes": [],
@@ -10924,7 +10924,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment",
+            "Helm",
             "Missile Weapon"
         ],
         "ETypes": [],
@@ -10946,7 +10946,7 @@
             }
         ],
         "Types": [
-            "Merc Equipment"
+            "Helm"
         ],
         "ETypes": [],
         "PType": "Prefix"

@@ -152,7 +152,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Biggin's Bonnet",
         "Index": "War Bonnet",
@@ -2125,6 +2125,48 @@
         }
     },
     {
+        "Type": "Grand Charm",
+        "Vanilla": "N",
+        "Name": "Tormented Charm",
+        "Index": "Tormented Charm",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 1,
+        "RequiredLevel": 10,
+        "Code": "cm6",
+        "Properties": [
+            {
+                "PropertyString": "+15 to Life",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+15 to Mana",
+                "Index": 3
+            },
+            {
+                "PropertyString": "15% Extra Gold from Monsters",
+                "Index": 1
+            },
+            {
+                "PropertyString": "15% Better Chance of Getting Magic Items",
+                "Index": 0
+            },
+            {
+                "PropertyString": "and you may find the missing pieces\nScour the darkest depths of Sanctuary\nYour search begins",
+                "Index": 4
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": null,
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
         "Type": "Knife",
         "Vanilla": "Y",
         "Name": "The Diggler",
@@ -3014,7 +3056,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Coif of Glory",
         "Index": "Coif of Glory",
@@ -3323,7 +3365,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Tarnhelm",
         "Index": "Tarnhelm",
@@ -4072,7 +4114,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Duskdeep",
         "Index": "Duskdeep",
@@ -4854,7 +4896,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "The Face of Horror",
         "Index": "The Face of Horror",
@@ -5350,7 +5392,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Wormskull",
         "Index": "Wormskull",
@@ -6212,7 +6254,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Howltusk",
         "Index": "Howltusk",
@@ -7651,7 +7693,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Peasant Crown",
         "Index": "Peasent Crown",
@@ -8063,7 +8105,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Undead Crown",
         "Index": "Undead Crown",
@@ -9214,7 +9256,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Rockstopper",
         "Index": "Rockstopper",
@@ -10100,7 +10142,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Stealskull",
         "Index": "Stealskull",
@@ -11013,7 +11055,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Darksight Helm",
         "Index": "Darksight Helm",
@@ -11772,7 +11814,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Blackhorn's Face",
         "Index": "Blackhorn's Face",
@@ -11818,7 +11860,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Vampire Gaze",
         "Index": "Vampiregaze",
@@ -13315,7 +13357,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Valkyrie Wing",
         "Index": "Valkiry Wing",
@@ -14803,7 +14845,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Crown of Thieves",
         "Index": "Crown of Thieves",
@@ -19011,7 +19053,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Harlequin Crest",
         "Index": "Harlequin Crest",
@@ -20372,7 +20414,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "N",
         "Name": "Kaelan's Cap",
         "Index": "Kaelans Cap",
@@ -20908,7 +20950,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "N",
         "Name": "Asheara's Guard",
         "Index": "Ashearas Guard",
@@ -21335,7 +21377,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Steel Shade",
         "Index": "Steelshade",
@@ -23003,7 +23045,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Veil of Steel",
         "Index": "Veil of Steel",
@@ -23605,7 +23647,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Nightwing's Veil",
         "Index": "Nightwing's Veil",
@@ -26877,7 +26919,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Crown of Ages",
         "Index": "Crown of Ages",
@@ -26935,7 +26977,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Andariel's Visage",
         "Index": "Andariel's Visage",
@@ -27962,7 +28004,7 @@
         }
     },
     {
-        "Type": "Merc Equipment",
+        "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Giant Skull",
         "Index": "Giantskull",

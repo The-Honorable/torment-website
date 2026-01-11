@@ -24,8 +24,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -39,8 +39,12 @@
         "Code": "Runeword68",
         "Properties": [
             {
-                "PropertyString": "+10% Faster Run/Walk",
+                "PropertyString": "+10% Faster Hit Recovery",
                 "Index": 2
+            },
+            {
+                "PropertyString": "2% Life stolen per hit",
+                "Index": 4
             },
             {
                 "PropertyString": "+50% Enhanced Defense",
@@ -51,11 +55,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+4 to Mana after each Kill",
-                "Index": 4
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
             },
             {
-                "PropertyString": "+5% to Experience Gained",
+                "PropertyString": "+2-4% to Experience Gained",
                 "Index": 0
             },
             {
@@ -91,8 +95,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -106,16 +110,16 @@
         "Code": "Runeword88",
         "Properties": [
             {
-                "PropertyString": "+10% Faster Run/Walk",
+                "PropertyString": "5% Chance to cast level 1 Dim Vision when struck",
                 "Index": 5
             },
             {
-                "PropertyString": "+50% Enhanced Defense",
-                "Index": 0
+                "PropertyString": "+15% Faster Run/Walk",
+                "Index": 4
             },
             {
-                "PropertyString": "+25 Defense",
-                "Index": 1
+                "PropertyString": "+100% Enhanced Defense",
+                "Index": 0
             },
             {
                 "PropertyString": "+30 Defense vs. Missile",
@@ -123,19 +127,19 @@
             },
             {
                 "PropertyString": "+10 to Strength",
-                "Index": 4
+                "Index": 3
             },
             {
                 "PropertyString": "+2 to Mana after each Kill",
                 "Index": 0
             },
             {
-                "PropertyString": "-50% Extra Gold from Monsters",
-                "Index": 3
+                "PropertyString": "-25% Extra Gold from Monsters",
+                "Index": 2
             },
             {
-                "PropertyString": "-2 to Light Radius",
-                "Index": 2
+                "PropertyString": "-1 to Light Radius",
+                "Index": 1
             }
         ],
         "DamageArmorEnhanced": false,
@@ -554,15 +558,98 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+9 to Fire Bolt (Sorceress Only)",
+                "PropertyString": "+3 to Fire Bolt (Sorceress Only)",
                 "Index": 3
+            },
+            {
+                "PropertyString": "+3 to Blaze (Sorceress Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Warmth (Sorceress Only)",
+                "Index": 5
             },
             {
                 "PropertyString": "+2 Defense (Per Character Level)",
                 "Index": 1
             },
             {
-                "PropertyString": "Cold Resist +33%",
+                "PropertyString": "Fire Resist +33%",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Tir Rune",
+                "ItemLevel": 13,
+                "RequiredLevel": 13,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ral Rune",
+                "ItemLevel": 19,
+                "RequiredLevel": 19,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Orb",
+                "Index": "Orb",
+                "Class": "sor"
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Leaf",
+        "Index": "Runeword72",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 19,
+        "RequiredLevel": 19,
+        "Code": "Runeword72",
+        "Properties": [
+            {
+                "PropertyString": "+2 to Fire Skills",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10-15% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Adds 5-30 fire damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+2 to Fire Bolt (Sorceress Only)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+1 to Blaze (Sorceress Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+1 to Warmth (Sorceress Only)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Fire Resist +10-15%",
                 "Index": 2
             },
             {
@@ -738,6 +825,81 @@
     {
         "Runes": [
             {
+                "Name": "Tir Rune",
+                "ItemLevel": 13,
+                "RequiredLevel": 13,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ort Rune",
+                "ItemLevel": 21,
+                "RequiredLevel": 21,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Staff",
+                "Index": "Staff",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Lightning",
+        "Index": "Runeword73",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 21,
+        "RequiredLevel": 21,
+        "Code": "Runeword73",
+        "Properties": [
+            {
+                "PropertyString": "lightningskill",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Adds 1-50 lightning damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+3 to Charged Bolt (Sorceress Only)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+3 to Static Field (Sorceress Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Teleport (Sorceress Only)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+2 Defense (Per Character Level)",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Lightning Resist +33%",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
                 "Name": "Ort Rune",
                 "ItemLevel": 21,
                 "RequiredLevel": 21,
@@ -805,6 +967,81 @@
             {
                 "PropertyString": "+25 Defense",
                 "Index": 5
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Tir Rune",
+                "ItemLevel": 13,
+                "RequiredLevel": 13,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ort Rune",
+                "ItemLevel": 21,
+                "RequiredLevel": 21,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Orb",
+                "Index": "Orb",
+                "Class": "sor"
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Lightning",
+        "Index": "Runeword73",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 21,
+        "RequiredLevel": 21,
+        "Code": "Runeword73",
+        "Properties": [
+            {
+                "PropertyString": "lightningskill",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10-15% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Adds 1-50 lightning damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+2 to Charged Bolt (Sorceress Only)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+1 to Static Field (Sorceress Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+1 to Teleport (Sorceress Only)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Lightning Resist +10-15%",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
             }
         ],
         "DamageArmorEnhanced": false,
@@ -1001,6 +1238,156 @@
             {
                 "PropertyString": "Lightning Resist +50%",
                 "Index": 3
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Tir Rune",
+                "ItemLevel": 13,
+                "RequiredLevel": 13,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Thul Rune",
+                "ItemLevel": 23,
+                "RequiredLevel": 23,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Staff",
+                "Index": "Staff",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Water",
+        "Index": "Runeword159",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 23,
+        "RequiredLevel": 24,
+        "Code": "Runeword159",
+        "Properties": [
+            {
+                "PropertyString": "coldskill",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Adds 3-14 cold damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+3 to Blizzard (Sorceress Only)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+3 to Shiver Armor (Sorceress Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Glacial Spike (Sorceress Only)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+2 Defense (Per Character Level)",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Cold Resist +33%",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Tir Rune",
+                "ItemLevel": 13,
+                "RequiredLevel": 13,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Thul Rune",
+                "ItemLevel": 23,
+                "RequiredLevel": 23,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Orb",
+                "Index": "Orb",
+                "Class": "sor"
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Water",
+        "Index": "Runeword159",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 23,
+        "RequiredLevel": 24,
+        "Code": "Runeword159",
+        "Properties": [
+            {
+                "PropertyString": "coldskill",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10-15% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Adds 3-14 cold damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+2 to Blizzard (Sorceress Only)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+1 to Shiver Armor (Sorceress Only)",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+1 to Glacial Spike (Sorceress Only)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Cold Resist +10-15%",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2 to Mana after each Kill",
+                "Index": 0
             }
         ],
         "DamageArmorEnhanced": false,
@@ -1248,6 +1635,10 @@
             {
                 "PropertyString": "+2 to Barbarian Skill Levels",
                 "Index": 2
+            },
+            {
+                "PropertyString": "+15% Faster Run/Walk",
+                "Index": 5
             },
             {
                 "PropertyString": "+50% Enhanced Damage",
@@ -1727,8 +2118,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -1804,8 +2195,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -1843,7 +2234,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+3 to Light Radius",
+                "PropertyString": "+2 to Light Radius",
                 "Index": 0
             }
         ],
@@ -2201,8 +2592,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -2278,8 +2669,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -2355,8 +2746,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -2436,8 +2827,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -2517,8 +2908,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -2809,7 +3200,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+3 to Light Radius",
+                "PropertyString": "+1 to Light Radius",
                 "Index": 0
             }
         ],
@@ -2920,7 +3311,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+2 to Light Radius",
+                "PropertyString": "+1 to Light Radius",
                 "Index": 6
             },
             {
@@ -4120,8 +4511,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -5093,8 +5484,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -5697,8 +6088,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],
@@ -7673,8 +8064,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             },
             {
@@ -9114,8 +9505,8 @@
         ],
         "Types": [
             {
-                "Name": "Merc Equipment",
-                "Index": "Merc Equipment",
+                "Name": "Helm",
+                "Index": "Helm",
                 "Class": ""
             }
         ],

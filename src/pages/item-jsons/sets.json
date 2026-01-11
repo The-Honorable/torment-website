@@ -566,7 +566,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Iratha's Finery",
                 "SetPropertiesString": [
                     "+2 Defense (Per Character Level) (2 Items)"
@@ -825,7 +825,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Isenhart's Armory",
                 "SetPropertiesString": [
                     "+10% Enhanced Damage (3 Items)",
@@ -1205,7 +1205,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Milabrega's Regalia",
                 "SetPropertiesString": [
                     "+10% Increased Attack Speed (3 Items)",
@@ -1423,7 +1423,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Cathan's Traps",
                 "SetPropertiesString": [
                     "+1 to Fire Skills (3 Items)",
@@ -1759,7 +1759,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Tancred's Battlegear",
                 "SetPropertiesString": [
                     "All Resistances +10 (2 Items)"
@@ -1873,7 +1873,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Sigon's Complete Steel",
                 "SetPropertiesString": [
                     "+8 to Attack Rating (Per Character Level) (2 Items)"
@@ -2106,7 +2106,7 @@
         "Name": "Infernal Tools",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Infernal Tools",
                 "SetPropertiesString": [
                     "+2 Defense (Per Character Level) (2 Items)"
@@ -2277,7 +2277,7 @@
         "Name": "Berserker's Garb",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Berserker's Garb",
                 "SetPropertiesString": [
                     "+8 to Attack Rating (Per Character Level) (2 Items)"
@@ -3083,7 +3083,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Arcanna's Tricks",
                 "SetPropertiesString": [
                     "+3 Defense (Per Character Level) (2 Items)",
@@ -3207,7 +3207,7 @@
         "Name": "Natalya's Odium",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Natalya's Odium",
                 "SetPropertiesString": [],
                 "Name": "Natalya's Totem",
@@ -4339,7 +4339,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Tal Rasha's Wrappings",
                 "SetPropertiesString": [
                     "+10% Faster Hit Recovery (2 Items)",
@@ -4445,7 +4445,7 @@
         "Name": "Griswold's Legacy",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Griswold's Legacy",
                 "SetPropertiesString": [
                     "+2 to Offensive Auras (Paladin Only) (2 Items)"
@@ -4709,7 +4709,7 @@
         "Name": "Trang-Oul's Avatar",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Trang-Oul's Avatar",
                 "SetPropertiesString": [
                     "+1 to Necromancer Skill Levels (4 Items)",
@@ -5741,7 +5741,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Heaven's Brethren",
                 "SetPropertiesString": [],
                 "Name": "Ondal's Almighty",
@@ -5836,7 +5836,7 @@
         "Name": "Orphan's Call",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Orphan's Call",
                 "SetPropertiesString": [],
                 "Name": "Guillaume's Face",
@@ -6068,7 +6068,7 @@
         "Name": "Hwanin's Majesty",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Hwanin's Majesty",
                 "SetPropertiesString": [],
                 "Name": "Hwanin's Splendor",
@@ -6392,7 +6392,7 @@
                 }
             },
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Sazabi's Grand Tribute",
                 "SetPropertiesString": [],
                 "Name": "Sazabi's Mental Sheath",
@@ -6622,7 +6622,7 @@
         "Name": "Cow King's Leathers",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "Cow King's Leathers",
                 "SetPropertiesString": [],
                 "Name": "Cow King's Horns",
@@ -7015,7 +7015,7 @@
         "Name": "McAuley's Folly",
         "SetItems": [
             {
-                "Type": "Merc Equipment",
+                "Type": "Helm",
                 "Set": "McAuley's Folly",
                 "SetPropertiesString": [],
                 "Name": "Sander's Paragon",
