@@ -1,4 +1,4 @@
-import { C as CustomElement, i as isBlankOrInvalid, s as syncParamsToUrl, w as watch, c as customElement, b as bindable } from "./index-CEdIuh7K.js";
+import { C as CustomElement, i as isBlankOrInvalid, s as syncParamsToUrl, w as watch, c as customElement, b as bindable } from "./index-Cd1s6mqx.js";
 import { d as debounce } from "./debounce-DlM2vs2L.js";
 import { t as tokenizeSearch } from "./filter-helpers-C07hLFTd.js";
 const name = "cube-recipes";
