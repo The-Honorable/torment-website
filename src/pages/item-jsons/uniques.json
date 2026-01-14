@@ -8216,7 +8216,7 @@
         "Code": "hgl",
         "Properties": [
             {
-                "PropertyString": "coldskill",
+                "PropertyString": "+1 to Cold Skills",
                 "Index": 5
             },
             {
@@ -9055,7 +9055,7 @@
         "Code": "ob4",
         "Properties": [
             {
-                "PropertyString": "lightningskill",
+                "PropertyString": "+2 to Lightning Skills",
                 "Index": 0
             },
             {
@@ -16433,7 +16433,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "coldskill",
+                "PropertyString": "+2 to Cold Skills",
                 "Index": 0
             },
             {
@@ -16490,7 +16490,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "coldskill",
+                "PropertyString": "+2 to Cold Skills",
                 "Index": 0
             },
             {
@@ -16630,7 +16630,7 @@
         "Code": "amu",
         "Properties": [
             {
-                "PropertyString": "poisonskill",
+                "PropertyString": "+2 to Poison Skills",
                 "Index": 1
             },
             {
@@ -17656,7 +17656,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "lightningskill",
+                "PropertyString": "+3 to Lightning Skills",
                 "Index": 0
             },
             {
@@ -19539,7 +19539,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "coldskill",
+                "PropertyString": "+2 to Cold Skills",
                 "Index": 4
             },
             {
@@ -21110,7 +21110,7 @@
         "Code": "ula",
         "Properties": [
             {
-                "PropertyString": "poisonskill",
+                "PropertyString": "+2 to Poison Skills",
                 "Index": 5
             },
             {
@@ -23662,7 +23662,7 @@
         "Code": "uhm",
         "Properties": [
             {
-                "PropertyString": "coldskill",
+                "PropertyString": "+2 to Cold Skills",
                 "Index": 1
             },
             {
@@ -23975,7 +23975,7 @@
         "Code": "cm3",
         "Properties": [
             {
-                "PropertyString": "coldskill",
+                "PropertyString": "+1 to Cold Skills",
                 "Index": 0
             }
         ],
@@ -24001,7 +24001,7 @@
         "Code": "cm3",
         "Properties": [
             {
-                "PropertyString": "lightningskill",
+                "PropertyString": "+1 to Lightning Skills",
                 "Index": 0
             }
         ],
@@ -24027,7 +24027,7 @@
         "Code": "cm3",
         "Properties": [
             {
-                "PropertyString": "poisonskill",
+                "PropertyString": "+1 to Poison Skills",
                 "Index": 0
             }
         ],
@@ -24053,7 +24053,7 @@
         "Code": "cm3",
         "Properties": [
             {
-                "PropertyString": "magicskill",
+                "PropertyString": "+1 to Magic Skills",
                 "Index": 0
             }
         ],
