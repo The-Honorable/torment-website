@@ -2408,6 +2408,83 @@
     {
         "Runes": [
             {
+                "Name": "Dol Rune",
+                "ItemLevel": 31,
+                "RequiredLevel": 31,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Eth Rune",
+                "ItemLevel": 15,
+                "RequiredLevel": 15,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Dol Rune",
+                "ItemLevel": 31,
+                "RequiredLevel": 31,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Helm",
+                "Index": "Helm",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Elation",
+        "Index": "Runeword32",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 31,
+        "RequiredLevel": 31,
+        "Code": "Runeword32",
+        "Properties": [
+            {
+                "PropertyString": "+1 to All Skills",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20% Faster Cast Rate",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30% Faster Hit Recovery",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+50-100% Enhanced Defense",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Regenerate Mana 35-45%",
+                "Index": 1
+            },
+            {
+                "PropertyString": "All Resistances +20",
+                "Index": 4
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
                 "Name": "Hel Rune",
                 "ItemLevel": 33,
                 "RequiredLevel": 0,
@@ -4736,7 +4813,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "All Resistances +40",
+                "PropertyString": "All Resistances +50",
                 "Index": 0
             },
             {
@@ -4922,84 +4999,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "All Resistances +20",
-                "Index": 0
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": null
-    },
-    {
-        "Runes": [
-            {
-                "Name": "Dol Rune",
-                "ItemLevel": 31,
-                "RequiredLevel": 31,
-                "Type": {
-                    "Name": "Rune",
-                    "Index": "Rune",
-                    "Class": ""
-                }
-            },
-            {
-                "Name": "Eth Rune",
-                "ItemLevel": 15,
-                "RequiredLevel": 15,
-                "Type": {
-                    "Name": "Rune",
-                    "Index": "Rune",
-                    "Class": ""
-                }
-            },
-            {
-                "Name": "Um Rune",
-                "ItemLevel": 47,
-                "RequiredLevel": 47,
-                "Type": {
-                    "Name": "Rune",
-                    "Index": "Rune",
-                    "Class": ""
-                }
-            }
-        ],
-        "Types": [
-            {
-                "Name": "Helm",
-                "Index": "Helm",
-                "Class": ""
-            }
-        ],
-        "Vanilla": "N",
-        "Name": "Elation",
-        "Index": "Runeword32",
-        "Enabled": true,
-        "Rarity": 0,
-        "ItemLevel": 47,
-        "RequiredLevel": 47,
-        "Code": "Runeword32",
-        "Properties": [
-            {
-                "PropertyString": "+1 to All Skills",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+10% Faster Cast Rate",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+20-30% Faster Hit Recovery",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+50-100% Enhanced Defense",
-                "Index": 3
-            },
-            {
-                "PropertyString": "Regenerate Mana 35-45%",
-                "Index": 1
-            },
-            {
-                "PropertyString": "All Resistances +20",
+                "PropertyString": "All Resistances +25",
                 "Index": 0
             }
         ],
@@ -5076,7 +5076,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "All Resistances +50",
+                "PropertyString": "All Resistances +55",
                 "Index": 1
             },
             {
@@ -5183,7 +5183,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "All Resistances +20",
+                "PropertyString": "All Resistances +25",
                 "Index": 0
             }
         ],
@@ -7727,7 +7727,7 @@
                 "Index": 6
             },
             {
-                "PropertyString": "All Resistances +70",
+                "PropertyString": "All Resistances +75",
                 "Index": 0
             },
             {
@@ -7804,7 +7804,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "All Resistances +48",
+                "PropertyString": "All Resistances +50",
                 "Index": 2
             },
             {
@@ -10093,7 +10093,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Level 5 Salvation Aura When Equipped",
+                "PropertyString": "Level 3-5 Salvation Aura When Equipped",
                 "Index": 0
             },
             {
@@ -10101,19 +10101,19 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+50% Increased Attack Speed",
+                "PropertyString": "+30-50% Increased Attack Speed",
                 "Index": 2
             },
             {
-                "PropertyString": "+50% Faster Cast Rate",
+                "PropertyString": "+30-50% Faster Cast Rate",
                 "Index": 1
             },
             {
-                "PropertyString": "+50% Faster Hit Recovery",
+                "PropertyString": "+30-50% Faster Hit Recovery",
                 "Index": 3
             },
             {
-                "PropertyString": "All Resistances +40",
+                "PropertyString": "All Resistances +50",
                 "Index": 0
             },
             {
@@ -10188,7 +10188,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Level 5 Conviction Aura When Equipped",
+                "PropertyString": "Level 3-5 Conviction Aura When Equipped",
                 "Index": 0
             },
             {
@@ -10196,19 +10196,19 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+50% Increased Attack Speed",
+                "PropertyString": "+30-50% Increased Attack Speed",
                 "Index": 2
             },
             {
-                "PropertyString": "+50% Faster Cast Rate",
+                "PropertyString": "+30-50% Faster Cast Rate",
                 "Index": 1
             },
             {
-                "PropertyString": "+50% Faster Hit Recovery",
+                "PropertyString": "+30-50% Faster Hit Recovery",
                 "Index": 3
             },
             {
-                "PropertyString": "All Resistances +40",
+                "PropertyString": "All Resistances +50",
                 "Index": 0
             },
             {
