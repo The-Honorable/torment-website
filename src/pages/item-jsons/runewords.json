@@ -260,7 +260,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+9 to Maximum Damage",
+                "PropertyString": "+10 to Maximum Damage",
                 "Index": 0
             },
             {
@@ -400,7 +400,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+9 to Maximum Damage",
+                "PropertyString": "+10 to Maximum Damage",
                 "Index": 0
             },
             {
@@ -1953,11 +1953,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+9 to Minimum Damage",
+                "PropertyString": "+10 to Minimum Damage",
                 "Index": 0
             },
             {
-                "PropertyString": "+9 to Maximum Damage",
+                "PropertyString": "+10 to Maximum Damage",
                 "Index": 0
             },
             {
@@ -2090,15 +2090,15 @@
                 "Index": 0
             },
             {
+                "PropertyString": "Adds 10 to Damage (Weapon)",
+                "Index": 0
+            },
+            {
                 "PropertyString": "Adds 5-30 fire damage (Weapon)",
                 "Index": 0
             },
             {
                 "PropertyString": "Adds 61 poison damage over 4 seconds (Weapon)",
-                "Index": 0
-            },
-            {
-                "PropertyString": "Adds 9 to Damage (Weapon)",
                 "Index": 0
             }
         ],
@@ -2399,6 +2399,91 @@
             },
             {
                 "PropertyString": "Attacker Takes Damage of 14",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Hel Rune",
+                "ItemLevel": 33,
+                "RequiredLevel": 0,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Dol Rune",
+                "ItemLevel": 31,
+                "RequiredLevel": 31,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Shael Rune",
+                "ItemLevel": 29,
+                "RequiredLevel": 29,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Any Shield",
+                "Index": "Any Shield",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Madness",
+        "Index": "Runeword79",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 33,
+        "RequiredLevel": 31,
+        "Code": "Runeword79",
+        "Properties": [
+            {
+                "PropertyString": "+1-2 to All Skills",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30% Increased Attack Speed",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+20-30% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+20% Faster Block Rate",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+1-100 to Mana",
+                "Index": 3
+            },
+            {
+                "PropertyString": "All Resistances +20",
+                "Index": 5
+            },
+            {
+                "PropertyString": "50% Better Chance of Getting Magic Items",
+                "Index": 4
+            },
+            {
+                "PropertyString": "Requirements -15%",
                 "Index": 0
             }
         ],
@@ -3038,7 +3123,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+9 to Minimum Damage",
+                "PropertyString": "+10 to Minimum Damage",
                 "Index": 0
             },
             {
@@ -3287,11 +3372,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+9 to Minimum Damage",
+                "PropertyString": "+10 to Minimum Damage",
                 "Index": 0
             },
             {
-                "PropertyString": "+9 to Maximum Damage",
+                "PropertyString": "+10 to Maximum Damage",
                 "Index": 0
             },
             {
@@ -3895,7 +3980,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+9 to Maximum Damage",
+                "PropertyString": "+10 to Maximum Damage",
                 "Index": 0
             },
             {
@@ -4465,7 +4550,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+30% Enhanced Defense",
+                "PropertyString": "+50% Enhanced Defense",
                 "Index": 0
             },
             {
@@ -4550,7 +4635,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+30% Enhanced Defense",
+                "PropertyString": "+50% Enhanced Defense",
                 "Index": 0
             },
             {
@@ -4847,6 +4932,83 @@
     {
         "Runes": [
             {
+                "Name": "Dol Rune",
+                "ItemLevel": 31,
+                "RequiredLevel": 31,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Eth Rune",
+                "ItemLevel": 15,
+                "RequiredLevel": 15,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Um Rune",
+                "ItemLevel": 47,
+                "RequiredLevel": 47,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Helm",
+                "Index": "Helm",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Elation",
+        "Index": "Runeword32",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 47,
+        "RequiredLevel": 47,
+        "Code": "Runeword32",
+        "Properties": [
+            {
+                "PropertyString": "+1 to All Skills",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10% Faster Cast Rate",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30% Faster Hit Recovery",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+50-100% Enhanced Defense",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Regenerate Mana 35-45%",
+                "Index": 1
+            },
+            {
+                "PropertyString": "All Resistances +20",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
                 "Name": "Fal Rune",
                 "ItemLevel": 41,
                 "RequiredLevel": 41,
@@ -4906,7 +5068,7 @@
                 "Index": 4
             },
             {
-                "PropertyString": "+200-260% Enhanced Defense",
+                "PropertyString": "+220-280% Enhanced Defense",
                 "Index": 0
             },
             {
@@ -5001,7 +5163,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+250-290% Enhanced Defense",
+                "PropertyString": "+270-310% Enhanced Defense",
                 "Index": 0
             },
             {
@@ -5104,7 +5266,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+75% Damage to Demons",
+                "PropertyString": "+100% Damage to Demons",
                 "Index": 1
             },
             {
@@ -5549,6 +5711,98 @@
             {
                 "PropertyString": "Level 17 Attract (60 Charges)",
                 "Index": 1
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Ist Rune",
+                "ItemLevel": 51,
+                "RequiredLevel": 51,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ist Rune",
+                "ItemLevel": 51,
+                "RequiredLevel": 51,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Lem Rune",
+                "ItemLevel": 43,
+                "RequiredLevel": 43,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Lem Rune",
+                "ItemLevel": 43,
+                "RequiredLevel": 43,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Helm",
+                "Index": "Helm",
+                "Class": ""
+            },
+            {
+                "Name": "Body Armor",
+                "Index": "Body Armor",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Fortune",
+        "Index": "Runeword42",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 51,
+        "RequiredLevel": 51,
+        "Code": "Runeword42",
+        "Properties": [
+            {
+                "PropertyString": "+1-2 to All Skills",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30% Increased Attack Speed",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+20-30% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "200% Extra Gold from Monsters",
+                "Index": 0
+            },
+            {
+                "PropertyString": "150-200% Better Chance of Getting Magic Items",
+                "Index": 3
+            },
+            {
+                "PropertyString": "-2 to -1 to Light Radius",
+                "Index": 4
             }
         ],
         "DamageArmorEnhanced": false,
@@ -6127,7 +6381,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+30% Enhanced Defense",
+                "PropertyString": "+50% Enhanced Defense",
                 "Index": 0
             },
             {
@@ -6227,7 +6481,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+75% Damage to Demons",
+                "PropertyString": "+100% Damage to Demons",
                 "Index": 1
             },
             {
@@ -6683,6 +6937,10 @@
                 "Index": 4
             },
             {
+                "PropertyString": "+10% Faster Cast Rate",
+                "Index": 0
+            },
+            {
                 "PropertyString": "+30% Faster Block Rate",
                 "Index": 0
             },
@@ -6693,10 +6951,6 @@
             {
                 "PropertyString": "+220-260% Enhanced Defense",
                 "Index": 2
-            },
-            {
-                "PropertyString": "Replenish Life +15",
-                "Index": 0
             },
             {
                 "PropertyString": "+5% to Maximum Cold Resist",
@@ -6783,7 +7037,7 @@
         "Code": "Runeword41",
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 15 Chilling Armor when struck",
+                "PropertyString": "10% Chance to cast level 15 Shiver Armor when struck",
                 "Index": 3
             },
             {
@@ -6823,7 +7077,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Adds 9 to Damage (Weapon)",
+                "PropertyString": "Adds 10 to Damage (Weapon)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10% Faster Cast Rate (Armor)",
                 "Index": 0
             },
             {
@@ -6836,10 +7094,6 @@
             },
             {
                 "PropertyString": "Damage Reduced by 7 (Armor)",
-                "Index": 0
-            },
-            {
-                "PropertyString": "Replenish Life +15 (Armor)",
                 "Index": 0
             }
         ],
@@ -7346,7 +7600,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+10% Chance of Crushing Blow",
+                "PropertyString": "Adds 20-30 damage",
                 "Index": 0
             },
             {
@@ -7449,6 +7703,10 @@
                 "Index": 5
             },
             {
+                "PropertyString": "+10% Faster Cast Rate",
+                "Index": 0
+            },
+            {
                 "PropertyString": "+200% Damage to Demons",
                 "Index": 2
             },
@@ -7469,10 +7727,6 @@
                 "Index": 6
             },
             {
-                "PropertyString": "Replenish Life +15",
-                "Index": 0
-            },
-            {
                 "PropertyString": "All Resistances +70",
                 "Index": 0
             },
@@ -7482,6 +7736,79 @@
             },
             {
                 "PropertyString": "50% Better Chance of Getting Magic Items",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Dol Rune",
+                "ItemLevel": 31,
+                "RequiredLevel": 31,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Um Rune",
+                "ItemLevel": 47,
+                "RequiredLevel": 47,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ber Rune",
+                "ItemLevel": 63,
+                "RequiredLevel": 63,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Helm",
+                "Index": "Helm",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Desire",
+        "Index": "Runeword23",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 63,
+        "RequiredLevel": 63,
+        "Code": "Runeword23",
+        "Properties": [
+            {
+                "PropertyString": "+10% Faster Cast Rate",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+1 to Teleport (oskill)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+50 to Mana",
+                "Index": 1
+            },
+            {
+                "PropertyString": "All Resistances +48",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Physical Damage Received Reduced by 10%",
                 "Index": 0
             }
         ],
@@ -7570,15 +7897,15 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+9 to Minimum Damage",
+                "PropertyString": "Adds 20-30 damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10 to Minimum Damage",
                 "Index": 0
             },
             {
                 "PropertyString": "7% Life stolen per hit",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+10% Chance of Crushing Blow",
                 "Index": 0
             },
             {
@@ -7690,12 +8017,12 @@
                 "Index": 0
             },
             {
-                "PropertyString": "-45-55% to Enemy Lightning Resistance",
-                "Index": 5
+                "PropertyString": "Adds 40-60 damage",
+                "Index": 0
             },
             {
-                "PropertyString": "+20% Chance of Crushing Blow",
-                "Index": 0
+                "PropertyString": "-45-55% to Enemy Lightning Resistance",
+                "Index": 5
             },
             {
                 "PropertyString": "+10 to Cyclone Armor (oskill)",
@@ -7785,7 +8112,11 @@
                 "Index": 5
             },
             {
-                "PropertyString": "+325-375% Damage to Demons",
+                "PropertyString": "Adds 20-30 damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+350-400% Damage to Demons",
                 "Index": 0
             },
             {
@@ -7803,10 +8134,6 @@
             {
                 "PropertyString": "Adds 41-340 lightning damage",
                 "Index": 2
-            },
-            {
-                "PropertyString": "+10% Chance of Crushing Blow",
-                "Index": 0
             },
             {
                 "PropertyString": "Prevent Monster Heal",
@@ -8010,6 +8337,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "Adds 20-30 damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "Ignore Target's Defense",
                 "Index": 0
             },
@@ -8019,10 +8350,6 @@
             },
             {
                 "PropertyString": "7% Mana stolen per hit",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+10% Chance of Crushing Blow",
                 "Index": 0
             },
             {
@@ -8128,7 +8455,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+30% Enhanced Defense (Armor)",
+                "PropertyString": "+50% Enhanced Defense (Armor)",
                 "Index": 0
             },
             {
@@ -8140,11 +8467,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+30% Enhanced Defense (Shield)",
+                "PropertyString": "+50 to Life (Shield)",
                 "Index": 0
             },
             {
-                "PropertyString": "+50 to Life (Shield)",
+                "PropertyString": "+50% Enhanced Defense (Shield)",
                 "Index": 0
             }
         ],
@@ -8763,11 +9090,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Ignore Target's Defense",
+                "PropertyString": "Adds 20-30 damage",
                 "Index": 0
             },
             {
-                "PropertyString": "+10% Chance of Crushing Blow",
+                "PropertyString": "Ignore Target's Defense",
                 "Index": 0
             },
             {
@@ -9234,7 +9561,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+9 to Maximum Damage",
+                "PropertyString": "+10 to Maximum Damage",
                 "Index": 0
             },
             {
@@ -9696,6 +10023,196 @@
             },
             {
                 "PropertyString": "Requirements -20%",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Um Rune",
+                "ItemLevel": 47,
+                "RequiredLevel": 47,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ber Rune",
+                "ItemLevel": 63,
+                "RequiredLevel": 63,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Um Rune",
+                "ItemLevel": 47,
+                "RequiredLevel": 47,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Zod Rune",
+                "ItemLevel": 69,
+                "RequiredLevel": 69,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Body Armor",
+                "Index": "Body Armor",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Love",
+        "Index": "Runeword76",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 69,
+        "RequiredLevel": 69,
+        "Code": "Runeword76",
+        "Properties": [
+            {
+                "PropertyString": "Indestructible",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Level 5 Salvation Aura When Equipped",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+1 to All Skills",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+50% Increased Attack Speed",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+50% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+50% Faster Hit Recovery",
+                "Index": 3
+            },
+            {
+                "PropertyString": "All Resistances +40",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Physical Damage Received Reduced by 10%",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
+                "Name": "Um Rune",
+                "ItemLevel": 47,
+                "RequiredLevel": 47,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Zod Rune",
+                "ItemLevel": 69,
+                "RequiredLevel": 69,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Um Rune",
+                "ItemLevel": 47,
+                "RequiredLevel": 47,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Ber Rune",
+                "ItemLevel": 63,
+                "RequiredLevel": 63,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Body Armor",
+                "Index": "Body Armor",
+                "Class": ""
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Lust",
+        "Index": "Runeword78",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 69,
+        "RequiredLevel": 69,
+        "Code": "Runeword78",
+        "Properties": [
+            {
+                "PropertyString": "Indestructible",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Level 5 Conviction Aura When Equipped",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+1 to All Skills",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+50% Increased Attack Speed",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+50% Faster Cast Rate",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+50% Faster Hit Recovery",
+                "Index": 3
+            },
+            {
+                "PropertyString": "All Resistances +40",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Physical Damage Received Reduced by 10%",
                 "Index": 0
             }
         ],

@@ -474,7 +474,7 @@
   },
   {
     "Index": 14,
-    "Description": "3 Magic Rings -> Magic Amulet",
+    "Description": "3 Magic Rings -> Magic Ring",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -504,7 +504,7 @@
   },
   {
     "Index": 15,
-    "Description": "3 Magic Amulets -> Magic Ring",
+    "Description": "3 Magic Amulets -> Magic Amulet",
     "Class": "",
     "NumInputs": 3,
     "ResolvedInputsCount": 3,
@@ -534,6 +534,66 @@
   },
   {
     "Index": 16,
+    "Description": "3 Rare Rings -> Rare Ring",
+    "Class": "",
+    "NumInputs": 3,
+    "ResolvedInputsCount": 3,
+    "Inputs": [
+      {
+        "Name": "Ring",
+        "Quantity": 3,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"rin,rar,qty=3\""
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Ring",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": [
+      "Reroll Item Recipe"
+    ]
+  },
+  {
+    "Index": 17,
+    "Description": "3 Rare Amulets -> Rare Amulet",
+    "Class": "",
+    "NumInputs": 3,
+    "ResolvedInputsCount": 3,
+    "Inputs": [
+      {
+        "Name": "Amulet",
+        "Quantity": 3,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"amu,rar,qty=3\""
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Amulet",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": [
+      "Reroll Item Recipe"
+    ]
+  },
+  {
+    "Index": 18,
     "Description": "3 Standard Gems + 1 Socketed Weapon ->  Socketed Magic Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -574,7 +634,7 @@
     ]
   },
   {
-    "Index": 17,
+    "Index": 19,
     "Description": "3 Flawless Gems + 1 Magic Weapon -> Socketed Magic Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -615,7 +675,7 @@
     ]
   },
   {
-    "Index": 18,
+    "Index": 20,
     "Description": "1 Magic Shield + 1 Spiked Club + 2 Skulls (Any) -> Magic Shield of Spikes",
     "Class": "",
     "NumInputs": 4,
@@ -656,7 +716,7 @@
     "Notes": []
   },
   {
-    "Index": 19,
+    "Index": 21,
     "Description": "4 Healing Potions (Any) + 1 Standard Ruby + 1 Magic Sword -> Sword of the Leech",
     "Class": "",
     "NumInputs": 6,
@@ -697,7 +757,7 @@
     "Notes": []
   },
   {
-    "Index": 20,
+    "Index": 22,
     "Description": "1 Diamond (Any) + 1 Kris + 1 Staff + 1 Belt -> Savage Polearm",
     "Class": "",
     "NumInputs": 4,
@@ -742,7 +802,7 @@
     "Notes": []
   },
   {
-    "Index": 21,
+    "Index": 23,
     "Description": "1 Strangling Gas Potion + 1 Healing Potion (Any) -> Antidote Potion",
     "Class": "",
     "NumInputs": 2,
@@ -772,7 +832,7 @@
     "Notes": []
   },
   {
-    "Index": 22,
+    "Index": 24,
     "Description": "2 Arrows -> Bolts",
     "Class": "",
     "NumInputs": 2,
@@ -796,7 +856,7 @@
     "Notes": []
   },
   {
-    "Index": 23,
+    "Index": 25,
     "Description": "2 Bolts -> Arrows",
     "Class": "",
     "NumInputs": 2,
@@ -820,7 +880,7 @@
     "Notes": []
   },
   {
-    "Index": 24,
+    "Index": 26,
     "Description": "2 Chipped Amethysts -> Flawed Amethyst",
     "Class": "",
     "NumInputs": 2,
@@ -844,7 +904,7 @@
     "Notes": []
   },
   {
-    "Index": 25,
+    "Index": 27,
     "Description": "2 Flawed Amethysts -> Standard Amethyst",
     "Class": "",
     "NumInputs": 2,
@@ -868,7 +928,7 @@
     "Notes": []
   },
   {
-    "Index": 26,
+    "Index": 28,
     "Description": "2 Standard Amethysts -> Flawless Amethyst",
     "Class": "",
     "NumInputs": 2,
@@ -892,7 +952,7 @@
     "Notes": []
   },
   {
-    "Index": 27,
+    "Index": 29,
     "Description": "2 Flawless Amethysts -> Perfect Amethyst",
     "Class": "",
     "NumInputs": 2,
@@ -916,7 +976,7 @@
     "Notes": []
   },
   {
-    "Index": 28,
+    "Index": 30,
     "Description": "2 Chipped Rubies -> Flawed Ruby",
     "Class": "",
     "NumInputs": 2,
@@ -940,7 +1000,7 @@
     "Notes": []
   },
   {
-    "Index": 29,
+    "Index": 31,
     "Description": "2 Flawed Rubies -> Standard Ruby",
     "Class": "",
     "NumInputs": 2,
@@ -964,7 +1024,7 @@
     "Notes": []
   },
   {
-    "Index": 30,
+    "Index": 32,
     "Description": "2 Standard Rubies -> Flawless Ruby",
     "Class": "",
     "NumInputs": 2,
@@ -988,7 +1048,7 @@
     "Notes": []
   },
   {
-    "Index": 31,
+    "Index": 33,
     "Description": "2 Flawless Rubies -> Perfect Ruby",
     "Class": "",
     "NumInputs": 2,
@@ -1012,7 +1072,7 @@
     "Notes": []
   },
   {
-    "Index": 32,
+    "Index": 34,
     "Description": "2 Chipped Sapphires -> Flawed Sapphire",
     "Class": "",
     "NumInputs": 2,
@@ -1036,7 +1096,7 @@
     "Notes": []
   },
   {
-    "Index": 33,
+    "Index": 35,
     "Description": "2 Flawed Sapphires -> Standard Sapphire",
     "Class": "",
     "NumInputs": 2,
@@ -1060,7 +1120,7 @@
     "Notes": []
   },
   {
-    "Index": 34,
+    "Index": 36,
     "Description": "2 Standard Sapphires -> Flawless Sapphire",
     "Class": "",
     "NumInputs": 2,
@@ -1084,7 +1144,7 @@
     "Notes": []
   },
   {
-    "Index": 35,
+    "Index": 37,
     "Description": "2 Flawless Sapphires -> Perfect Sapphire",
     "Class": "",
     "NumInputs": 2,
@@ -1108,7 +1168,7 @@
     "Notes": []
   },
   {
-    "Index": 36,
+    "Index": 38,
     "Description": "2 Chipped Topazes -> Flawed Topaz",
     "Class": "",
     "NumInputs": 2,
@@ -1132,7 +1192,7 @@
     "Notes": []
   },
   {
-    "Index": 37,
+    "Index": 39,
     "Description": "2 Flawed Topazes -> Standard Topaz",
     "Class": "",
     "NumInputs": 2,
@@ -1156,7 +1216,7 @@
     "Notes": []
   },
   {
-    "Index": 38,
+    "Index": 40,
     "Description": "2 Standard Topazes -> Flawless Topaz",
     "Class": "",
     "NumInputs": 2,
@@ -1180,7 +1240,7 @@
     "Notes": []
   },
   {
-    "Index": 39,
+    "Index": 41,
     "Description": "2 Flawless Topazes -> Perfect Topaz",
     "Class": "",
     "NumInputs": 2,
@@ -1204,7 +1264,7 @@
     "Notes": []
   },
   {
-    "Index": 40,
+    "Index": 42,
     "Description": "2 Chipped Emeralds -> Flawed Emerald",
     "Class": "",
     "NumInputs": 2,
@@ -1228,7 +1288,7 @@
     "Notes": []
   },
   {
-    "Index": 41,
+    "Index": 43,
     "Description": "2 Flawed Emeralds -> Standard Emerald",
     "Class": "",
     "NumInputs": 2,
@@ -1252,7 +1312,7 @@
     "Notes": []
   },
   {
-    "Index": 42,
+    "Index": 44,
     "Description": "2 Standard Emeralds -> Flawless Emerald",
     "Class": "",
     "NumInputs": 2,
@@ -1276,7 +1336,7 @@
     "Notes": []
   },
   {
-    "Index": 43,
+    "Index": 45,
     "Description": "2 Flawless Emeralds -> Perfect Emerald",
     "Class": "",
     "NumInputs": 2,
@@ -1300,7 +1360,7 @@
     "Notes": []
   },
   {
-    "Index": 44,
+    "Index": 46,
     "Description": "2 Chipped Diamonds -> Flawed Diamond",
     "Class": "",
     "NumInputs": 2,
@@ -1324,7 +1384,7 @@
     "Notes": []
   },
   {
-    "Index": 45,
+    "Index": 47,
     "Description": "2 Flawed Diamonds -> Standard Diamond",
     "Class": "",
     "NumInputs": 2,
@@ -1348,7 +1408,7 @@
     "Notes": []
   },
   {
-    "Index": 46,
+    "Index": 48,
     "Description": "2 Standard Diamonds -> Flawless Diamond",
     "Class": "",
     "NumInputs": 2,
@@ -1372,7 +1432,7 @@
     "Notes": []
   },
   {
-    "Index": 47,
+    "Index": 49,
     "Description": "2 Flawless Diamonds -> Perfect Diamond",
     "Class": "",
     "NumInputs": 2,
@@ -1396,7 +1456,7 @@
     "Notes": []
   },
   {
-    "Index": 48,
+    "Index": 50,
     "Description": "2 Chipped Skulls -> Flawed Skull",
     "Class": "",
     "NumInputs": 2,
@@ -1420,7 +1480,7 @@
     "Notes": []
   },
   {
-    "Index": 49,
+    "Index": 51,
     "Description": "2 Flawed Skulls -> Standard Skull",
     "Class": "",
     "NumInputs": 2,
@@ -1444,7 +1504,7 @@
     "Notes": []
   },
   {
-    "Index": 50,
+    "Index": 52,
     "Description": "2 Standard Skulls -> Flawless Skull",
     "Class": "",
     "NumInputs": 2,
@@ -1468,7 +1528,7 @@
     "Notes": []
   },
   {
-    "Index": 51,
+    "Index": 53,
     "Description": "2 Flawless Skulls -> Perfect Skull",
     "Class": "",
     "NumInputs": 2,
@@ -1492,7 +1552,7 @@
     "Notes": []
   },
   {
-    "Index": 52,
+    "Index": 54,
     "Description": "2 El Runes -> Eld Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1516,7 +1576,7 @@
     "Notes": []
   },
   {
-    "Index": 53,
+    "Index": 55,
     "Description": "2 Eld Runes -> Tir Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1540,7 +1600,7 @@
     "Notes": []
   },
   {
-    "Index": 54,
+    "Index": 56,
     "Description": "2 Tir Runes -> Nef Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1564,7 +1624,7 @@
     "Notes": []
   },
   {
-    "Index": 55,
+    "Index": 57,
     "Description": "2 Nef Runes -> Eth Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1588,7 +1648,7 @@
     "Notes": []
   },
   {
-    "Index": 56,
+    "Index": 58,
     "Description": "2 Eth Runes -> Ith Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1612,7 +1672,7 @@
     "Notes": []
   },
   {
-    "Index": 57,
+    "Index": 59,
     "Description": "2 Ith Runes -> Tal Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1636,7 +1696,7 @@
     "Notes": []
   },
   {
-    "Index": 58,
+    "Index": 60,
     "Description": "2 Tal Runes -> Ral Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1660,7 +1720,7 @@
     "Notes": []
   },
   {
-    "Index": 59,
+    "Index": 61,
     "Description": "2 Ral Runes -> Ort Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1684,7 +1744,7 @@
     "Notes": []
   },
   {
-    "Index": 60,
+    "Index": 62,
     "Description": "2 Ort Runes -> Thul Rune",
     "Class": "",
     "NumInputs": 2,
@@ -1708,7 +1768,7 @@
     "Notes": []
   },
   {
-    "Index": 61,
+    "Index": 63,
     "Description": "3 Perfect Gems (Any) + 1 Magic Item -> Re-rolled Magic Item",
     "Class": "",
     "NumInputs": 4,
@@ -1742,7 +1802,41 @@
     "Notes": []
   },
   {
-    "Index": 62,
+    "Index": 64,
+    "Description": "3 Perfect Gems (Any) + 1 Rare Item -> Re-rolled Rare Item",
+    "Class": "",
+    "NumInputs": 4,
+    "ResolvedInputsCount": 4,
+    "Inputs": [
+      {
+        "Name": "Any Item",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "RawToken": "\"any,rar\""
+      },
+      {
+        "Name": "Perfect Gem",
+        "Quantity": 3,
+        "Qualifiers": [],
+        "RawToken": "\"gem4,qty=3\""
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 65,
     "Description": "6 Perfect Skulls + 1 Rare Item -> 1 Low Quality Rare Item",
     "Class": "",
     "NumInputs": 7,
@@ -1776,7 +1870,7 @@
     "Notes": []
   },
   {
-    "Index": 63,
+    "Index": 66,
     "Description": "1 Perfect Skull + 1 Rare Item  -> 1 High Quality Rare Item",
     "Class": "",
     "NumInputs": 2,
@@ -1810,7 +1904,7 @@
     "Notes": []
   },
   {
-    "Index": 64,
+    "Index": 67,
     "Description": "3 Perfect Skull + 1 Rare Item  -> Add 1 Socket to Rare Item",
     "Class": "",
     "NumInputs": 5,
@@ -1851,20 +1945,20 @@
     "Notes": []
   },
   {
-    "Index": 65,
-    "Description": "1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm",
+    "Index": 68,
+    "Description": "1 Magic Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Gem -> Hit Power Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Full Helm",
+        "Name": "Helm",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"fhl,mag,upg\""
+        "RawToken": "\"helm,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -1879,10 +1973,10 @@
         "RawToken": "r06"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -1913,20 +2007,20 @@
     ]
   },
   {
-    "Index": 66,
-    "Description": "1 Magic Chain Boots + 1 Jewel + 1 Ral Rune + 1 Perfect Sapphire -> Hit Power Boots",
+    "Index": 69,
+    "Description": "1 Magic Boots + 1 Jewel + 1 Ral Rune + 1 Perfect Gem -> Hit Power Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Chain Boots",
+        "Name": "Boots",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"mbt,mag,upg\""
+        "RawToken": "\"boot,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -1941,10 +2035,10 @@
         "RawToken": "r08"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -1975,20 +2069,20 @@
     ]
   },
   {
-    "Index": 67,
-    "Description": "1 Magic Chain Gloves + 1 Jewel + 1 Ort Rune + 1 Perfect Sapphire -> Hit Power Gloves",
+    "Index": 70,
+    "Description": "1 Magic Gloves + 1 Jewel + 1 Ort Rune + 1 Perfect Gem -> Hit Power Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Chain Gloves",
+        "Name": "Gloves",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"mgl,mag,upg\""
+        "RawToken": "\"glov,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2003,10 +2097,10 @@
         "RawToken": "r09"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2037,20 +2131,20 @@
     ]
   },
   {
-    "Index": 68,
-    "Description": "1 Magic Heavy Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Sapphire -> Hit Power Belt",
+    "Index": 71,
+    "Description": "1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Gem -> Hit Power Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Heavy Belt",
+        "Name": "Belt",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"tbl,mag,upg\""
+        "RawToken": "\"belt,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2065,10 +2159,10 @@
         "RawToken": "r07"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2099,20 +2193,20 @@
     ]
   },
   {
-    "Index": 69,
-    "Description": "1 Magic Gothic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Sapphire -> Hit Power Shield",
+    "Index": 72,
+    "Description": "1 Magic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Gem -> Hit Power Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Gothic Shield",
+        "Name": "Any Shield",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"gts,mag,upg\""
+        "RawToken": "\"shld,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2127,10 +2221,10 @@
         "RawToken": "r05"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2161,20 +2255,20 @@
     ]
   },
   {
-    "Index": 70,
-    "Description": "1 Magic Field Plate + 1 Jewel + 1 Nef Rune + 1 Perfect Sapphire -> Hit Power Body",
+    "Index": 73,
+    "Description": "1 Magic Body Armor + 1 Jewel + 1 Nef Rune + 1 Perfect Gem -> Hit Power Body",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Field Plate",
+        "Name": "Body Armor",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"fld,mag,upg\""
+        "RawToken": "\"tors,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2189,10 +2283,10 @@
         "RawToken": "r04"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2223,8 +2317,8 @@
     ]
   },
   {
-    "Index": 71,
-    "Description": "1 Magic Amulet + 1 Jewel + Thul Rune + 1 Perfect Sapphire -> Hit Power Amulet",
+    "Index": 74,
+    "Description": "1 Magic Amulet + 1 Jewel + Thul Rune + 1 Perfect Gem -> Hit Power Amulet",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2250,10 +2344,10 @@
         "RawToken": "r10"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2284,8 +2378,8 @@
     ]
   },
   {
-    "Index": 72,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Sapphire -> Hit Power Ring",
+    "Index": 75,
+    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Gem -> Hit Power Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2311,10 +2405,10 @@
         "RawToken": "r11"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2345,19 +2439,19 @@
     ]
   },
   {
-    "Index": 73,
-    "Description": "1 Magic Blunt Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Sapphire -> Hit Power Weapon",
+    "Index": 76,
+    "Description": "1 Magic Melee Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Gem -> Hit Power Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Blunt",
+        "Name": "Melee Weapon",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item"
         ],
-        "RawToken": "\"blun,mag\""
+        "RawToken": "\"mele,mag\""
       },
       {
         "Name": "Jewel",
@@ -2372,10 +2466,10 @@
         "RawToken": "r03"
       },
       {
-        "Name": "Perfect Sapphire",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpb"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2406,8 +2500,8 @@
     ]
   },
   {
-    "Index": 74,
-    "Description": "1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm",
+    "Index": 77,
+    "Description": "1 Magic Helmet + 1 Jewel + 1 Ral Rune + 1 Perfect Gem -> Blood Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2419,7 +2513,7 @@
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"hlm,mag,upg\""
+        "RawToken": "\"helm,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2434,10 +2528,10 @@
         "RawToken": "r08"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2468,20 +2562,20 @@
     ]
   },
   {
-    "Index": 75,
-    "Description": "1 Magic Light Plated Boots + 1 Jewel + 1 Eth Rune + 1 Perfect Ruby -> Blood Boots",
+    "Index": 78,
+    "Description": "1 Magic Boots + 1 Jewel + 1 Eth Rune + 1 Perfect Gem -> Blood Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Light Plated Boots",
+        "Name": "Boots",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"tbt,mag,upg\""
+        "RawToken": "\"boot,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2496,10 +2590,10 @@
         "RawToken": "r05"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2530,20 +2624,20 @@
     ]
   },
   {
-    "Index": 76,
-    "Description": "1 Magic Heavy Gloves + 1 Jewel + 1 Nef Rune + 1 Perfect Ruby -> Blood Gloves",
+    "Index": 79,
+    "Description": "1 Magic Gloves + 1 Jewel + 1 Nef Rune + 1 Perfect Gem -> Blood Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Heavy Gloves",
+        "Name": "Gloves",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"vgl,mag,upg\""
+        "RawToken": "\"glov,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2558,10 +2652,10 @@
         "RawToken": "r04"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2592,8 +2686,8 @@
     ]
   },
   {
-    "Index": 77,
-    "Description": "1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Ruby -> Blood Belt",
+    "Index": 80,
+    "Description": "1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Gem -> Blood Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2605,7 +2699,7 @@
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"mbl,mag,upg\""
+        "RawToken": "\"belt,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2620,10 +2714,10 @@
         "RawToken": "r07"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2654,20 +2748,20 @@
     ]
   },
   {
-    "Index": 78,
-    "Description": "1 Magic Spiked Shield + 1 Jewel + 1 Ith Rune + 1 Perfect Ruby -> Blood Shield",
+    "Index": 81,
+    "Description": "1 Magic Shield + 1 Jewel + 1 Ith Rune + 1 Perfect Gem -> Blood Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Spiked Shield",
+        "Name": "Any Shield",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"spk,mag,upg\""
+        "RawToken": "\"shld,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2682,10 +2776,10 @@
         "RawToken": "r06"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2716,20 +2810,20 @@
     ]
   },
   {
-    "Index": 79,
-    "Description": "1 Magic Plate Mail + 1 Jewel + 1 Thul Rune + 1 Perfect Ruby -> Blood Body",
+    "Index": 82,
+    "Description": "1 Magic Body Armor + 1 Jewel + 1 Thul Rune + 1 Perfect Gem -> Blood Body",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Plate Mail",
+        "Name": "Body Armor",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"plt,mag,upg\""
+        "RawToken": "\"tors,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2744,10 +2838,10 @@
         "RawToken": "r10"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2778,8 +2872,8 @@
     ]
   },
   {
-    "Index": 80,
-    "Description": "1 Magic Amulet + 1 Jewel + 1 Amn Rune + 1 Perfect Ruby -> Blood Amulet",
+    "Index": 83,
+    "Description": "1 Magic Amulet + 1 Jewel + 1 Amn Rune + 1 Perfect Gem -> Blood Amulet",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2805,10 +2899,10 @@
         "RawToken": "r11"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2839,8 +2933,8 @@
     ]
   },
   {
-    "Index": 81,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Sol Rune + 1 Perfect Ruby -> Blood Ring",
+    "Index": 84,
+    "Description": "1 Magic Ring + 1 Jewel + 1 Sol Rune + 1 Perfect Gem -> Blood Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -2866,10 +2960,10 @@
         "RawToken": "r12"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2900,19 +2994,19 @@
     ]
   },
   {
-    "Index": 82,
-    "Description": "1 Magic Axe + 1 Jewel + Ort Rune + 1 Perfect Ruby -> Blood Weapon",
+    "Index": 85,
+    "Description": "1 Magic Melee Weapon + 1 Jewel + Ort Rune + 1 Perfect Gem -> Blood Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Axe",
+        "Name": "Melee Weapon",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item"
         ],
-        "RawToken": "\"axe,mag\""
+        "RawToken": "\"mele,mag\""
       },
       {
         "Name": "Jewel",
@@ -2927,10 +3021,10 @@
         "RawToken": "r09"
       },
       {
-        "Name": "Perfect Ruby",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpr"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -2961,20 +3055,20 @@
     ]
   },
   {
-    "Index": 83,
-    "Description": "1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm",
+    "Index": 86,
+    "Description": "1 Magic Helmet + 1 Jewel + Nef Rune + 1 Perfect Gem -> Caster Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Mask",
+        "Name": "Helm",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"msk,mag,upg\""
+        "RawToken": "\"helm,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -2989,10 +3083,10 @@
         "RawToken": "r04"
       },
       {
-        "Name": "Perfect Amethyst",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpv"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3023,8 +3117,8 @@
     ]
   },
   {
-    "Index": 84,
-    "Description": "1 Magic Boots + 1 Jewel + Thul Rune + 1 Perfect Amethyst -> Caster Boots",
+    "Index": 87,
+    "Description": "1 Magic Boots + 1 Jewel + Thul Rune + 1 Perfect Gem -> Caster Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3036,7 +3130,7 @@
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"lbt,mag,upg\""
+        "RawToken": "\"boot,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3051,10 +3145,10 @@
         "RawToken": "r10"
       },
       {
-        "Name": "Perfect Amethyst",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpv"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3085,20 +3179,20 @@
     ]
   },
   {
-    "Index": 85,
-    "Description": "1 Magic Leather Gloves + 1 Jewel + Ort Rune + 1 Perfect Amethyst -> Caster Gloves",
+    "Index": 88,
+    "Description": "1 Magic Gloves + 1 Jewel + Ort Rune + 1 Perfect Gem -> Caster Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Leather Gloves",
+        "Name": "Gloves",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"lgl,mag,upg\""
+        "RawToken": "\"glov,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3113,196 +3207,10 @@
         "RawToken": "r09"
       },
       {
-        "Name": "Perfect Amethyst",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpv"
-      }
-    ],
-    "Outputs": {
-      "A": {
-        "Name": "Return Base Type",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Crafted Item"
-        ],
-        "Properties": [
-          {
-            "PropertyString": "Regenerate Mana 4-10%",
-            "Index": 0
-          },
-          {
-            "PropertyString": "+10-20 to Mana",
-            "Index": 1
-          },
-          {
-            "PropertyString": "+1-3 to Mana after each Kill",
-            "Index": 2
-          }
-        ]
-      }
-    },
-    "Notes": [
-      "Item Crafting Recipe"
-    ]
-  },
-  {
-    "Index": 86,
-    "Description": "1 Magic Light Belt + 1 Jewel + Ith Rune + 1 Perfect Amethyst -> Caster Belt",
-    "Class": "",
-    "NumInputs": 4,
-    "ResolvedInputsCount": 4,
-    "Inputs": [
-      {
-        "Name": "Light Belt",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Magic Item",
-          "Upgradeable"
-        ],
-        "RawToken": "\"vbl,mag,upg\""
-      },
-      {
-        "Name": "Jewel",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "jew"
-      },
-      {
-        "Name": "Ith Rune",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "r06"
-      },
-      {
-        "Name": "Perfect Amethyst",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "gpv"
-      }
-    ],
-    "Outputs": {
-      "A": {
-        "Name": "Return Base Type",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Crafted Item"
-        ],
-        "Properties": [
-          {
-            "PropertyString": "Regenerate Mana 4-10%",
-            "Index": 0
-          },
-          {
-            "PropertyString": "+10-20 to Mana",
-            "Index": 1
-          },
-          {
-            "PropertyString": "+5-10% Faster Cast Rate",
-            "Index": 2
-          }
-        ]
-      }
-    },
-    "Notes": [
-      "Item Crafting Recipe"
-    ]
-  },
-  {
-    "Index": 87,
-    "Description": "1 Magic Small Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Amethyst -> Caster Shield",
-    "Class": "",
-    "NumInputs": 4,
-    "ResolvedInputsCount": 4,
-    "Inputs": [
-      {
-        "Name": "Small Shield",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Magic Item",
-          "Upgradeable"
-        ],
-        "RawToken": "\"sml,mag,upg\""
-      },
-      {
-        "Name": "Jewel",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "jew"
-      },
-      {
-        "Name": "Eth Rune",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "r05"
-      },
-      {
-        "Name": "Perfect Amethyst",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "gpv"
-      }
-    ],
-    "Outputs": {
-      "A": {
-        "Name": "Return Base Type",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Crafted Item"
-        ],
-        "Properties": [
-          {
-            "PropertyString": "Regenerate Mana 4-10%",
-            "Index": 0
-          },
-          {
-            "PropertyString": "+10-20 to Mana",
-            "Index": 1
-          },
-          {
-            "PropertyString": "5-10% Increased Chance of Blocking",
-            "Index": 2
-          }
-        ]
-      }
-    },
-    "Notes": [
-      "Item Crafting Recipe"
-    ]
-  },
-  {
-    "Index": 88,
-    "Description": "1 Magic Light Plate + 1 Jewel + 1 Tal Rune + 1 Perfect Amethyst -> Caster Body",
-    "Class": "",
-    "NumInputs": 4,
-    "ResolvedInputsCount": 4,
-    "Inputs": [
-      {
-        "Name": "Light Plate",
-        "Quantity": 1,
-        "Qualifiers": [
-          "Magic Item",
-          "Upgradeable"
-        ],
-        "RawToken": "\"ltp,mag,upg\""
-      },
-      {
-        "Name": "Jewel",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "jew"
-      },
-      {
-        "Name": "Tal Rune",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "r07"
-      },
-      {
-        "Name": "Perfect Amethyst",
-        "Quantity": 1,
-        "Qualifiers": [],
-        "RawToken": "gpv"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3334,18 +3242,19 @@
   },
   {
     "Index": 89,
-    "Description": "1 Magic Amulet + 1 Jewel + 1 Ral Rune + 1 Perfect Amethyst -> Caster Amulet",
+    "Description": "1 Magic Belt + 1 Jewel + Ith Rune + 1 Perfect Gem -> Caster Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Amulet",
+        "Name": "Belt",
         "Quantity": 1,
         "Qualifiers": [
-          "Magic Item"
+          "Magic Item",
+          "Upgradeable"
         ],
-        "RawToken": "\"amul,mag\""
+        "RawToken": "\"belt,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3354,16 +3263,16 @@
         "RawToken": "jew"
       },
       {
-        "Name": "Ral Rune",
+        "Name": "Ith Rune",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "r08"
+        "RawToken": "r06"
       },
       {
-        "Name": "Perfect Amethyst",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpv"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3395,7 +3304,192 @@
   },
   {
     "Index": 90,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Amethyst -> Caster Ring",
+    "Description": "1 Magic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Gem -> Caster Shield",
+    "Class": "",
+    "NumInputs": 4,
+    "ResolvedInputsCount": 4,
+    "Inputs": [
+      {
+        "Name": "Any Shield",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item",
+          "Upgradeable"
+        ],
+        "RawToken": "\"shld,mag,upg\""
+      },
+      {
+        "Name": "Jewel",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "jew"
+      },
+      {
+        "Name": "Eth Rune",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "r05"
+      },
+      {
+        "Name": "Perfect Gem",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "gem4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Crafted Item"
+        ],
+        "Properties": [
+          {
+            "PropertyString": "Regenerate Mana 4-10%",
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10-20 to Mana",
+            "Index": 1
+          },
+          {
+            "PropertyString": "5-10% Increased Chance of Blocking",
+            "Index": 2
+          }
+        ]
+      }
+    },
+    "Notes": [
+      "Item Crafting Recipe"
+    ]
+  },
+  {
+    "Index": 91,
+    "Description": "1 Magic Body Armor + 1 Jewel + 1 Tal Rune + 1 Perfect Gem -> Caster Body",
+    "Class": "",
+    "NumInputs": 4,
+    "ResolvedInputsCount": 4,
+    "Inputs": [
+      {
+        "Name": "Body Armor",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item",
+          "Upgradeable"
+        ],
+        "RawToken": "\"tors,mag,upg\""
+      },
+      {
+        "Name": "Jewel",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "jew"
+      },
+      {
+        "Name": "Tal Rune",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "r07"
+      },
+      {
+        "Name": "Perfect Gem",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "gem4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Crafted Item"
+        ],
+        "Properties": [
+          {
+            "PropertyString": "Regenerate Mana 4-10%",
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10-20 to Mana",
+            "Index": 1
+          },
+          {
+            "PropertyString": "+1-3 to Mana after each Kill",
+            "Index": 2
+          }
+        ]
+      }
+    },
+    "Notes": [
+      "Item Crafting Recipe"
+    ]
+  },
+  {
+    "Index": 92,
+    "Description": "1 Magic Amulet + 1 Jewel + 1 Ral Rune + 1 Perfect Gem -> Caster Amulet",
+    "Class": "",
+    "NumInputs": 4,
+    "ResolvedInputsCount": 4,
+    "Inputs": [
+      {
+        "Name": "Amulet",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"amul,mag\""
+      },
+      {
+        "Name": "Jewel",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "jew"
+      },
+      {
+        "Name": "Ral Rune",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "r08"
+      },
+      {
+        "Name": "Perfect Gem",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "gem4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Crafted Item"
+        ],
+        "Properties": [
+          {
+            "PropertyString": "Regenerate Mana 4-10%",
+            "Index": 0
+          },
+          {
+            "PropertyString": "+10-20 to Mana",
+            "Index": 1
+          },
+          {
+            "PropertyString": "+5-10% Faster Cast Rate",
+            "Index": 2
+          }
+        ]
+      }
+    },
+    "Notes": [
+      "Item Crafting Recipe"
+    ]
+  },
+  {
+    "Index": 93,
+    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Gem -> Caster Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3421,10 +3515,10 @@
         "RawToken": "r11"
       },
       {
-        "Name": "Perfect Amethyst",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpv"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3455,19 +3549,19 @@
     ]
   },
   {
-    "Index": 91,
-    "Description": "1 Magic Rod + 1 Jewel + 1 Tir Rune + 1 Perfect Amethyst -> Caster Weapon",
+    "Index": 94,
+    "Description": "1 Magic Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Gem -> Caster Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Staves And Rods",
+        "Name": "Weapon",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item"
         ],
-        "RawToken": "\"rod,mag\""
+        "RawToken": "\"weap,mag\""
       },
       {
         "Name": "Jewel",
@@ -3482,10 +3576,10 @@
         "RawToken": "r03"
       },
       {
-        "Name": "Perfect Amethyst",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpv"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3516,8 +3610,8 @@
     ]
   },
   {
-    "Index": 92,
-    "Description": "1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm",
+    "Index": 95,
+    "Description": "1 Magic Helmet + 1 Jewel + 1 Ith Rune + 1 Perfect Gem -> Safety Helm",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3544,10 +3638,10 @@
         "RawToken": "r06"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3582,20 +3676,20 @@
     ]
   },
   {
-    "Index": 93,
-    "Description": "1 Magic Plated Boots + 1 Jewel + 1 Ort Rune + 1 Perfect Emerald -> Safety Boots",
+    "Index": 96,
+    "Description": "1 Magic Plated Boots + 1 Jewel + 1 Ort Rune + 1 Perfect Gem -> Safety Boots",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Greaves",
+        "Name": "Helm",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"hbt,mag,upg\""
+        "RawToken": "\"helm,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3610,10 +3704,10 @@
         "RawToken": "r09"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3648,20 +3742,20 @@
     ]
   },
   {
-    "Index": 94,
-    "Description": "1 Magic Gauntlets + 1 Jewel + 1 Ral Rune + 1 Perfect Emerald -> Safety Gloves",
+    "Index": 97,
+    "Description": "1 Magic Gloves + 1 Jewel + 1 Ral Rune + 1 Perfect Gem -> Safety Gloves",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Gauntlets",
+        "Name": "Gloves",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"hgl,mag,upg\""
+        "RawToken": "\"glov,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3676,10 +3770,10 @@
         "RawToken": "r08"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3714,20 +3808,20 @@
     ]
   },
   {
-    "Index": 95,
-    "Description": "1 Magic Sash + 1 Jewel + 1 Tal Rune + 1 Perfect Emerald -> Safety Belt",
+    "Index": 98,
+    "Description": "1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Gem -> Safety Belt",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Sash",
+        "Name": "Belt",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"lbl,mag,upg\""
+        "RawToken": "\"belt,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3742,10 +3836,10 @@
         "RawToken": "r07"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3780,20 +3874,20 @@
     ]
   },
   {
-    "Index": 96,
-    "Description": "1 Magic Kite Shield + 1 Jewel + 1 Nef Rune + 1 Perfect Emerald -> Safety Shield",
+    "Index": 99,
+    "Description": "1 Magic Shield + 1 Jewel + 1 Nef Rune + 1 Perfect Gem -> Safety Shield",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Kite Shield",
+        "Name": "Any Shield",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"kit,mag,upg\""
+        "RawToken": "\"shld,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3808,10 +3902,10 @@
         "RawToken": "r04"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3846,20 +3940,20 @@
     ]
   },
   {
-    "Index": 97,
-    "Description": "1 Magic Breast Plate + 1 Jewel + 1 Eth Rune + 1 Perfect Emerald -> Safety Body",
+    "Index": 100,
+    "Description": "1 Magic Body Armor+ 1 Jewel + 1 Eth Rune + 1 Perfect Gem -> Safety Body",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Breast Plate",
+        "Name": "Body Armor",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item",
           "Upgradeable"
         ],
-        "RawToken": "\"brs,mag,upg\""
+        "RawToken": "\"tors,mag,upg\""
       },
       {
         "Name": "Jewel",
@@ -3874,10 +3968,10 @@
         "RawToken": "r05"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3912,8 +4006,8 @@
     ]
   },
   {
-    "Index": 98,
-    "Description": "1 Magic Amulet + 1 Jewel + 1 Thul Rune + 1 Perfect Emerald -> Safety Amulet",
+    "Index": 101,
+    "Description": "1 Magic Amulet + 1 Jewel + 1 Thul Rune + 1 Perfect Gem -> Safety Amulet",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -3939,10 +4033,10 @@
         "RawToken": "r10"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -3973,8 +4067,8 @@
     ]
   },
   {
-    "Index": 99,
-    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Emerald -> Safety Ring",
+    "Index": 102,
+    "Description": "1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Gem -> Safety Ring",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
@@ -4000,10 +4094,10 @@
         "RawToken": "r11"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -4034,19 +4128,19 @@
     ]
   },
   {
-    "Index": 100,
-    "Description": "1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon",
+    "Index": 103,
+    "Description": "1 Magic Melee Weapon + 1 Jewel + 1 Sol Rune + 1 Perfect Gem -> Safety Weapon",
     "Class": "",
     "NumInputs": 4,
     "ResolvedInputsCount": 4,
     "Inputs": [
       {
-        "Name": "Spear",
+        "Name": "Melee Weapon",
         "Quantity": 1,
         "Qualifiers": [
           "Magic Item"
         ],
-        "RawToken": "\"spea,mag\""
+        "RawToken": "\"mele,mag\""
       },
       {
         "Name": "Jewel",
@@ -4061,10 +4155,10 @@
         "RawToken": "r12"
       },
       {
-        "Name": "Perfect Emerald",
+        "Name": "Perfect Gem",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "gpg"
+        "RawToken": "gem4"
       }
     ],
     "Outputs": {
@@ -4095,7 +4189,7 @@
     ]
   },
   {
-    "Index": 101,
+    "Index": 104,
     "Description": "2 Thul Runes  -> Amn Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4119,7 +4213,7 @@
     "Notes": []
   },
   {
-    "Index": 102,
+    "Index": 105,
     "Description": "2 Amn Runes  -> Sol Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4143,7 +4237,7 @@
     "Notes": []
   },
   {
-    "Index": 103,
+    "Index": 106,
     "Description": "2  Sol Runes  -> Shael Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4167,7 +4261,7 @@
     "Notes": []
   },
   {
-    "Index": 104,
+    "Index": 107,
     "Description": "2 Shael Runes  -> Dol Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4191,7 +4285,7 @@
     "Notes": []
   },
   {
-    "Index": 105,
+    "Index": 108,
     "Description": "2 Dol Runes  -> Hel Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4215,7 +4309,7 @@
     "Notes": []
   },
   {
-    "Index": 106,
+    "Index": 109,
     "Description": "2 Hel Runes  -> Io Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4239,7 +4333,7 @@
     "Notes": []
   },
   {
-    "Index": 107,
+    "Index": 110,
     "Description": "2 Io Runes  -> Lum Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4263,7 +4357,7 @@
     "Notes": []
   },
   {
-    "Index": 108,
+    "Index": 111,
     "Description": "2 Lum Runes  -> Ko Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4287,7 +4381,7 @@
     "Notes": []
   },
   {
-    "Index": 109,
+    "Index": 112,
     "Description": "2 Ko Runes  -> Fal Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4311,7 +4405,7 @@
     "Notes": []
   },
   {
-    "Index": 110,
+    "Index": 113,
     "Description": "2 Fal Runes  -> Lem Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4335,7 +4429,7 @@
     "Notes": []
   },
   {
-    "Index": 111,
+    "Index": 114,
     "Description": "2 Lem Runes  -> Pul Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4359,7 +4453,7 @@
     "Notes": []
   },
   {
-    "Index": 112,
+    "Index": 115,
     "Description": "2 Pul Runes  -> Um Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4383,7 +4477,7 @@
     "Notes": []
   },
   {
-    "Index": 113,
+    "Index": 116,
     "Description": "2 Um Runes  -> Mal Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4407,7 +4501,7 @@
     "Notes": []
   },
   {
-    "Index": 114,
+    "Index": 117,
     "Description": "2 Mal Runes  -> Ist Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4431,7 +4525,7 @@
     "Notes": []
   },
   {
-    "Index": 115,
+    "Index": 118,
     "Description": "2 Ist Runes  -> Gul Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4455,7 +4549,7 @@
     "Notes": []
   },
   {
-    "Index": 116,
+    "Index": 119,
     "Description": "2 Gul Runes  -> Vex Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4479,7 +4573,7 @@
     "Notes": []
   },
   {
-    "Index": 117,
+    "Index": 120,
     "Description": "2 Vex Runes  -> Ohm Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4503,7 +4597,7 @@
     "Notes": []
   },
   {
-    "Index": 118,
+    "Index": 121,
     "Description": "2 Ohm Runes  -> Lo Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4527,7 +4621,7 @@
     "Notes": []
   },
   {
-    "Index": 119,
+    "Index": 122,
     "Description": "2 Lo Runes  -> Sur Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4551,7 +4645,7 @@
     "Notes": []
   },
   {
-    "Index": 120,
+    "Index": 123,
     "Description": "2 Sur Runes  -> Ber Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4575,7 +4669,7 @@
     "Notes": []
   },
   {
-    "Index": 121,
+    "Index": 124,
     "Description": "2 Ber Runes  -> Jah Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4599,7 +4693,7 @@
     "Notes": []
   },
   {
-    "Index": 122,
+    "Index": 125,
     "Description": "2 Jah Runes  -> Cham Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4623,7 +4717,7 @@
     "Notes": []
   },
   {
-    "Index": 123,
+    "Index": 126,
     "Description": "2 Cham Runes  -> Zod Rune",
     "Class": "",
     "NumInputs": 2,
@@ -4647,7 +4741,7 @@
     "Notes": []
   },
   {
-    "Index": 124,
+    "Index": 127,
     "Description": "1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor",
     "Class": "",
     "NumInputs": 4,
@@ -4699,7 +4793,7 @@
     ]
   },
   {
-    "Index": 125,
+    "Index": 128,
     "Description": "1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -4751,7 +4845,7 @@
     ]
   },
   {
-    "Index": 126,
+    "Index": 129,
     "Description": "1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm",
     "Class": "",
     "NumInputs": 4,
@@ -4803,7 +4897,7 @@
     ]
   },
   {
-    "Index": 127,
+    "Index": 130,
     "Description": "1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield",
     "Class": "",
     "NumInputs": 4,
@@ -4855,7 +4949,7 @@
     ]
   },
   {
-    "Index": 128,
+    "Index": 131,
     "Description": "1 Eld Rune + 1 Chipped Gem (Any) + 1 Low Quality Weapon -> Normal Weapon",
     "Class": "",
     "NumInputs": 3,
@@ -4895,7 +4989,7 @@
     "Notes": []
   },
   {
-    "Index": 129,
+    "Index": 132,
     "Description": "1 El Rune + 1 Chipped Gem (Any) + 1 Low Quality Armor -> Normal Armor",
     "Class": "",
     "NumInputs": 3,
@@ -4935,7 +5029,7 @@
     "Notes": []
   },
   {
-    "Index": 130,
+    "Index": 133,
     "Description": "1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Unique Weapon -> Exceptional Unique Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -4990,7 +5084,7 @@
     ]
   },
   {
-    "Index": 131,
+    "Index": 134,
     "Description": "1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Unique Armor -> Exceptional Unique Armor",
     "Class": "",
     "NumInputs": 4,
@@ -5045,7 +5139,7 @@
     ]
   },
   {
-    "Index": 132,
+    "Index": 135,
     "Description": "1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -5100,7 +5194,7 @@
     ]
   },
   {
-    "Index": 133,
+    "Index": 136,
     "Description": "1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Unique Armor -> Elite Unique Armor",
     "Class": "",
     "NumInputs": 4,
@@ -5155,7 +5249,7 @@
     ]
   },
   {
-    "Index": 134,
+    "Index": 137,
     "Description": "1 Ort Rune + 1 Amn Rune + 1 Perfect Sapphire + 1 Normal Rare Weapon -> Exceptional Rare Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -5210,7 +5304,7 @@
     ]
   },
   {
-    "Index": 135,
+    "Index": 138,
     "Description": "1 Ral Rune + 1 Thul Rune + 1 Perfect Amethyst + 1 Normal Rare Armor -> Exceptional Rare Armor",
     "Class": "",
     "NumInputs": 4,
@@ -5265,7 +5359,7 @@
     ]
   },
   {
-    "Index": 136,
+    "Index": 139,
     "Description": "1 Fal Rune + 1 Um Rune + 1 Perfect Sapphire + 1 Exceptional Rare Weapon -> Elite Rare Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -5320,7 +5414,7 @@
     ]
   },
   {
-    "Index": 137,
+    "Index": 140,
     "Description": "1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Rare Armor -> Elite Rare Armor",
     "Class": "",
     "NumInputs": 4,
@@ -5375,7 +5469,7 @@
     ]
   },
   {
-    "Index": 138,
+    "Index": 141,
     "Description": "1 Ort Rune + 1 Weapon -> Fully Repaired Weapon",
     "Class": "",
     "NumInputs": 2,
@@ -5411,7 +5505,7 @@
     ]
   },
   {
-    "Index": 139,
+    "Index": 142,
     "Description": "1 Ral Rune + 1 Armor -> Fully Repaired Armor",
     "Class": "",
     "NumInputs": 2,
@@ -5447,7 +5541,7 @@
     ]
   },
   {
-    "Index": 140,
+    "Index": 143,
     "Description": "1 Ort Rune + 1 Chipped Gem (Any) + 1 Weapon -> Fully Repaired and Recharged Weapon",
     "Class": "",
     "NumInputs": 3,
@@ -5490,7 +5584,7 @@
     ]
   },
   {
-    "Index": 141,
+    "Index": 144,
     "Description": "1 Ral Rune + 1 Flawed Gem (Any) + 1 Armor -> Fully Repaired and Recharged Armor",
     "Class": "",
     "NumInputs": 3,
@@ -5533,7 +5627,7 @@
     ]
   },
   {
-    "Index": 142,
+    "Index": 145,
     "Description": "1 Hel Rune + Scroll of Town Portal + 1 Socketed Item -> Clear Sockets on Item",
     "Class": "",
     "NumInputs": 3,
@@ -5573,7 +5667,7 @@
     "Notes": []
   },
   {
-    "Index": 143,
+    "Index": 146,
     "Description": "3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -5614,7 +5708,7 @@
     ]
   },
   {
-    "Index": 144,
+    "Index": 147,
     "Description": "1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)",
     "Op": 28,
     "Class": "",
@@ -5653,7 +5747,7 @@
     ]
   },
   {
-    "Index": 145,
+    "Index": 148,
     "Description": "1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)",
     "Op": 28,
     "Class": "",
@@ -5692,7 +5786,7 @@
     ]
   },
   {
-    "Index": 146,
+    "Index": 149,
     "Description": "1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -5747,7 +5841,7 @@
     ]
   },
   {
-    "Index": 147,
+    "Index": 150,
     "Description": "1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor",
     "Class": "",
     "NumInputs": 4,
@@ -5802,7 +5896,7 @@
     ]
   },
   {
-    "Index": 148,
+    "Index": 151,
     "Description": "1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon",
     "Class": "",
     "NumInputs": 4,
@@ -5857,7 +5951,7 @@
     ]
   },
   {
-    "Index": 149,
+    "Index": 152,
     "Description": "1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor",
     "Class": "",
     "NumInputs": 4,
@@ -5912,7 +6006,7 @@
     ]
   },
   {
-    "Index": 150,
+    "Index": 153,
     "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Assassin Skill Tab",
     "Class": "Assassin",
     "NumInputs": 5,
@@ -5972,7 +6066,7 @@
     ]
   },
   {
-    "Index": 151,
+    "Index": 154,
     "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Barbarian Skill Tab",
     "Class": "Barbarian",
     "NumInputs": 5,
@@ -6032,7 +6126,7 @@
     ]
   },
   {
-    "Index": 152,
+    "Index": 155,
     "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Sorceress Skill Tab",
     "Class": "Sorceress",
     "NumInputs": 5,
@@ -6092,7 +6186,7 @@
     ]
   },
   {
-    "Index": 153,
+    "Index": 156,
     "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Druid Skill Tab",
     "Class": "Druid",
     "NumInputs": 5,
@@ -6152,7 +6246,7 @@
     ]
   },
   {
-    "Index": 154,
+    "Index": 157,
     "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Necromancer Skill Tab",
     "Class": "Necromancer",
     "NumInputs": 5,
@@ -6212,7 +6306,7 @@
     ]
   },
   {
-    "Index": 155,
+    "Index": 158,
     "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Amazon Skill Tab",
     "Class": "Amazon",
     "NumInputs": 5,
@@ -6272,7 +6366,7 @@
     ]
   },
   {
-    "Index": 156,
+    "Index": 159,
     "Description": "1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction + Grand Charm -> Rerolled Grand Charm & +1 Random Paladin Skill Tab",
     "Class": "Paladin",
     "NumInputs": 5,
@@ -6332,7 +6426,7 @@
     ]
   },
   {
-    "Index": 157,
+    "Index": 160,
     "Description": "1 Twisted Essence of Suffering + 1 Rare Amulet  -> Unique Amulet",
     "Class": "",
     "NumInputs": 2,
@@ -6366,7 +6460,7 @@
     "Notes": []
   },
   {
-    "Index": 158,
+    "Index": 161,
     "Description": "1 Twisted Essence of Suffering + 1 Rare Ring  -> Unique Ring",
     "Class": "",
     "NumInputs": 2,
@@ -6378,7 +6472,7 @@
         "Qualifiers": [
           "Rare Item"
         ],
-        "RawToken": "\"ring,rar\""
+        "RawToken": "\"rin,rar\""
       },
       {
         "Name": "Twisted Essence of Suffering",
@@ -6400,7 +6494,7 @@
     "Notes": []
   },
   {
-    "Index": 159,
+    "Index": 162,
     "Description": "1 Charged Essence of Hatred + 1 Rare Armor  -> Unique Armor",
     "Class": "",
     "NumInputs": 2,
@@ -6434,7 +6528,7 @@
     "Notes": []
   },
   {
-    "Index": 160,
+    "Index": 163,
     "Description": "1 Charged Essence of Hatred + 1 Rare Weapon  -> Unique Weapon",
     "Class": "",
     "NumInputs": 2,
@@ -6468,7 +6562,7 @@
     "Notes": []
   },
   {
-    "Index": 161,
+    "Index": 164,
     "Description": "1 Burning Essence of Terror + Rare Amulet -> Set Amulet",
     "Class": "",
     "NumInputs": 2,
@@ -6502,7 +6596,7 @@
     "Notes": []
   },
   {
-    "Index": 162,
+    "Index": 165,
     "Description": "1 Burning Essence of Terror + Rare Ring -> Set Ring",
     "Class": "",
     "NumInputs": 2,
@@ -6536,7 +6630,7 @@
     "Notes": []
   },
   {
-    "Index": 163,
+    "Index": 166,
     "Description": "1 Festering Essence of Destruction + Rare Armor -> Set Armor",
     "Class": "",
     "NumInputs": 2,
@@ -6570,7 +6664,7 @@
     "Notes": []
   },
   {
-    "Index": 164,
+    "Index": 167,
     "Description": "1 Festering Essence of Destruction + Rare Weapon -> Set Weapon",
     "Class": "",
     "NumInputs": 2,
@@ -6604,7 +6698,7 @@
     "Notes": []
   },
   {
-    "Index": 165,
+    "Index": 168,
     "Description": "add random sockets to armor",
     "Class": "",
     "NumInputs": 2,
@@ -6643,7 +6737,7 @@
     ]
   },
   {
-    "Index": 166,
+    "Index": 169,
     "Description": "add random sockets to weapon",
     "Class": "",
     "NumInputs": 2,
@@ -6682,7 +6776,7 @@
     ]
   },
   {
-    "Index": 167,
+    "Index": 170,
     "Description": "remove sockets from all items",
     "Class": "",
     "NumInputs": 2,
@@ -6716,7 +6810,7 @@
     "Notes": []
   },
   {
-    "Index": 168,
+    "Index": 171,
     "Description": "reroll charms 3:1 100% plvl",
     "Class": "",
     "NumInputs": 3,
@@ -6746,7 +6840,7 @@
     ]
   },
   {
-    "Index": 169,
+    "Index": 172,
     "Description": "reroll charms 3:1 100% plvl",
     "Class": "",
     "NumInputs": 3,
@@ -6776,7 +6870,7 @@
     ]
   },
   {
-    "Index": 170,
+    "Index": 173,
     "Description": "reroll charms 3:1 100% plvl",
     "Class": "",
     "NumInputs": 3,
@@ -6806,7 +6900,7 @@
     ]
   },
   {
-    "Index": 171,
+    "Index": 174,
     "Description": "craft leap of faith unique ring",
     "Class": "",
     "NumInputs": 4,
@@ -6848,7 +6942,7 @@
     "Notes": []
   },
   {
-    "Index": 172,
+    "Index": 175,
     "Description": "upgrade torment charm first",
     "Op": 16,
     "Param": 80,
@@ -6913,6 +7007,11 @@
             "PropertyString": "10% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
+          },
+          {
+            "PropertyString": "+20 to Required Level",
+            "ModChance": 100,
+            "Index": 4
           }
         ]
       }
@@ -6920,7 +7019,7 @@
     "Notes": []
   },
   {
-    "Index": 173,
+    "Index": 176,
     "Description": "upgrade torment charm first",
     "Op": 16,
     "Param": 80,
@@ -6985,6 +7084,11 @@
             "PropertyString": "10% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
+          },
+          {
+            "PropertyString": "+20 to Required Level",
+            "ModChance": 100,
+            "Index": 4
           }
         ]
       }
@@ -6992,7 +7096,7 @@
     "Notes": []
   },
   {
-    "Index": 174,
+    "Index": 177,
     "Description": "upgrade torment charm first",
     "Op": 16,
     "Param": 80,
@@ -7057,6 +7161,11 @@
             "PropertyString": "10% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
+          },
+          {
+            "PropertyString": "+20 to Required Level",
+            "ModChance": 100,
+            "Index": 4
           }
         ]
       }
@@ -7064,7 +7173,7 @@
     "Notes": []
   },
   {
-    "Index": 175,
+    "Index": 178,
     "Description": "upgrade torment charm first",
     "Op": 16,
     "Param": 80,
@@ -7129,6 +7238,11 @@
             "PropertyString": "10% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
+          },
+          {
+            "PropertyString": "+20 to Required Level",
+            "ModChance": 100,
+            "Index": 4
           }
         ]
       }
@@ -7136,7 +7250,7 @@
     "Notes": []
   },
   {
-    "Index": 176,
+    "Index": 179,
     "Description": "upgrade torment charm first",
     "Op": 16,
     "Param": 80,
@@ -7201,6 +7315,11 @@
             "PropertyString": "10% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
+          },
+          {
+            "PropertyString": "+20 to Required Level",
+            "ModChance": 100,
+            "Index": 4
           }
         ]
       }
@@ -7208,7 +7327,7 @@
     "Notes": []
   },
   {
-    "Index": 177,
+    "Index": 180,
     "Description": "upgrade torment charm first",
     "Op": 16,
     "Param": 80,
@@ -7273,6 +7392,11 @@
             "PropertyString": "10% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
+          },
+          {
+            "PropertyString": "+20 to Required Level",
+            "ModChance": 100,
+            "Index": 4
           }
         ]
       }
@@ -7280,7 +7404,7 @@
     "Notes": []
   },
   {
-    "Index": 178,
+    "Index": 181,
     "Description": "upgrade torment charm first",
     "Op": 16,
     "Param": 80,
@@ -7345,6 +7469,11 @@
             "PropertyString": "10% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
+          },
+          {
+            "PropertyString": "+20 to Required Level",
+            "ModChance": 100,
+            "Index": 4
           }
         ]
       }
@@ -7352,7 +7481,7 @@
     "Notes": []
   },
   {
-    "Index": 179,
+    "Index": 182,
     "Description": "upgrade torment charm second",
     "Op": 16,
     "Param": 80,
@@ -7419,7 +7548,7 @@
             "Index": 3
           },
           {
-            "PropertyString": "25% Extra Gold from Monsters",
+            "PropertyString": "+30 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7429,7 +7558,7 @@
     "Notes": []
   },
   {
-    "Index": 180,
+    "Index": 183,
     "Description": "upgrade torment charm second",
     "Op": 16,
     "Param": 80,
@@ -7496,7 +7625,7 @@
             "Index": 3
           },
           {
-            "PropertyString": "25% Extra Gold from Monsters",
+            "PropertyString": "+30 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7506,7 +7635,7 @@
     "Notes": []
   },
   {
-    "Index": 181,
+    "Index": 184,
     "Description": "upgrade torment charm second",
     "Op": 16,
     "Param": 80,
@@ -7573,7 +7702,7 @@
             "Index": 3
           },
           {
-            "PropertyString": "25% Extra Gold from Monsters",
+            "PropertyString": "+30 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7583,7 +7712,7 @@
     "Notes": []
   },
   {
-    "Index": 182,
+    "Index": 185,
     "Description": "upgrade torment charm second",
     "Op": 16,
     "Param": 80,
@@ -7650,7 +7779,7 @@
             "Index": 3
           },
           {
-            "PropertyString": "25% Extra Gold from Monsters",
+            "PropertyString": "+30 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7660,7 +7789,7 @@
     "Notes": []
   },
   {
-    "Index": 183,
+    "Index": 186,
     "Description": "upgrade torment charm second",
     "Op": 16,
     "Param": 80,
@@ -7727,7 +7856,7 @@
             "Index": 3
           },
           {
-            "PropertyString": "25% Extra Gold from Monsters",
+            "PropertyString": "+30 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7737,7 +7866,7 @@
     "Notes": []
   },
   {
-    "Index": 184,
+    "Index": 187,
     "Description": "upgrade torment charm second",
     "Op": 16,
     "Param": 80,
@@ -7804,7 +7933,7 @@
             "Index": 3
           },
           {
-            "PropertyString": "25% Extra Gold from Monsters",
+            "PropertyString": "+30 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7814,7 +7943,7 @@
     "Notes": []
   },
   {
-    "Index": 185,
+    "Index": 188,
     "Description": "upgrade torment charm second",
     "Op": 16,
     "Param": 80,
@@ -7881,11 +8010,483 @@
             "Index": 3
           },
           {
-            "PropertyString": "25% Extra Gold from Monsters",
+            "PropertyString": "+30 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
         ]
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 189,
+    "Description": "tc1 eye + magic ring under ilvl 40 -> rare ring of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Ring",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"rin,mag\""
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 190,
+    "Description": "tc2 heart + magic armor under ilvl 40 -> rare armor of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Any Armor",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"armo,mag\""
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 191,
+    "Description": "tc3 brain + magic amulet under ilvl 40 -> rare amulet of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Amulet",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"amu,mag\""
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 192,
+    "Description": "tc4 fang + magic weapon under ilvl 40 -> rare weapon of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Weapon",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"weap,mag\""
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 193,
+    "Description": "tc5 eye + magic ring under ilvl 70 -> rare ring of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Ring",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"rin,mag\""
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 194,
+    "Description": "tc6 heart + magic armor under ilvl 70 -> rare armor of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Any Armor",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"armo,mag\""
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 195,
+    "Description": "tc7 brain + magic amulet under ilvl 70 -> rare amulet of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Amulet",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"amu,mag\""
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 196,
+    "Description": "tc8 fang + magic weapon under ilvl 70 -> rare weapon of the same ilvl",
+    "Class": "",
+    "NumInputs": 2,
+    "ResolvedInputsCount": 2,
+    "Inputs": [
+      {
+        "Name": "Weapon",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Magic Item"
+        ],
+        "RawToken": "\"weap,mag\""
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Base Type",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Rare Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 197,
+    "Description": "armor under ilvl 40 + tc1+tc2+tc3+tc4 = repaired",
+    "Class": "",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Any Armor",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "\"armo\""
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Repair Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 198,
+    "Description": "weapon under ilvl 40 + tc1+tc2+tc3+tc4 = repaired",
+    "Class": "",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Weapon",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "\"weap\""
+      },
+      {
+        "Name": "tc1",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc1"
+      },
+      {
+        "Name": "tc2",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc2"
+      },
+      {
+        "Name": "tc3",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc3"
+      },
+      {
+        "Name": "tc4",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc4"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Repair Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 199,
+    "Description": "armor under ilvl 70 + tc5+tc6+tc7+tc8 = repaired",
+    "Class": "",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Any Armor",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "\"armo\""
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Repair Item"
+        ],
+        "Properties": []
+      }
+    },
+    "Notes": []
+  },
+  {
+    "Index": 200,
+    "Description": "weapon under ilvl 70 + tc5+tc6+tc7+tc8 = repaired",
+    "Class": "",
+    "NumInputs": 5,
+    "ResolvedInputsCount": 5,
+    "Inputs": [
+      {
+        "Name": "Weapon",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "\"weap\""
+      },
+      {
+        "Name": "tc5",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc5"
+      },
+      {
+        "Name": "tc6",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc6"
+      },
+      {
+        "Name": "tc7",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc7"
+      },
+      {
+        "Name": "tc8",
+        "Quantity": 1,
+        "Qualifiers": [],
+        "RawToken": "tc8"
+      }
+    ],
+    "Outputs": {
+      "A": {
+        "Name": "Return Updated Item",
+        "Quantity": 1,
+        "Qualifiers": [
+          "Repair Item"
+        ],
+        "Properties": []
       }
     },
     "Notes": []

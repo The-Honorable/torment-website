@@ -1328,6 +1328,16 @@
         "StrBonus": 75,
         "DexBonus": 110,
         "GemSockets": "(1+): 1",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Throwing Knife",
         "Code": "tkf",
@@ -1344,7 +1354,7 @@
         "NormCode": "tkf",
         "UberCode": "9tk",
         "UltraCode": "7tk",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -1362,6 +1372,16 @@
         "StrBonus": 75,
         "DexBonus": 110,
         "GemSockets": "(1+): 1",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Throwing Axe",
         "Code": "tax",
@@ -1378,7 +1398,7 @@
         "NormCode": "tax",
         "UberCode": "9ta",
         "UltraCode": "7ta",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -1396,6 +1416,16 @@
         "StrBonus": 75,
         "DexBonus": 110,
         "GemSockets": "(1+): 1",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Balanced Knife",
         "Code": "bkf",
@@ -1412,7 +1442,7 @@
         "NormCode": "bkf",
         "UberCode": "9bk",
         "UltraCode": "7bk",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -1430,6 +1460,16 @@
         "StrBonus": 75,
         "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Balanced Axe",
         "Code": "bal",
@@ -1446,7 +1486,7 @@
         "NormCode": "bal",
         "UberCode": "9b8",
         "UltraCode": "7b8",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -1464,6 +1504,38 @@
         "StrBonus": 75,
         "DexBonus": 110,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "ama replenish",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "+1 to Javelin and Spear Skills (Amazon Only)",
+                    "+1 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            },
+            {
+                "Name": "ama replenish",
+                "Level": 45,
+                "RequiredLevel": 45,
+                "PropertyStrings": [
+                    "+2 to Javelin and Spear Skills (Amazon Only)",
+                    "+2 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            },
+            {
+                "Name": "ama replenish",
+                "Level": 70,
+                "RequiredLevel": 70,
+                "PropertyStrings": [
+                    "+3 to Javelin and Spear Skills (Amazon Only)",
+                    "+3 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Javelin",
         "Code": "jav",
@@ -1480,7 +1552,7 @@
         "NormCode": "jav",
         "UberCode": "9ja",
         "UltraCode": "7ja",
-        "AutoPrefix": "",
+        "AutoPrefix": "307",
         "RequiredClass": ""
     },
     {
@@ -4178,6 +4250,16 @@
         "StrBonus": 75,
         "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Battle Dart",
         "Code": "9tk",
@@ -4194,7 +4276,7 @@
         "NormCode": "tkf",
         "UberCode": "9tk",
         "UltraCode": "7tk",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -4212,6 +4294,16 @@
         "StrBonus": 75,
         "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Francisca",
         "Code": "9ta",
@@ -4228,7 +4320,7 @@
         "NormCode": "tax",
         "UberCode": "9ta",
         "UltraCode": "7ta",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -4246,6 +4338,16 @@
         "StrBonus": 75,
         "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "War Dart",
         "Code": "9bk",
@@ -4262,7 +4364,7 @@
         "NormCode": "bkf",
         "UberCode": "9bk",
         "UltraCode": "7bk",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -4280,6 +4382,16 @@
         "StrBonus": 75,
         "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Hurlbat",
         "Code": "9b8",
@@ -4296,7 +4408,7 @@
         "NormCode": "bal",
         "UberCode": "9b8",
         "UltraCode": "7b8",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -4314,6 +4426,38 @@
         "StrBonus": 75,
         "DexBonus": 115,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "ama replenish",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "+1 to Javelin and Spear Skills (Amazon Only)",
+                    "+1 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            },
+            {
+                "Name": "ama replenish",
+                "Level": 45,
+                "RequiredLevel": 45,
+                "PropertyStrings": [
+                    "+2 to Javelin and Spear Skills (Amazon Only)",
+                    "+2 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            },
+            {
+                "Name": "ama replenish",
+                "Level": 70,
+                "RequiredLevel": 70,
+                "PropertyStrings": [
+                    "+3 to Javelin and Spear Skills (Amazon Only)",
+                    "+3 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "War Javelin",
         "Code": "9ja",
@@ -4330,7 +4474,7 @@
         "NormCode": "jav",
         "UberCode": "9ja",
         "UltraCode": "7ja",
-        "AutoPrefix": "",
+        "AutoPrefix": "307",
         "RequiredClass": ""
     },
     {
@@ -7328,6 +7472,16 @@
         "StrBonus": 75,
         "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Flying Knife",
         "Code": "7tk",
@@ -7344,7 +7498,7 @@
         "NormCode": "tkf",
         "UberCode": "9tk",
         "UltraCode": "7tk",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -7362,6 +7516,16 @@
         "StrBonus": 75,
         "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Flying Axe",
         "Code": "7ta",
@@ -7378,7 +7542,7 @@
         "NormCode": "tax",
         "UberCode": "9ta",
         "UltraCode": "7ta",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -7396,6 +7560,16 @@
         "StrBonus": 75,
         "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26+): 2",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Winged Knife",
         "Code": "7bk",
@@ -7412,7 +7586,7 @@
         "NormCode": "bkf",
         "UberCode": "9bk",
         "UltraCode": "7bk",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -7430,6 +7604,16 @@
         "StrBonus": 75,
         "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
+        "AutoMagicGroups": [
+            {
+                "Name": "Replenishing",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Winged Axe",
         "Code": "7b8",
@@ -7446,7 +7630,7 @@
         "NormCode": "bal",
         "UberCode": "9b8",
         "UltraCode": "7b8",
-        "AutoPrefix": "",
+        "AutoPrefix": "306",
         "RequiredClass": ""
     },
     {
@@ -7464,6 +7648,38 @@
         "StrBonus": 75,
         "DexBonus": 120,
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
+        "AutoMagicGroups": [
+            {
+                "Name": "ama replenish",
+                "Level": 1,
+                "RequiredLevel": 1,
+                "PropertyStrings": [
+                    "+1 to Javelin and Spear Skills (Amazon Only)",
+                    "+1 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            },
+            {
+                "Name": "ama replenish",
+                "Level": 45,
+                "RequiredLevel": 45,
+                "PropertyStrings": [
+                    "+2 to Javelin and Spear Skills (Amazon Only)",
+                    "+2 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            },
+            {
+                "Name": "ama replenish",
+                "Level": 70,
+                "RequiredLevel": 70,
+                "PropertyStrings": [
+                    "+3 to Javelin and Spear Skills (Amazon Only)",
+                    "+3 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
+                ]
+            }
+        ],
         "EquipmentType": 1,
         "Name": "Hyperion Javelin",
         "Code": "7ja",
@@ -7480,7 +7696,7 @@
         "NormCode": "jav",
         "UberCode": "9ja",
         "UltraCode": "7ja",
-        "AutoPrefix": "",
+        "AutoPrefix": "307",
         "RequiredClass": ""
     },
     {
@@ -9415,27 +9631,33 @@
         "GemSockets": "(1-25): 1 - (26+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "Harpoonist's",
+                "Name": "ama replenish",
                 "Level": 1,
-                "RequiredLevel": 15,
+                "RequiredLevel": 1,
                 "PropertyStrings": [
-                    "+1 to Javelin and Spear Skills (Amazon Only)"
+                    "+1 to Javelin and Spear Skills (Amazon Only)",
+                    "+1 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             },
             {
-                "Name": "Spearmaiden's",
-                "Level": 40,
-                "RequiredLevel": 30,
+                "Name": "ama replenish",
+                "Level": 45,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+2 to Javelin and Spear Skills (Amazon Only)"
+                    "+2 to Javelin and Spear Skills (Amazon Only)",
+                    "+2 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             },
             {
-                "Name": "Lancer's",
-                "Level": 60,
+                "Name": "ama replenish",
+                "Level": 70,
                 "RequiredLevel": 70,
                 "PropertyStrings": [
-                    "+3 to Javelin and Spear Skills (Amazon Only)"
+                    "+3 to Javelin and Spear Skills (Amazon Only)",
+                    "+3 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             }
         ],
@@ -9455,7 +9677,7 @@
         "NormCode": "am5",
         "UberCode": "ama",
         "UltraCode": "amf",
-        "AutoPrefix": "302",
+        "AutoPrefix": "307",
         "RequiredClass": "Amazon"
     },
     {
@@ -10414,27 +10636,33 @@
         "GemSockets": "(1-25): 1 - (26+): 2",
         "AutoMagicGroups": [
             {
-                "Name": "Harpoonist's",
+                "Name": "ama replenish",
                 "Level": 1,
-                "RequiredLevel": 15,
+                "RequiredLevel": 1,
                 "PropertyStrings": [
-                    "+1 to Javelin and Spear Skills (Amazon Only)"
+                    "+1 to Javelin and Spear Skills (Amazon Only)",
+                    "+1 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             },
             {
-                "Name": "Spearmaiden's",
-                "Level": 40,
-                "RequiredLevel": 30,
+                "Name": "ama replenish",
+                "Level": 45,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+2 to Javelin and Spear Skills (Amazon Only)"
+                    "+2 to Javelin and Spear Skills (Amazon Only)",
+                    "+2 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             },
             {
-                "Name": "Lancer's",
-                "Level": 60,
+                "Name": "ama replenish",
+                "Level": 70,
                 "RequiredLevel": 70,
                 "PropertyStrings": [
-                    "+3 to Javelin and Spear Skills (Amazon Only)"
+                    "+3 to Javelin and Spear Skills (Amazon Only)",
+                    "+3 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             }
         ],
@@ -10454,7 +10682,7 @@
         "NormCode": "am5",
         "UberCode": "ama",
         "UltraCode": "amf",
-        "AutoPrefix": "302",
+        "AutoPrefix": "307",
         "RequiredClass": "Amazon"
     },
     {
@@ -11413,27 +11641,33 @@
         "GemSockets": "(1-25): 1 - (26-40): 2 - (41+): 3",
         "AutoMagicGroups": [
             {
-                "Name": "Harpoonist's",
+                "Name": "ama replenish",
                 "Level": 1,
-                "RequiredLevel": 15,
+                "RequiredLevel": 1,
                 "PropertyStrings": [
-                    "+1 to Javelin and Spear Skills (Amazon Only)"
+                    "+1 to Javelin and Spear Skills (Amazon Only)",
+                    "+1 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             },
             {
-                "Name": "Spearmaiden's",
-                "Level": 40,
-                "RequiredLevel": 30,
+                "Name": "ama replenish",
+                "Level": 45,
+                "RequiredLevel": 45,
                 "PropertyStrings": [
-                    "+2 to Javelin and Spear Skills (Amazon Only)"
+                    "+2 to Javelin and Spear Skills (Amazon Only)",
+                    "+2 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             },
             {
-                "Name": "Lancer's",
-                "Level": 60,
+                "Name": "ama replenish",
+                "Level": 70,
                 "RequiredLevel": 70,
                 "PropertyStrings": [
-                    "+3 to Javelin and Spear Skills (Amazon Only)"
+                    "+3 to Javelin and Spear Skills (Amazon Only)",
+                    "+3 to Passive and Magic Skills (Amazon Only)",
+                    "Replenishes quantity"
                 ]
             }
         ],
@@ -11453,7 +11687,7 @@
         "NormCode": "am5",
         "UberCode": "ama",
         "UltraCode": "amf",
-        "AutoPrefix": "302",
+        "AutoPrefix": "307",
         "RequiredClass": "Amazon"
     }
 ]

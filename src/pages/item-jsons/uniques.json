@@ -2152,7 +2152,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "and you may find the missing pieces\nScour the darkest depths of Sanctuary\nYour search begins",
+                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary",
                 "Index": 4
             }
         ],
@@ -17304,7 +17304,7 @@
         "Code": "9gd",
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 10 Chilling Armor when struck",
+                "PropertyString": "10% Chance to cast level 10 Shiver Armor when struck",
                 "Index": 3
             },
             {
@@ -17318,6 +17318,10 @@
             {
                 "PropertyString": "20% Increased Chance of Blocking",
                 "Index": 6
+            },
+            {
+                "PropertyString": "Adds 25-75 cold damage",
+                "Index": 7
             },
             {
                 "PropertyString": "+5 Defense (Per Character Level)",
