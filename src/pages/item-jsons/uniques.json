@@ -7727,12 +7727,8 @@
         "Code": "8sb",
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 25 Nova on striking",
+                "PropertyString": "15% Chance to cast level 20 Nova on striking",
                 "Index": 5
-            },
-            {
-                "PropertyString": "+1 to Amazon Skill Levels",
-                "Index": 6
             },
             {
                 "PropertyString": "+30% Increased Attack Speed",
@@ -7749,6 +7745,14 @@
             {
                 "PropertyString": "Adds 1-300 lightning damage",
                 "Index": 0
+            },
+            {
+                "PropertyString": "5% Mana stolen per hit",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+ to Multiple Shot (oskill)",
+                "Index": 7
             },
             {
                 "PropertyString": "+10 to Energy",
@@ -7776,7 +7780,7 @@
         "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Peasant Crown",
-        "Index": "Peasent Crown",
+        "Index": "Peasant Crown",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 25,
@@ -7804,7 +7808,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Replenish Life +6-12",
+                "PropertyString": "Replenish Life +15",
                 "Index": 4
             }
         ],
@@ -7846,11 +7850,15 @@
                 "Index": 3
             },
             {
+                "PropertyString": "All Resistances +15",
+                "Index": 6
+            },
+            {
                 "PropertyString": "Physical Damage Received Reduced by 15%",
                 "Index": 5
             },
             {
-                "PropertyString": "Magic Damage Reduced by 7-11",
+                "PropertyString": "Magic Damage Reduced by 7",
                 "Index": 2
             },
             {
@@ -8389,7 +8397,7 @@
         "Code": "xea",
         "Properties": [
             {
-                "PropertyString": "+1 to All Skills",
+                "PropertyString": "+1-2 to All Skills",
                 "Index": 4
             },
             {
@@ -8401,11 +8409,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "All Resistances +20-35",
+                "PropertyString": "All Resistances +25-35",
                 "Index": 1
             },
             {
-                "PropertyString": "Magic Damage Reduced by 9-13",
+                "PropertyString": "Magic Damage Reduced by 10",
                 "Index": 3
             }
         ],
@@ -8551,7 +8559,7 @@
                 "Index": 5
             },
             {
-                "PropertyString": "6-8% Life stolen per hit",
+                "PropertyString": "10% Life stolen per hit",
                 "Index": 2
             },
             {
@@ -8559,23 +8567,23 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+15 Defense",
+                "PropertyString": "+25 Defense",
                 "Index": 4
             },
             {
-                "PropertyString": "Physical Damage Received Reduced by 10-15%",
-                "Index": 1
+                "PropertyString": "Magic Resist +10%",
+                "Index": 0
             },
             {
-                "PropertyString": "Magic Damage Reduced by 10-15",
-                "Index": 0
+                "PropertyString": "Physical Damage Received Reduced by 10%",
+                "Index": 1
             }
         ],
         "DamageArmorEnhanced": true,
         "Equipment": {
             "DamageString": null,
             "DamageStringPrefix": null,
-            "ArmorString": "102-113",
+            "ArmorString": "112-123",
             "Block": null,
             "EquipmentType": 0,
             "Name": "Demonhide Sash",
@@ -9636,7 +9644,7 @@
                 "Index": 4
             },
             {
-                "PropertyString": "+40 Maximum Stamina",
+                "PropertyString": "Regenerate Mana 50%",
                 "Index": 5
             },
             {
@@ -9698,7 +9706,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "Attacker Takes Damage of 2 (Per Character Level)",
+                "PropertyString": "Attacker Takes Damage of 3 (Per Character Level)",
                 "Index": 0
             }
         ],
@@ -9765,7 +9773,7 @@
         "Type": "Body Armor",
         "Vanilla": "Y",
         "Name": "Iron Pelt",
-        "Index": "Ironpelt",
+        "Index": "Iron Pelt",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 30,
@@ -9785,7 +9793,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "Damage Reduced by 15-20",
+                "PropertyString": "Damage Reduced by 10",
                 "Index": 3
             },
             {
@@ -9793,7 +9801,7 @@
                 "Index": 6
             },
             {
-                "PropertyString": "Magic Damage Reduced by 10-16",
+                "PropertyString": "Magic Damage Reduced by 10",
                 "Index": 2
             }
         ],
@@ -10279,7 +10287,7 @@
         "Type": "Body Armor",
         "Vanilla": "Y",
         "Name": "Spirit Forge",
-        "Index": "Spiritforge",
+        "Index": "Spirit Forge",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 30,
@@ -10287,7 +10295,7 @@
         "Code": "xng",
         "Properties": [
             {
-                "PropertyString": "Adds 20-65 fire damage",
+                "PropertyString": "Adds 50-80 fire damage",
                 "Index": 2
             },
             {
@@ -10303,15 +10311,15 @@
                 "Index": 1
             },
             {
-                "PropertyString": "Fire Resist +5%",
+                "PropertyString": "Fire Resist +50%",
                 "Index": 3
             },
             {
-                "PropertyString": "+4 to Light Radius",
+                "PropertyString": "+2 to Light Radius",
                 "Index": 0
             },
             {
-                "PropertyString": "Socketed (3)",
+                "PropertyString": "Socketed (2-3)",
                 "Index": 6
             }
         ],
@@ -10814,7 +10822,7 @@
         "Type": "Belt",
         "Vanilla": "Y",
         "Name": "Gloom's Trap",
-        "Index": "Gloomstrap",
+        "Index": "Glooms Trap",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 30,
@@ -10842,7 +10850,7 @@
                 "Index": 5
             },
             {
-                "PropertyString": "-3 to Light Radius",
+                "PropertyString": "-2 to Light Radius",
                 "Index": 0
             }
         ],
@@ -10864,13 +10872,17 @@
         "Type": "Scepter",
         "Vanilla": "Y",
         "Name": "Zakarum's Hand",
-        "Index": "Zakarum's Hand",
+        "Index": "Zakarums Hand",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 30,
         "RequiredLevel": 37,
         "Code": "9sc",
         "Properties": [
+            {
+                "PropertyString": "+1 to Paladin Skill Levels",
+                "Index": 2
+            },
             {
                 "PropertyString": "+30% Increased Attack Speed",
                 "Index": 6
@@ -10894,10 +10906,6 @@
             {
                 "PropertyString": "+5 to Holy Shock (Paladin Only)",
                 "Index": 4
-            },
-            {
-                "PropertyString": "Regenerate Mana 10%",
-                "Index": 2
             }
         ],
         "DamageArmorEnhanced": true,
@@ -11170,7 +11178,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "-4 to Light Radius",
+                "PropertyString": "-2 to Light Radius",
                 "Index": 0
             }
         ],
@@ -11185,52 +11193,6 @@
             "RequiredStrength": "82",
             "RequiredDexterity": "0",
             "Durability": 30,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Body Armor",
-        "Vanilla": "Y",
-        "Name": "Shaftstop",
-        "Index": "Shaftstop",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 35,
-        "RequiredLevel": 38,
-        "Code": "xhn",
-        "Properties": [
-            {
-                "PropertyString": "+180-220% Enhanced Defense",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+250 Defense vs. Missile",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+60 to Life",
-                "Index": 2
-            },
-            {
-                "PropertyString": "Physical Damage Received Reduced by 30%",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+1 to Light Radius",
-                "Index": 4
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageString": null,
-            "DamageStringPrefix": null,
-            "ArmorString": "599-684",
-            "Block": null,
-            "EquipmentType": 0,
-            "Name": "Mesh Armor",
-            "RequiredStrength": "92",
-            "RequiredDexterity": "0",
-            "Durability": 45,
             "RequiredClass": ""
         }
     },
@@ -11304,6 +11266,10 @@
         "Code": "9ma",
         "Properties": [
             {
+                "PropertyString": "10% Chance to cast level 15 Frozen Orb on striking",
+                "Index": 5
+            },
+            {
                 "PropertyString": "+150-180% Enhanced Damage",
                 "Index": 2
             },
@@ -11322,10 +11288,6 @@
             {
                 "PropertyString": "Cannot Be Frozen",
                 "Index": 1
-            },
-            {
-                "PropertyString": "Level 30 Frozen Orb (50 Charges)",
-                "Index": 5
             }
         ],
         "DamageArmorEnhanced": true,
@@ -11406,7 +11368,7 @@
         "Type": "Bow",
         "Vanilla": "Y",
         "Name": "Witchwild String",
-        "Index": "Whichwild String",
+        "Index": "Witchwild String",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 37,
@@ -11901,13 +11863,17 @@
         "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Blackhorn's Face",
-        "Index": "Blackhorn's Face",
+        "Index": "Blackhorns Face",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 41,
         "RequiredLevel": 41,
         "Code": "xsk",
         "Properties": [
+            {
+                "PropertyString": "+2 to Lightning Skills",
+                "Index": 6
+            },
             {
                 "PropertyString": "Adds 1-150 lightning damage",
                 "Index": 0
@@ -11923,6 +11889,10 @@
             {
                 "PropertyString": "+5% to Maximum Lightning Resist",
                 "Index": 3
+            },
+            {
+                "PropertyString": "Lightning Resist +50%",
+                "Index": 5
             },
             {
                 "PropertyString": "+10 Lightning Absorb",
@@ -11947,7 +11917,7 @@
         "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Vampire Gaze",
-        "Index": "Vampiregaze",
+        "Index": "Vampire Gaze",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 41,
@@ -12071,8 +12041,12 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+195% Enhanced Damage",
+                "PropertyString": "+180-220% Enhanced Damage",
                 "Index": 3
+            },
+            {
+                "PropertyString": "+40 to Minimum Damage",
+                "Index": 7
             },
             {
                 "PropertyString": "+0.5 to Maximum Damage (Per Character Level)",
@@ -12100,7 +12074,7 @@
             "DamageTypes": [
                 {
                     "Type": 3,
-                    "DamageString": "29 to (94-123)"
+                    "DamageString": "(68-72) to (91-130)"
                 }
             ],
             "Speed": -10,
@@ -12132,7 +12106,7 @@
                 "Index": 6
             },
             {
-                "PropertyString": "+140-160% Enhanced Damage",
+                "PropertyString": "+200-220% Enhanced Damage",
                 "Index": 5
             },
             {
@@ -12157,7 +12131,7 @@
             "DamageTypes": [
                 {
                     "Type": 3,
-                    "DamageString": "(38-41) to (62-67)"
+                    "DamageString": "(48-51) to (78-83)"
                 }
             ],
             "Speed": -10,
@@ -12749,7 +12723,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "8% Chance to cast level 15 Poison Nova on striking",
+                "PropertyString": "8% Chance to cast level 20 Poison Nova on striking",
                 "Index": 2
             },
             {
@@ -12802,7 +12776,7 @@
                 "Index": 4
             },
             {
-                "PropertyString": "-10% Faster Cast Rate",
+                "PropertyString": "-15% Faster Cast Rate",
                 "Index": 6
             },
             {
@@ -12822,7 +12796,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "Socketed (3)",
+                "PropertyString": "Socketed (1-2)",
                 "Index": 0
             }
         ],
@@ -12856,27 +12830,23 @@
         "Properties": [
             {
                 "PropertyString": "9% Chance to cast level 20 Frozen Orb on striking",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+177-244% Enhanced Damage",
-                "Index": 5
-            },
-            {
-                "PropertyString": "Adds 50-200 cold damage",
-                "Index": 1
-            },
-            {
-                "PropertyString": "Freezes target +2",
                 "Index": 3
             },
             {
-                "PropertyString": "+20 to Strength",
+                "PropertyString": "+177-244% Enhanced Damage",
+                "Index": 4
+            },
+            {
+                "PropertyString": "Adds 50-200 cold damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Freezes target +2",
                 "Index": 2
             },
             {
-                "PropertyString": "Requirements -30%",
-                "Index": 0
+                "PropertyString": "+20 to Strength",
+                "Index": 1
             }
         ],
         "DamageArmorEnhanced": true,
@@ -12894,8 +12864,8 @@
             "Speed": 10,
             "EquipmentType": 1,
             "Name": "Dacian Falx",
-            "RequiredStrength": "63",
-            "RequiredDexterity": "14",
+            "RequiredStrength": "91",
+            "RequiredDexterity": "20",
             "Durability": 50,
             "RequiredClass": ""
         }
@@ -13128,7 +13098,7 @@
         "Type": "Body Armor",
         "Vanilla": "Y",
         "Name": "Skullder's Ire",
-        "Index": "Skullder's Ire",
+        "Index": "Skullders Ire",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -13178,7 +13148,7 @@
         "Type": "Boots",
         "Vanilla": "Y",
         "Name": "War Traveler",
-        "Index": "Wartraveler",
+        "Index": "War Traveler",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -13444,7 +13414,7 @@
         "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Valkyrie Wing",
-        "Index": "Valkiry Wing",
+        "Index": "Valkyrie Wing",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -13462,6 +13432,10 @@
             {
                 "PropertyString": "+20% Faster Hit Recovery",
                 "Index": 2
+            },
+            {
+                "PropertyString": "+5 to Valkyrie (Amazon Only)",
+                "Index": 5
             },
             {
                 "PropertyString": "+150-200% Enhanced Defense",
@@ -13490,7 +13464,7 @@
         "Type": "Shield",
         "Vanilla": "Y",
         "Name": "Gerke's Sanctuary",
-        "Index": "Kerke's Sanctuary",
+        "Index": "Gerke's Sanctuary",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -13510,11 +13484,11 @@
                 "Index": 5
             },
             {
-                "PropertyString": "+180-240% Enhanced Defense",
+                "PropertyString": "+200-240% Enhanced Defense",
                 "Index": 3
             },
             {
-                "PropertyString": "Replenish Life +15",
+                "PropertyString": "Replenish Life +25",
                 "Index": 2
             },
             {
@@ -13522,11 +13496,11 @@
                 "Index": 6
             },
             {
-                "PropertyString": "Damage Reduced by 11-16",
+                "PropertyString": "Damage Reduced by 10",
                 "Index": 0
             },
             {
-                "PropertyString": "Magic Damage Reduced by 14-18",
+                "PropertyString": "Magic Damage Reduced by 10",
                 "Index": 1
             }
         ],
@@ -13534,7 +13508,7 @@
         "Equipment": {
             "DamageString": "10 to 17",
             "DamageStringPrefix": "Smite Damage",
-            "ArmorString": "221-268",
+            "ArmorString": "237-268",
             "Block": 24,
             "EquipmentType": 0,
             "Name": "Pavise",
@@ -13731,7 +13705,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Replenish Life +5",
+                "PropertyString": "Replenish Life +20",
                 "Index": 4
             },
             {
@@ -13849,7 +13823,7 @@
                 "Index": 5
             },
             {
-                "PropertyString": "Magic Damage Reduced by 9-12",
+                "PropertyString": "Magic Damage Reduced by 5",
                 "Index": 2
             },
             {
@@ -13878,7 +13852,7 @@
         "Type": "Mace",
         "Vanilla": "Y",
         "Name": "Baezil's Vortex",
-        "Index": "Baezil's Vortex",
+        "Index": "Baezils Vortex",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 45,
@@ -14045,7 +14019,7 @@
         "Type": "Crossbow",
         "Vanilla": "Y",
         "Name": "Pus Spitter",
-        "Index": "Pus Spiter",
+        "Index": "Pus Spitter",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -14351,7 +14325,7 @@
         "Type": "Staff",
         "Vanilla": "Y",
         "Name": "Skull Collector",
-        "Index": "Skullcollector",
+        "Index": "Skull Collector",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -14522,7 +14496,7 @@
                 "Index": 4
             },
             {
-                "PropertyString": "Adds 50-100 cold damage",
+                "PropertyString": "Adds 100-150 cold damage",
                 "Index": 1
             },
             {
@@ -14556,71 +14530,10 @@
         }
     },
     {
-        "Type": "Spear",
-        "Vanilla": "Y",
-        "Name": "Spire of Honor",
-        "Index": "Spire of Honor",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 47,
-        "RequiredLevel": 47,
-        "Code": "9p9",
-        "Properties": [
-            {
-                "PropertyString": "+3 to Combat Skills (Paladin Only)",
-                "Index": 7
-            },
-            {
-                "PropertyString": "+200-266% Enhanced Damage",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+20% Faster Hit Recovery",
-                "Index": 3
-            },
-            {
-                "PropertyString": "Adds 33-66 damage",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+100 to Attack Rating",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+2% Damage to Demons (Per Character Level)",
-                "Index": 5
-            },
-            {
-                "PropertyString": "Replenish Life +20",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+2 to Light Radius",
-                "Index": 1
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 1,
-                    "DamageString": "(153-179) to (426-505)"
-                }
-            ],
-            "Speed": 20,
-            "EquipmentType": 1,
-            "Name": "Lance",
-            "RequiredStrength": "110",
-            "RequiredDexterity": "88",
-            "Durability": 25,
-            "RequiredClass": ""
-        }
-    },
-    {
         "Type": "Boots",
         "Vanilla": "Y",
         "Name": "Gore Rider",
-        "Index": "Gorerider",
+        "Index": "Gore Rider",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -14830,7 +14743,7 @@
         "Code": "9b7",
         "Properties": [
             {
-                "PropertyString": "+5 to Masteries (Barbarian Only)",
+                "PropertyString": "+3 to Masteries (Barbarian Only)",
                 "Index": 5
             },
             {
@@ -14875,7 +14788,7 @@
         "Type": "Bow",
         "Vanilla": "Y",
         "Name": "Goldstrike Arch",
-        "Index": "Godstrike Arch",
+        "Index": "Goldstrike Arch",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -15423,7 +15336,7 @@
         "Type": "Sword",
         "Vanilla": "Y",
         "Name": "Ginther's Rift",
-        "Index": "Ginther's Rift",
+        "Index": "Ginthers Rift",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 45,
@@ -15447,7 +15360,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "Magic Damage Reduced by 7-12",
+                "PropertyString": "Magic Damage Reduced by 7",
                 "Index": 0
             },
             {
@@ -15476,7 +15389,7 @@
         "Type": "Sword",
         "Vanilla": "Y",
         "Name": "The Atlantean",
-        "Index": "The Atlantian",
+        "Index": "The Atlantean",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 50,
@@ -15533,7 +15446,7 @@
         "Type": "Knife",
         "Vanilla": "Y",
         "Name": "Blackbog's Sharp",
-        "Index": "Blackbog's Sharp",
+        "Index": "Blackbogs Sharp",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -15541,7 +15454,7 @@
         "Code": "9kr",
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 20 Poison Nova on striking",
+                "PropertyString": "10% Chance to cast level 30 Poison Nova on striking",
                 "Index": 4
             },
             {
@@ -15586,7 +15499,7 @@
         "Type": "Polearm",
         "Vanilla": "Y",
         "Name": "Athena's Wrath",
-        "Index": "Athena's Wrath",
+        "Index": "Athenas Wrath",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 50,
@@ -15594,7 +15507,7 @@
         "Code": "9s8",
         "Properties": [
             {
-                "PropertyString": "+1-3 to Druid Skill Levels",
+                "PropertyString": "+2 to All Skills",
                 "Index": 0
             },
             {
@@ -15647,6 +15560,10 @@
         "Code": "8cb",
         "Properties": [
             {
+                "PropertyString": "15% Chance to cast level 20 Blizzard on striking",
+                "Index": 6
+            },
+            {
                 "PropertyString": "+180-220% Enhanced Damage",
                 "Index": 4
             },
@@ -15655,7 +15572,7 @@
                 "Index": 5
             },
             {
-                "PropertyString": "+3-5 to Strafe (Amazon Only)",
+                "PropertyString": "+3 to Strafe (oskill)",
                 "Index": 3
             },
             {
@@ -15756,6 +15673,52 @@
     {
         "Type": "Body Armor",
         "Vanilla": "Y",
+        "Name": "Shaftstop",
+        "Index": "Shaftstop",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 43,
+        "RequiredLevel": 50,
+        "Code": "xhn",
+        "Properties": [
+            {
+                "PropertyString": "+180-220% Enhanced Defense",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+250 Defense vs. Missile",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+100 to Life",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Physical Damage Received Reduced by 30%",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+1 to Light Radius",
+                "Index": 4
+            }
+        ],
+        "DamageArmorEnhanced": true,
+        "Equipment": {
+            "DamageString": null,
+            "DamageStringPrefix": null,
+            "ArmorString": "599-684",
+            "Block": null,
+            "EquipmentType": 0,
+            "Name": "Mesh Armor",
+            "RequiredStrength": "92",
+            "RequiredDexterity": "0",
+            "Durability": 45,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Body Armor",
+        "Vanilla": "Y",
         "Name": "Toothrow",
         "Index": "Toothrow",
         "Enabled": true,
@@ -15769,7 +15732,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+160-220% Enhanced Defense",
+                "PropertyString": "+200-220% Enhanced Defense",
                 "Index": 5
             },
             {
@@ -15777,11 +15740,11 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+10 to Strength",
+                "PropertyString": "+20 to Strength",
                 "Index": 2
             },
             {
-                "PropertyString": "Fire Resist +30%",
+                "PropertyString": "Fire Resist +50%",
                 "Index": 4
             },
             {
@@ -15793,7 +15756,7 @@
         "Equipment": {
             "DamageString": null,
             "DamageStringPrefix": null,
-            "ArmorString": "713-888",
+            "ArmorString": "817-888",
             "Block": null,
             "EquipmentType": 0,
             "Name": "Sharktooth Armor",
@@ -16825,11 +16788,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Replenish Life +10",
+                "PropertyString": "Replenish Life +20",
                 "Index": 1
             },
             {
-                "PropertyString": "Increase Maximum Mana 15%",
+                "PropertyString": "Increase Maximum Mana 20%",
                 "Index": 2
             },
             {
@@ -16855,7 +16818,7 @@
         "Type": "Body Armor",
         "Vanilla": "Y",
         "Name": "Que-Hegan's Wisdom",
-        "Index": "Que-Hegan's Wisdon",
+        "Index": "Que-Hegan's Wisdom",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 50,
@@ -16879,11 +16842,11 @@
                 "Index": 5
             },
             {
-                "PropertyString": "+15 to Energy",
+                "PropertyString": "Increase Maximum Mana 20%",
                 "Index": 3
             },
             {
-                "PropertyString": "Magic Damage Reduced by 5",
+                "PropertyString": "All Resistances +25",
                 "Index": 2
             },
             {
@@ -16891,7 +16854,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+15% to Experience Gained",
+                "PropertyString": "+5% to Experience Gained",
                 "Index": 7
             }
         ],
@@ -17069,6 +17032,10 @@
         "Code": "xul",
         "Properties": [
             {
+                "PropertyString": "+100% Enhanced Damage",
+                "Index": 6
+            },
+            {
                 "PropertyString": "+100% Damage to Demons",
                 "Index": 5
             },
@@ -17077,7 +17044,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+140-200% Enhanced Defense",
+                "PropertyString": "+180-200% Enhanced Defense",
                 "Index": 4
             },
             {
@@ -17085,11 +17052,11 @@
                 "Index": 2
             },
             {
-                "PropertyString": "-4 to Light Radius",
+                "PropertyString": "-2 to Light Radius",
                 "Index": 0
             },
             {
-                "PropertyString": "Socketed (4)",
+                "PropertyString": "Socketed (3-4)",
                 "Index": 3
             }
         ],
@@ -17097,7 +17064,7 @@
         "Equipment": {
             "DamageString": null,
             "DamageStringPrefix": null,
-            "ArmorString": "823-1029",
+            "ArmorString": "960-1029",
             "Block": null,
             "EquipmentType": 0,
             "Name": "Chaos Armor",
@@ -17235,6 +17202,10 @@
             {
                 "PropertyString": "8% Chance to cast level 10 Battle Cry when struck",
                 "Index": 1
+            },
+            {
+                "PropertyString": "8% Chance to cast level 10 Taunt when struck",
+                "Index": 5
             },
             {
                 "PropertyString": "Level 5 Thorns Aura When Equipped",
@@ -17593,6 +17564,10 @@
             {
                 "PropertyString": "Cold Resist +50%",
                 "Index": 2
+            },
+            {
+                "PropertyString": "Poison Resist +50%",
+                "Index": 6
             }
         ],
         "DamageArmorEnhanced": true,
@@ -17613,7 +17588,7 @@
         "Type": "Belt",
         "Vanilla": "Y",
         "Name": "Thundergod's Vigor",
-        "Index": "Thudergod's Vigor",
+        "Index": "Thundergod's Vigor",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -17891,7 +17866,7 @@
         "Type": "Polearm",
         "Vanilla": "Y",
         "Name": "Grim's Burning Dead",
-        "Index": "Grim's Burning Dead",
+        "Index": "Grims Burning Dead",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 43,
@@ -18014,6 +17989,67 @@
             "RequiredStrength": "113",
             "RequiredDexterity": "20",
             "Durability": 40,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Spear",
+        "Vanilla": "Y",
+        "Name": "Spire of Honor",
+        "Index": "Spire of Honor",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 47,
+        "RequiredLevel": 57,
+        "Code": "9p9",
+        "Properties": [
+            {
+                "PropertyString": "+3 to Combat Skills (Paladin Only)",
+                "Index": 7
+            },
+            {
+                "PropertyString": "+200-266% Enhanced Damage",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+20% Faster Hit Recovery",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Adds 33-66 damage",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+100 to Attack Rating",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+2% Damage to Demons (Per Character Level)",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenish Life +20",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+2 to Light Radius",
+                "Index": 1
+            }
+        ],
+        "DamageArmorEnhanced": true,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 1,
+                    "DamageString": "(153-179) to (426-505)"
+                }
+            ],
+            "Speed": 20,
+            "EquipmentType": 1,
+            "Name": "Lance",
+            "RequiredStrength": "110",
+            "RequiredDexterity": "88",
+            "Durability": 25,
             "RequiredClass": ""
         }
     },
@@ -18312,6 +18348,10 @@
                 "Index": 1
             },
             {
+                "PropertyString": "+2-3 to All Skills",
+                "Index": 3
+            },
+            {
                 "PropertyString": "+20% Increased Attack Speed",
                 "Index": 4
             },
@@ -18338,10 +18378,6 @@
             {
                 "PropertyString": "5-7% Mana stolen per hit",
                 "Index": 7
-            },
-            {
-                "PropertyString": "Lightning Absorb +15%",
-                "Index": 3
             },
             {
                 "PropertyString": "+4 to Light Radius",
@@ -18950,6 +18986,10 @@
                 "Index": 3
             },
             {
+                "PropertyString": "All Resistances +25",
+                "Index": 7
+            },
+            {
                 "PropertyString": "+0.5 Absorbs Cold Damage (Per Character Level)",
                 "Index": 2
             },
@@ -18988,7 +19028,7 @@
                 "Index": 4
             },
             {
-                "PropertyString": "+1-2 to All Skills",
+                "PropertyString": "+2-3 to All Skills",
                 "Index": 6
             },
             {
@@ -19194,7 +19234,7 @@
         "Type": "Gloves",
         "Vanilla": "Y",
         "Name": "Lava Gout",
-        "Index": "Lavagout",
+        "Index": "Lava Gout",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 53,
@@ -19523,7 +19563,7 @@
         "Type": "Ring",
         "Vanilla": "Y",
         "Name": "Bul-Kathos' Wedding Band",
-        "Index": "Bul Katho's Wedding Band",
+        "Index": "Bul-Kathos' Wedding Band",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 55,
@@ -19589,7 +19629,7 @@
                 "Index": 5
             },
             {
-                "PropertyString": "+0.38 Absorbs Fire Damage (Per Character Level)",
+                "PropertyString": "+0.25 Absorbs Fire Damage (Per Character Level)",
                 "Index": 0
             },
             {
@@ -19635,7 +19675,7 @@
                 "Index": 5
             },
             {
-                "PropertyString": "+0.38 Absorbs Cold Damage (Per Character Level)",
+                "PropertyString": "+0.25 Absorbs Cold Damage (Per Character Level)",
                 "Index": 0
             },
             {
@@ -21235,124 +21275,6 @@
     {
         "Type": "Axe",
         "Vanilla": "Y",
-        "Name": "Hellslayer",
-        "Index": "Hellslayer",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 60,
-        "RequiredLevel": 70,
-        "Code": "7bt",
-        "Properties": [
-            {
-                "PropertyString": "-15% Increased Attack Speed",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+200-250% Enhanced Damage",
-                "Index": 5
-            },
-            {
-                "PropertyString": "+3% Enhanced Maximum Damage (Per Character Level)",
-                "Index": 2
-            },
-            {
-                "PropertyString": "Adds 150-250 fire damage",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+1 to Strength (Per Character Level)",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+1 to Vitality (Per Character Level)",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+25 to Life",
-                "Index": 4
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 1,
-                    "DamageString": "(180-210) to (816-1040)"
-                }
-            ],
-            "Speed": 10,
-            "EquipmentType": 1,
-            "Name": "Decapitator",
-            "RequiredStrength": "189",
-            "RequiredDexterity": "33",
-            "Durability": 40,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Axe",
-        "Vanilla": "Y",
-        "Name": "Messerschmidt's Reaver",
-        "Index": "Messerschmidt's Reaver",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 70,
-        "RequiredLevel": 70,
-        "Code": "7ga",
-        "Properties": [
-            {
-                "PropertyString": "+250-300% Enhanced Damage",
-                "Index": 1
-            },
-            {
-                "PropertyString": "+3% Enhanced Maximum Damage (Per Character Level)",
-                "Index": 0
-            },
-            {
-                "PropertyString": "+150 to Attack Rating",
-                "Index": 7
-            },
-            {
-                "PropertyString": "Adds 50-300 fire damage",
-                "Index": 6
-            },
-            {
-                "PropertyString": "+15 to Strength",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+15 to Dexterity",
-                "Index": 3
-            },
-            {
-                "PropertyString": "+15 to Vitality",
-                "Index": 4
-            },
-            {
-                "PropertyString": "+15 to Energy",
-                "Index": 5
-            }
-        ],
-        "DamageArmorEnhanced": true,
-        "Equipment": {
-            "DamageTypes": [
-                {
-                    "Type": 1,
-                    "DamageString": "(210-240) to (560-700)"
-                }
-            ],
-            "Speed": -10,
-            "EquipmentType": 1,
-            "Name": "Champion Axe",
-            "RequiredStrength": "167",
-            "RequiredDexterity": "59",
-            "Durability": 50,
-            "RequiredClass": ""
-        }
-    },
-    {
-        "Type": "Axe",
-        "Vanilla": "Y",
         "Name": "Razor's Edge",
         "Index": "Razoredge",
         "Enabled": true,
@@ -22682,7 +22604,7 @@
         "Code": "6l7",
         "Properties": [
             {
-                "PropertyString": "+1 to Amazon Skill Levels",
+                "PropertyString": "+3 to Amazon Skill Levels",
                 "Index": 4
             },
             {
@@ -23168,7 +23090,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "-4 to Light Radius",
+                "PropertyString": "-2 to Light Radius",
                 "Index": 4
             }
         ],
@@ -23198,10 +23120,6 @@
         "Code": "uit",
         "Properties": [
             {
-                "PropertyString": "Indestructible",
-                "Index": 3
-            },
-            {
                 "PropertyString": "Level 10-15 Holy Shock Aura When Equipped",
                 "Index": 8
             },
@@ -23216,6 +23134,10 @@
             {
                 "PropertyString": "Adds 1-500 lightning damage",
                 "Index": 7
+            },
+            {
+                "PropertyString": "-20-25% to Enemy Lightning Resistance",
+                "Index": 3
             },
             {
                 "PropertyString": "+3.75 Defense (Per Character Level)",
@@ -23244,7 +23166,7 @@
             "Name": "Monarch",
             "RequiredStrength": "156",
             "RequiredDexterity": "0",
-            "Durability": 0,
+            "Durability": 86,
             "RequiredClass": ""
         }
     },
@@ -24940,6 +24862,67 @@
     {
         "Type": "Axe",
         "Vanilla": "Y",
+        "Name": "Messerschmidt's Reaver",
+        "Index": "Messerschmidt's Reaver",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 70,
+        "RequiredLevel": 77,
+        "Code": "7ga",
+        "Properties": [
+            {
+                "PropertyString": "+250-300% Enhanced Damage",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+3% Enhanced Maximum Damage (Per Character Level)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+150 to Attack Rating",
+                "Index": 7
+            },
+            {
+                "PropertyString": "Adds 50-300 fire damage",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+15 to Strength",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+15 to Dexterity",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+15 to Vitality",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+15 to Energy",
+                "Index": 5
+            }
+        ],
+        "DamageArmorEnhanced": true,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 1,
+                    "DamageString": "(210-240) to (581-700)"
+                }
+            ],
+            "Speed": -10,
+            "EquipmentType": 1,
+            "Name": "Champion Axe",
+            "RequiredStrength": "167",
+            "RequiredDexterity": "59",
+            "Durability": 50,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Axe",
+        "Vanilla": "Y",
         "Name": "Ethereal Edge",
         "Index": "Ethereal Edge",
         "Enabled": true,
@@ -25464,6 +25447,63 @@
         }
     },
     {
+        "Type": "Axe",
+        "Vanilla": "Y",
+        "Name": "Hellslayer",
+        "Index": "Hellslayer",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 70,
+        "RequiredLevel": 78,
+        "Code": "7bt",
+        "Properties": [
+            {
+                "PropertyString": "-15% Increased Attack Speed",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+200-250% Enhanced Damage",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+3% Enhanced Maximum Damage (Per Character Level)",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Adds 150-250 fire damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+1 to Strength (Per Character Level)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+1 to Vitality (Per Character Level)",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+25 to Life",
+                "Index": 4
+            }
+        ],
+        "DamageArmorEnhanced": true,
+        "Equipment": {
+            "DamageTypes": [
+                {
+                    "Type": 1,
+                    "DamageString": "(180-210) to (854-1040)"
+                }
+            ],
+            "Speed": 10,
+            "EquipmentType": 1,
+            "Name": "Decapitator",
+            "RequiredStrength": "189",
+            "RequiredDexterity": "33",
+            "Durability": 40,
+            "RequiredClass": ""
+        }
+    },
+    {
         "Type": "Body Armor",
         "Vanilla": "N",
         "Name": "Jamella's Plate",
@@ -25793,16 +25833,12 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Indestructible",
-                "Index": 6
-            },
-            {
                 "PropertyString": "+20% Increased Attack Speed",
                 "Index": 4
             },
             {
                 "PropertyString": "+200-300% Enhanced Damage",
-                "Index": 7
+                "Index": 6
             },
             {
                 "PropertyString": "+3 to Maximum Damage (Per Character Level)",
@@ -25814,7 +25850,7 @@
             },
             {
                 "PropertyString": "Adds 50-200 lightning damage",
-                "Index": 9
+                "Index": 8
             },
             {
                 "PropertyString": "+50 to Life",
@@ -25826,7 +25862,7 @@
             },
             {
                 "PropertyString": "+1 to Light Radius",
-                "Index": 8
+                "Index": 7
             }
         ],
         "DamageArmorEnhanced": true,
@@ -25842,7 +25878,7 @@
             "Name": "Legendary Mallet",
             "RequiredStrength": "189",
             "RequiredDexterity": "0",
-            "Durability": 0,
+            "Durability": 65,
             "RequiredClass": ""
         }
     },
@@ -25858,7 +25894,7 @@
         "Code": "6lw",
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 30 Twister on striking",
+                "PropertyString": "15% Chance to cast level 30 Twister on striking",
                 "Index": 2
             },
             {
@@ -27386,6 +27422,10 @@
             {
                 "PropertyString": "+1 to Vitality (Per Character Level)",
                 "Index": 4
+            },
+            {
+                "PropertyString": "All Resistances +50",
+                "Index": 5
             },
             {
                 "PropertyString": "Physical Damage Received Reduced by 10-15%",
