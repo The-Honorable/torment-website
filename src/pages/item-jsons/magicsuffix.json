@@ -12910,7 +12910,7 @@
         "ClassLevelReq": 24,
         "Properties": [
             {
-                "PropertyString": "Level -5 Attract (-60 Charges)",
+                "PropertyString": "Level -5 Lower Magic Resist (-60 Charges)",
                 "Index": 0
             }
         ],
@@ -12933,7 +12933,7 @@
         "ClassLevelReq": 24,
         "Properties": [
             {
-                "PropertyString": "Level -2 Attract (-20 Charges)",
+                "PropertyString": "Level -2 Lower Magic Resist (-20 Charges)",
                 "Index": 0
             }
         ],

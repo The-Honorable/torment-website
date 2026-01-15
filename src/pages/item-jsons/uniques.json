@@ -6848,7 +6848,7 @@
                 "Index": 7
             },
             {
-                "PropertyString": "5% Chance to cast level 1 Attract on striking",
+                "PropertyString": "5% Chance to cast level 1 Lower Magic Resist on striking",
                 "Index": 0
             },
             {
@@ -11376,7 +11376,7 @@
         "Code": "8s8",
         "Properties": [
             {
-                "PropertyString": "9% Chance to cast level 3 Attract on striking",
+                "PropertyString": "9% Chance to cast level 3 Lower Magic Resist on striking",
                 "Index": 0
             },
             {
@@ -12470,7 +12470,7 @@
         "Type": "Hand to Hand",
         "Vanilla": "Y",
         "Name": "Bartuc's Cut-Throat",
-        "Index": "Cutthroat1",
+        "Index": "Bartuc's Cut-Throat",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 42,
@@ -19288,7 +19288,7 @@
         "Type": "Pelt",
         "Vanilla": "Y",
         "Name": "Cerebus' Bite",
-        "Index": "Cerebus",
+        "Index": "Cerebus' Bite",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 60,
@@ -19792,7 +19792,7 @@
         "Type": "Sword",
         "Vanilla": "Y",
         "Name": "Djinn Slayer",
-        "Index": "Djinnslayer",
+        "Index": "Djinn Slayer",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 65,
@@ -19931,6 +19931,10 @@
                 "Index": 3
             },
             {
+                "PropertyString": "All Resistances +30-50",
+                "Index": 6
+            },
+            {
                 "PropertyString": "Physical Damage Received Reduced by 15-25%",
                 "Index": 2
             }
@@ -19965,6 +19969,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "+0.62 to Maximum Damage (Per Character Level)",
+                "Index": 6
+            },
+            {
                 "PropertyString": "Ignore Target's Defense",
                 "Index": 2
             },
@@ -19990,7 +19998,7 @@
             "DamageTypes": [
                 {
                     "Type": 1,
-                    "DamageString": "(98-112) to (203-232)"
+                    "DamageString": "(98-112) to (243-294)"
                 }
             ],
             "Speed": 0,
@@ -20317,7 +20325,7 @@
         "Type": "Wand",
         "Vanilla": "Y",
         "Name": "Death's Web",
-        "Index": "Deaths's Web",
+        "Index": "Death's Web",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 60,
@@ -20366,7 +20374,7 @@
         "Type": "Hand to Hand",
         "Vanilla": "Y",
         "Name": "Jade Talon",
-        "Index": "Jadetalon",
+        "Index": "Jade Talon",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 65,
@@ -20427,15 +20435,11 @@
         "Code": "7bl",
         "Properties": [
             {
-                "PropertyString": "Indestructible",
-                "Index": 5
+                "PropertyString": "Level 10-15 Holy Fire Aura When Equipped",
+                "Index": 6
             },
             {
-                "PropertyString": "Level 10 Holy Fire Aura When Equipped",
-                "Index": 7
-            },
-            {
-                "PropertyString": "+240-280% Enhanced Damage",
+                "PropertyString": "+240-300% Enhanced Damage",
                 "Index": 0
             },
             {
@@ -20443,8 +20447,12 @@
                 "Index": 1
             },
             {
-                "PropertyString": "Adds 108 magic damage",
+                "PropertyString": "Adds 150-300 magic damage",
                 "Index": 2
+            },
+            {
+                "PropertyString": "Adds 300 fire damage",
+                "Index": 7
             },
             {
                 "PropertyString": "10-15% Mana stolen per hit",
@@ -20452,7 +20460,7 @@
             },
             {
                 "PropertyString": "+2 to Light Radius",
-                "Index": 6
+                "Index": 5
             },
             {
                 "PropertyString": "Ethereal (Cannot be Repaired)",
@@ -20464,7 +20472,7 @@
             "DamageTypes": [
                 {
                     "Type": 3,
-                    "DamageString": "(204-228) to (306-342)"
+                    "DamageString": "(204-240) to (306-360)"
                 }
             ],
             "Speed": -10,
@@ -20472,7 +20480,7 @@
             "Name": "Legend Spike",
             "RequiredStrength": "65",
             "RequiredDexterity": "67",
-            "Durability": 0,
+            "Durability": 47,
             "RequiredClass": ""
         }
     },
@@ -20687,7 +20695,7 @@
         "Type": "Pelt",
         "Vanilla": "Y",
         "Name": "Spirit Keeper",
-        "Index": "Spiritkeeper",
+        "Index": "Spirit Keeper",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 65,
@@ -21051,6 +21059,14 @@
                 "Index": 5
             },
             {
+                "PropertyString": "Lightning Resist +40%",
+                "Index": 6
+            },
+            {
+                "PropertyString": "All Resistances +10",
+                "Index": 7
+            },
+            {
                 "PropertyString": "150% Extra Gold from Monsters",
                 "Index": 1
             },
@@ -21333,7 +21349,7 @@
         "Type": "Club",
         "Vanilla": "Y",
         "Name": "Demon Limb",
-        "Index": "Demonlimb",
+        "Index": "Demon Limb",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -21390,7 +21406,7 @@
         "Type": "Helm",
         "Vanilla": "Y",
         "Name": "Steel Shade",
-        "Index": "Steelshade",
+        "Index": "Steel Shade",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -21398,7 +21414,7 @@
         "Code": "ulm",
         "Properties": [
             {
-                "PropertyString": "+50% Enhanced Damage",
+                "PropertyString": "+80-100% Enhanced Damage",
                 "Index": 5
             },
             {
@@ -21410,7 +21426,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Replenish Life +10-18",
+                "PropertyString": "Replenish Life +20-30",
                 "Index": 3
             },
             {
@@ -21448,7 +21464,7 @@
         "Code": "pad",
         "Properties": [
             {
-                "PropertyString": "9% Chance to cast level 10 Attract when struck",
+                "PropertyString": "9% Chance to cast level 10 Lower Magic Resist when struck",
                 "Index": 2
             },
             {
@@ -21559,6 +21575,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "+0.5 to Maximum Damage (Per Character Level)",
+                "Index": 5
+            },
+            {
                 "PropertyString": "Adds 101-202 magic damage",
                 "Index": 1
             },
@@ -21576,7 +21596,7 @@
             "DamageTypes": [
                 {
                     "Type": 1,
-                    "DamageString": "(260-295) to (380-432)"
+                    "DamageString": "(260-295) to (415-482)"
                 }
             ],
             "Speed": 0,
@@ -21649,7 +21669,7 @@
         "Type": "Voodoo Heads",
         "Vanilla": "Y",
         "Name": "Darkforce Spawn",
-        "Index": "Darkforge Spawn",
+        "Index": "Darkforce Spawn",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -22649,7 +22669,7 @@
         "Type": "Crossbow",
         "Vanilla": "Y",
         "Name": "Gut Siphon",
-        "Index": "Gutsiphon",
+        "Index": "Gut Siphon",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 71,
@@ -22702,7 +22722,7 @@
         "Type": "Boots",
         "Vanilla": "Y",
         "Name": "Shadow Dancer",
-        "Index": "Shadowdancer",
+        "Index": "Shadow Dancer",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -22883,7 +22903,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+5 to Summon Spirit Wolf (oskill)",
+                "PropertyString": "+15 to Summon Spirit Wolf (oskill)",
                 "Index": 4
             },
             {
@@ -22920,7 +22940,7 @@
         "Code": "ucl",
         "Properties": [
             {
-                "PropertyString": "Level 5 Vigor Aura When Equipped",
+                "PropertyString": "Level 5-10 Vigor Aura When Equipped",
                 "Index": 1
             },
             {
@@ -22928,11 +22948,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Magic Resist +15%",
+                "PropertyString": "Magic Resist +10-15%",
                 "Index": 4
             },
             {
-                "PropertyString": "All Resistances +15",
+                "PropertyString": "All Resistances +40",
                 "Index": 5
             },
             {
@@ -22962,7 +22982,7 @@
         "Type": "Gloves",
         "Vanilla": "Y",
         "Name": "Soul Drainer",
-        "Index": "Souldrain",
+        "Index": "Soul Drainer",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -23289,7 +23309,7 @@
         "Type": "Axe",
         "Vanilla": "Y",
         "Name": "Rune Master",
-        "Index": "Runemaster",
+        "Index": "Rune Master",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 75,
@@ -23334,7 +23354,7 @@
         "Type": "Axe",
         "Vanilla": "Y",
         "Name": "Death Cleaver",
-        "Index": "Deathcleaver",
+        "Index": "Death Cleaver",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 75,
@@ -23444,7 +23464,7 @@
         "Type": "Amazon Bow",
         "Vanilla": "Y",
         "Name": "Blood Raven's Charge",
-        "Index": "Bloodraven's Charge",
+        "Index": "Blood Raven's Charge",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -23462,6 +23482,10 @@
             {
                 "PropertyString": "+200-300 to Attack Rating",
                 "Index": 1
+            },
+            {
+                "PropertyString": "Adds 50-300 fire damage",
+                "Index": 5
             },
             {
                 "PropertyString": "+15% to Fire Skill Damage",
@@ -23603,7 +23627,7 @@
         "Type": "Spear",
         "Vanilla": "Y",
         "Name": "Steel Pillar",
-        "Index": "Steelpillar",
+        "Index": "Steel Pillar",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -23668,7 +23692,7 @@
         "Code": "uhm",
         "Properties": [
             {
-                "PropertyString": "+2 to Cold Skills",
+                "PropertyString": "+2-3 to Cold Skills",
                 "Index": 1
             },
             {
@@ -24227,7 +24251,7 @@
         "Code": "ung",
         "Properties": [
             {
-                "PropertyString": "Level 5 Might Aura When Equipped",
+                "PropertyString": "Level 5-10 Might Aura When Equipped",
                 "Index": 5
             },
             {
@@ -24631,7 +24655,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Cold Resist +50-100%",
+                "PropertyString": "Cold Resist +100%",
                 "Index": 5
             }
         ],
@@ -24722,7 +24746,7 @@
         "Code": "urs",
         "Properties": [
             {
-                "PropertyString": "9% Chance to cast level 5 Attract on striking",
+                "PropertyString": "9% Chance to cast level 5 Lower Magic Resist on striking",
                 "Index": 1
             },
             {
@@ -24730,15 +24754,15 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Magic Resist +12%",
+                "PropertyString": "Magic Resist +10-15%",
                 "Index": 3
             },
             {
-                "PropertyString": "All Resistances +12",
+                "PropertyString": "All Resistances +35-50",
                 "Index": 4
             },
             {
-                "PropertyString": "Physical Damage Received Reduced by 12%",
+                "PropertyString": "Physical Damage Received Reduced by 10-15%",
                 "Index": 2
             }
         ],
@@ -24772,12 +24796,16 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+3 to Necromancer Skill Levels",
-                "Index": 5
+                "PropertyString": "7% Chance to cast level 10 Corpse Explosion when struck",
+                "Index": 2
             },
             {
-                "PropertyString": "Adds 50-100 cold damage",
-                "Index": 4
+                "PropertyString": "+3 to Necromancer Skill Levels",
+                "Index": 6
+            },
+            {
+                "PropertyString": "Adds 100-300 cold damage",
+                "Index": 5
             },
             {
                 "PropertyString": "+200-300% Enhanced Defense",
@@ -24785,11 +24813,11 @@
             },
             {
                 "PropertyString": "Cold Resist +50%",
-                "Index": 2
+                "Index": 3
             },
             {
                 "PropertyString": "Poison Resist +50%",
-                "Index": 3
+                "Index": 4
             }
         ],
         "DamageArmorEnhanced": true,
@@ -24932,10 +24960,6 @@
         "Code": "7ba",
         "Properties": [
             {
-                "PropertyString": "Indestructible",
-                "Index": 7
-            },
-            {
                 "PropertyString": "+25% Increased Attack Speed",
                 "Index": 1
             },
@@ -24977,7 +25001,7 @@
             "Name": "Silver-edged Axe",
             "RequiredStrength": "166",
             "RequiredDexterity": "65",
-            "Durability": 0,
+            "Durability": 135,
             "RequiredClass": ""
         }
     },
@@ -24993,11 +25017,11 @@
         "Code": "pac",
         "Properties": [
             {
-                "PropertyString": "+1-2 to Paladin Skill Levels",
+                "PropertyString": "+2-3 to Paladin Skill Levels",
                 "Index": 2
             },
             {
-                "PropertyString": "+100% Enhanced Damage",
+                "PropertyString": "+100-150% Enhanced Damage",
                 "Index": 6
             },
             {
@@ -25017,7 +25041,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Magic Damage Reduced by 5-9",
+                "PropertyString": "Magic Damage Reduced by 10",
                 "Index": 4
             }
         ],
@@ -25039,7 +25063,7 @@
         "Type": "Body Armor",
         "Vanilla": "Y",
         "Name": "Steel Carapace",
-        "Index": "Steel Carapice",
+        "Index": "Steel Carapace",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 70,
@@ -25515,19 +25539,23 @@
         "Code": "ult",
         "Properties": [
             {
-                "PropertyString": "+2 to All Skills",
+                "PropertyString": "+2-3 to All Skills",
                 "Index": 1
             },
             {
-                "PropertyString": "+15% Increased Attack Speed",
+                "PropertyString": "+20-25% Increased Attack Speed",
                 "Index": 4
             },
             {
-                "PropertyString": "+15% Faster Cast Rate",
+                "PropertyString": "+20-25% Faster Cast Rate",
                 "Index": 3
             },
             {
-                "PropertyString": "+146-186% Enhanced Defense",
+                "PropertyString": "+20-25% Faster Hit Recovery",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+146-246% Enhanced Defense",
                 "Index": 0
             },
             {
@@ -25539,7 +25567,7 @@
         "Equipment": {
             "DamageString": null,
             "DamageStringPrefix": null,
-            "ArmorString": "1306-1518",
+            "ArmorString": "1306-1837",
             "Block": null,
             "EquipmentType": 0,
             "Name": "Hellforge Plate",
@@ -26233,7 +26261,7 @@
         "Code": "ci3",
         "Properties": [
             {
-                "PropertyString": "+1-2 to All Skills",
+                "PropertyString": "+2-3 to Lightning Skills",
                 "Index": 2
             },
             {
@@ -27300,7 +27328,7 @@
         "Code": "uth",
         "Properties": [
             {
-                "PropertyString": "+125-175% Enhanced Damage",
+                "PropertyString": "+150% Enhanced Damage",
                 "Index": 4
             },
             {
@@ -27318,6 +27346,10 @@
             {
                 "PropertyString": "-10 to Energy",
                 "Index": 3
+            },
+            {
+                "PropertyString": "All Resistances +25",
+                "Index": 6
             },
             {
                 "PropertyString": "Requirements +0-50%",
@@ -27626,6 +27658,10 @@
         "Code": "uar",
         "Properties": [
             {
+                "PropertyString": "Level 20 Sanctuary Aura When Equipped",
+                "Index": 9
+            },
+            {
                 "PropertyString": "+20% Faster Run/Walk",
                 "Index": 6
             },
@@ -27756,6 +27792,10 @@
             {
                 "PropertyString": "Regenerate Mana 30%",
                 "Index": 4
+            },
+            {
+                "PropertyString": "All Resistances +30-50",
+                "Index": 6
             }
         ],
         "DamageArmorEnhanced": false,
@@ -27779,7 +27819,7 @@
         "Type": "Hand to Hand",
         "Vanilla": "Y",
         "Name": "Shadow Killer",
-        "Index": "Shadowkiller",
+        "Index": "Shadow Killer",
         "Enabled": true,
         "Rarity": 1,
         "ItemLevel": 80,
@@ -28046,6 +28086,10 @@
             {
                 "PropertyString": "+3 Random Sorceress Skill",
                 "Index": 6
+            },
+            {
+                "PropertyString": "+3 Random Sorceress Skill",
+                "Index": 7
             },
             {
                 "PropertyString": "+100-200 Defense",
@@ -28315,6 +28359,10 @@
             {
                 "PropertyString": "+277-377% Enhanced Defense",
                 "Index": 0
+            },
+            {
+                "PropertyString": "All Resistances +50",
+                "Index": 6
             },
             {
                 "PropertyString": "Requirements +100%",
@@ -28869,7 +28917,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+3 to Attract (oskill)",
+                "PropertyString": "+3 to Lower Magic Resist (oskill)",
                 "Index": 4
             },
             {

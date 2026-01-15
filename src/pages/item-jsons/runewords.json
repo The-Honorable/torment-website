@@ -4154,7 +4154,7 @@
         "Code": "Runeword71",
         "Properties": [
             {
-                "PropertyString": "9% Chance to cast level 10 Attract on striking",
+                "PropertyString": "9% Chance to cast level 10 Lower Magic Resist on striking",
                 "Index": 3
             },
             {
@@ -5689,7 +5689,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "12% Chance to cast level 10 Attract on striking",
+                "PropertyString": "12% Chance to cast level 10 Lower Magic Resist on striking",
                 "Index": 1
             },
             {
