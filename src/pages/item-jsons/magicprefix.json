@@ -8891,7 +8891,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+%d to Summoning Skills (Necromancer Only)",
+                "PropertyString": "+1 to Summoning Skills (Necromancer Only)",
                 "Index": 0
             }
         ],
@@ -9059,7 +9059,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+%d to Summoning Skills (Necromancer Only)",
+                "PropertyString": "+1 to Summoning Skills (Necromancer Only)",
                 "Index": 0
             }
         ],
@@ -9083,7 +9083,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+%d to Summoning Skills (Necromancer Only)",
+                "PropertyString": "+2 to Summoning Skills (Necromancer Only)",
                 "Index": 0
             }
         ],
@@ -9107,7 +9107,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+%d to Summoning Skills (Necromancer Only)",
+                "PropertyString": "+3 to Summoning Skills (Necromancer Only)",
                 "Index": 0
             }
         ],

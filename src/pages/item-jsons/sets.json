@@ -4779,7 +4779,7 @@
                         "Index": 6
                     },
                     {
-                        "PropertyString": "+%d to Summoning Skills (Necromancer Only)",
+                        "PropertyString": "+2 to Summoning Skills (Necromancer Only)",
                         "Index": 3
                     },
                     {
@@ -4946,7 +4946,7 @@
                 "Code": "utc",
                 "Properties": [
                     {
-                        "PropertyString": "+%d to Summoning Skills (Necromancer Only)",
+                        "PropertyString": "+1 to Summoning Skills (Necromancer Only)",
                         "Index": 1
                     },
                     {
