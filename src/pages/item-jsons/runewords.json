@@ -3147,6 +3147,100 @@
     {
         "Runes": [
             {
+                "Name": "Dol Rune",
+                "ItemLevel": 31,
+                "RequiredLevel": 31,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Lum Rune",
+                "ItemLevel": 37,
+                "RequiredLevel": 37,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            },
+            {
+                "Name": "Dol Rune",
+                "ItemLevel": 31,
+                "RequiredLevel": 31,
+                "Type": {
+                    "Name": "Rune",
+                    "Index": "Rune",
+                    "Class": ""
+                }
+            }
+        ],
+        "Types": [
+            {
+                "Name": "Scepter",
+                "Index": "Scepter",
+                "Class": ""
+            },
+            {
+                "Name": "Auric Shields",
+                "Index": "Auric Shields",
+                "Class": "pal"
+            }
+        ],
+        "Vanilla": "N",
+        "Name": "Heaven's Will",
+        "Index": "Runeword52",
+        "Enabled": true,
+        "Rarity": 0,
+        "ItemLevel": 37,
+        "RequiredLevel": 37,
+        "Code": "Runeword52",
+        "Properties": [
+            {
+                "PropertyString": "+2 to Paladin Skill Levels",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+15% Faster Hit Recovery",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Holy Shield (Paladin Only)",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+50-100 to Mana",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+4-8 to Mana after each Kill",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+10 to Energy (Weapon)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+40% Faster Cast Rate (Weapon)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10 to Energy (Armor)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20% Faster Cast Rate (Armor)",
+                "Index": 0
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": null
+    },
+    {
+        "Runes": [
+            {
                 "Name": "Lum Rune",
                 "ItemLevel": 37,
                 "RequiredLevel": 37,

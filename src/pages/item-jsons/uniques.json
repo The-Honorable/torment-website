@@ -16888,7 +16888,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+1 to Paladin Skill Levels",
+                "PropertyString": "+1-2 to Paladin Skill Levels",
                 "Index": 5
             },
             {
@@ -16906,6 +16906,10 @@
             {
                 "PropertyString": "Drain Life -10",
                 "Index": 4
+            },
+            {
+                "PropertyString": "All Resistances +25-35",
+                "Index": 6
             }
         ],
         "DamageArmorEnhanced": true,
@@ -22138,7 +22142,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Physical Damage Received Reduced by -50-0%",
+                "PropertyString": "Physical Damage Received Reduced by -20-0%",
                 "Index": 1
             }
         ],
@@ -22168,7 +22172,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "Magic Resist -50-0%",
+                "PropertyString": "Magic Resist -40-0%",
                 "Index": 1
             }
         ],
