@@ -2367,10 +2367,8 @@
     },
     {
         "BaseName": "Mythical Sword [X]",
-        "Count": 1,
-        "SetItems": [
-            "Bul-Kathos' Tribal Guardian"
-        ]
+        "Count": 0,
+        "SetItems": []
     },
     {
         "BaseName": "Legend Sword [X]",
@@ -2394,8 +2392,10 @@
     },
     {
         "BaseName": "Colossus Sword [X]",
-        "Count": 0,
-        "SetItems": []
+        "Count": 1,
+        "SetItems": [
+            "Bul-Kathos' Tribal Guardian"
+        ]
     },
     {
         "BaseName": "Colossus Blade [X]",

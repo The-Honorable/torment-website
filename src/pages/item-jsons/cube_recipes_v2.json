@@ -6943,7 +6943,7 @@
   },
   {
     "Index": 175,
-    "Description": "upgrade torment charm first",
+    "Description": "upgrade torment charm",
     "Op": 16,
     "Param": 80,
     "Value": 24,
@@ -6994,22 +6994,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+10 to Life",
+            "PropertyString": "+15 to Life",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to Mana",
+            "PropertyString": "+15 to Mana",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "PropertyString": "15% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+20 to Required Level",
+            "PropertyString": "+15 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7020,7 +7020,7 @@
   },
   {
     "Index": 176,
-    "Description": "upgrade torment charm first",
+    "Description": "upgrade torment charm",
     "Op": 16,
     "Param": 80,
     "Value": 24,
@@ -7071,22 +7071,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+10 to Life",
+            "PropertyString": "+15 to Life",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to Mana",
+            "PropertyString": "+15 to Mana",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "PropertyString": "15% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+20 to Required Level",
+            "PropertyString": "+15 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7097,7 +7097,7 @@
   },
   {
     "Index": 177,
-    "Description": "upgrade torment charm first",
+    "Description": "upgrade torment charm",
     "Op": 16,
     "Param": 80,
     "Value": 24,
@@ -7148,22 +7148,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+10 to Life",
+            "PropertyString": "+15 to Life",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to Mana",
+            "PropertyString": "+15 to Mana",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "PropertyString": "15% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+20 to Required Level",
+            "PropertyString": "+15 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7174,7 +7174,7 @@
   },
   {
     "Index": 178,
-    "Description": "upgrade torment charm first",
+    "Description": "upgrade torment charm",
     "Op": 16,
     "Param": 80,
     "Value": 24,
@@ -7225,22 +7225,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+10 to Life",
+            "PropertyString": "+15 to Life",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to Mana",
+            "PropertyString": "+15 to Mana",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "PropertyString": "15% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+20 to Required Level",
+            "PropertyString": "+15 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7251,7 +7251,7 @@
   },
   {
     "Index": 179,
-    "Description": "upgrade torment charm first",
+    "Description": "upgrade torment charm",
     "Op": 16,
     "Param": 80,
     "Value": 24,
@@ -7302,22 +7302,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+10 to Life",
+            "PropertyString": "+15 to Life",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to Mana",
+            "PropertyString": "+15 to Mana",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "PropertyString": "15% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+20 to Required Level",
+            "PropertyString": "+15 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7328,7 +7328,7 @@
   },
   {
     "Index": 180,
-    "Description": "upgrade torment charm first",
+    "Description": "upgrade torment charm",
     "Op": 16,
     "Param": 80,
     "Value": 24,
@@ -7379,22 +7379,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+10 to Life",
+            "PropertyString": "+15 to Life",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to Mana",
+            "PropertyString": "+15 to Mana",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "PropertyString": "15% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+20 to Required Level",
+            "PropertyString": "+15 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7405,7 +7405,7 @@
   },
   {
     "Index": 181,
-    "Description": "upgrade torment charm first",
+    "Description": "upgrade torment charm",
     "Op": 16,
     "Param": 80,
     "Value": 24,
@@ -7456,22 +7456,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+10 to Life",
+            "PropertyString": "+15 to Life",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to Mana",
+            "PropertyString": "+15 to Mana",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "10% Better Chance of Getting Magic Items",
+            "PropertyString": "15% Better Chance of Getting Magic Items",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+20 to Required Level",
+            "PropertyString": "+15 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7482,19 +7482,19 @@
   },
   {
     "Index": 182,
-    "Description": "upgrade torment charm second",
+    "Description": "upgrade torment torch",
     "Op": 16,
-    "Param": 80,
-    "Value": 49,
+    "Param": 89,
+    "Value": 1,
     "Class": "Amazon",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
     "Inputs": [
       {
-        "Name": "Tormented Charm",
+        "Name": "Tormented Torch",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "Tormented Charm"
+        "RawToken": "Tormented Torch"
       },
       {
         "Name": "tc5",
@@ -7533,22 +7533,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+20% Increased Attack Speed",
+            "PropertyString": "+1 to Light Radius",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+20 to Dexterity",
+            "PropertyString": "+15% Increased Attack Speed",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "PropertyString": "+15% Faster Cast Rate",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+30 to Required Level",
+            "PropertyString": "+20 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7559,19 +7559,19 @@
   },
   {
     "Index": 183,
-    "Description": "upgrade torment charm second",
+    "Description": "upgrade torment torch",
     "Op": 16,
-    "Param": 80,
-    "Value": 49,
+    "Param": 89,
+    "Value": 1,
     "Class": "Sorceress",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
     "Inputs": [
       {
-        "Name": "Tormented Charm",
+        "Name": "Tormented Torch",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "Tormented Charm"
+        "RawToken": "Tormented Torch"
       },
       {
         "Name": "tc5",
@@ -7610,22 +7610,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+20% Faster Cast Rate",
+            "PropertyString": "+1 to Light Radius",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+20 to Energy",
+            "PropertyString": "+15% Increased Attack Speed",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "PropertyString": "+15% Faster Cast Rate",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+30 to Required Level",
+            "PropertyString": "+20 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7636,19 +7636,19 @@
   },
   {
     "Index": 184,
-    "Description": "upgrade torment charm second",
+    "Description": "upgrade torment torch",
     "Op": 16,
-    "Param": 80,
-    "Value": 49,
+    "Param": 89,
+    "Value": 1,
     "Class": "Necromancer",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
     "Inputs": [
       {
-        "Name": "Tormented Charm",
+        "Name": "Tormented Torch",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "Tormented Charm"
+        "RawToken": "Tormented Torch"
       },
       {
         "Name": "tc5",
@@ -7687,22 +7687,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+20% Faster Hit Recovery",
+            "PropertyString": "+1 to Light Radius",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "Magic Resist +10%",
+            "PropertyString": "+15% Increased Attack Speed",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "PropertyString": "+15% Faster Cast Rate",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+30 to Required Level",
+            "PropertyString": "+20 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7713,19 +7713,19 @@
   },
   {
     "Index": 185,
-    "Description": "upgrade torment charm second",
+    "Description": "upgrade torment torch",
     "Op": 16,
-    "Param": 80,
-    "Value": 49,
+    "Param": 89,
+    "Value": 1,
     "Class": "Paladin",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
     "Inputs": [
       {
-        "Name": "Tormented Charm",
+        "Name": "Tormented Torch",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "Tormented Charm"
+        "RawToken": "Tormented Torch"
       },
       {
         "Name": "tc5",
@@ -7764,22 +7764,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "Physical Damage Received Reduced by 10%",
+            "PropertyString": "+1 to Light Radius",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+20 to Vitality",
+            "PropertyString": "+15% Increased Attack Speed",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "PropertyString": "+15% Faster Cast Rate",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+30 to Required Level",
+            "PropertyString": "+20 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7790,19 +7790,19 @@
   },
   {
     "Index": 186,
-    "Description": "upgrade torment charm second",
+    "Description": "upgrade torment torch",
     "Op": 16,
-    "Param": 80,
-    "Value": 49,
+    "Param": 89,
+    "Value": 1,
     "Class": "Barbarian",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
     "Inputs": [
       {
-        "Name": "Tormented Charm",
+        "Name": "Tormented Torch",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "Tormented Charm"
+        "RawToken": "Tormented Torch"
       },
       {
         "Name": "tc5",
@@ -7841,22 +7841,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "Physical Damage Received Reduced by 10%",
+            "PropertyString": "+1 to Light Radius",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+20 to Strength",
+            "PropertyString": "+15% Increased Attack Speed",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "PropertyString": "+15% Faster Cast Rate",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+30 to Required Level",
+            "PropertyString": "+20 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7867,19 +7867,19 @@
   },
   {
     "Index": 187,
-    "Description": "upgrade torment charm second",
+    "Description": "upgrade torment torch",
     "Op": 16,
-    "Param": 80,
-    "Value": 49,
+    "Param": 89,
+    "Value": 1,
     "Class": "Druid",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
     "Inputs": [
       {
-        "Name": "Tormented Charm",
+        "Name": "Tormented Torch",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "Tormented Charm"
+        "RawToken": "Tormented Torch"
       },
       {
         "Name": "tc5",
@@ -7918,22 +7918,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "All Resistances +20",
+            "PropertyString": "+1 to Light Radius",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10 to all Attributes",
+            "PropertyString": "+15% Increased Attack Speed",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "PropertyString": "+15% Faster Cast Rate",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+30 to Required Level",
+            "PropertyString": "+20 to Required Level",
             "ModChance": 100,
             "Index": 4
           }
@@ -7944,19 +7944,19 @@
   },
   {
     "Index": 188,
-    "Description": "upgrade torment charm second",
+    "Description": "upgrade torment torch",
     "Op": 16,
-    "Param": 80,
-    "Value": 49,
+    "Param": 89,
+    "Value": 1,
     "Class": "Assassin",
     "NumInputs": 5,
     "ResolvedInputsCount": 5,
     "Inputs": [
       {
-        "Name": "Tormented Charm",
+        "Name": "Tormented Torch",
         "Quantity": 1,
         "Qualifiers": [],
-        "RawToken": "Tormented Charm"
+        "RawToken": "Tormented Torch"
       },
       {
         "Name": "tc5",
@@ -7995,22 +7995,22 @@
             "Index": 0
           },
           {
-            "PropertyString": "+20% Increased Attack Speed",
+            "PropertyString": "+1 to Light Radius",
             "ModChance": 100,
             "Index": 1
           },
           {
-            "PropertyString": "+10% to Fire Skill Damage",
+            "PropertyString": "+15% Increased Attack Speed",
             "ModChance": 100,
             "Index": 2
           },
           {
-            "PropertyString": "25% Better Chance of Getting Magic Items",
+            "PropertyString": "+15% Faster Cast Rate",
             "ModChance": 100,
             "Index": 3
           },
           {
-            "PropertyString": "+30 to Required Level",
+            "PropertyString": "+20 to Required Level",
             "ModChance": 100,
             "Index": 4
           }

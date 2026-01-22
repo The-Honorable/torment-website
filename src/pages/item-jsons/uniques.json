@@ -2141,48 +2141,6 @@
         }
     },
     {
-        "Type": "Grand Charm",
-        "Vanilla": "N",
-        "Name": "Tormented Charm",
-        "Index": "Tormented Charm",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 1,
-        "RequiredLevel": 10,
-        "Code": "cm6",
-        "Properties": [
-            {
-                "PropertyString": "+15 to Life",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+15 to Mana",
-                "Index": 3
-            },
-            {
-                "PropertyString": "15% Extra Gold from Monsters",
-                "Index": 1
-            },
-            {
-                "PropertyString": "15% Better Chance of Getting Magic Items",
-                "Index": 0
-            },
-            {
-                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary",
-                "Index": 4
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": null,
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
-        }
-    },
-    {
         "Type": "Knife",
         "Vanilla": "Y",
         "Name": "The Diggler",
@@ -3941,6 +3899,48 @@
             "RequiredDexterity": "0",
             "Durability": 35,
             "RequiredClass": "Sorceress"
+        }
+    },
+    {
+        "Type": "Grand Charm",
+        "Vanilla": "N",
+        "Name": "Tormented Charm",
+        "Index": "Tormented Charm",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 1,
+        "RequiredLevel": 15,
+        "Code": "cm6",
+        "Properties": [
+            {
+                "PropertyString": "+15 to Life",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+15 to Mana",
+                "Index": 3
+            },
+            {
+                "PropertyString": "15% Extra Gold from Monsters",
+                "Index": 1
+            },
+            {
+                "PropertyString": "15% Better Chance of Getting Magic Items",
+                "Index": 0
+            },
+            {
+                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary",
+                "Index": 4
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": null,
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
         }
     },
     {
@@ -7187,11 +7187,11 @@
                 "Index": 7
             },
             {
-                "PropertyString": "+10% Increased Attack Speed",
+                "PropertyString": "+15% Increased Attack Speed",
                 "Index": 0
             },
             {
-                "PropertyString": "+80-120% Enhanced Damage",
+                "PropertyString": "+100-120% Enhanced Damage",
                 "Index": 6
             },
             {
@@ -7199,15 +7199,15 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+15 to Minimum Fire Damage",
+                "PropertyString": "+15-20 to Minimum Fire Damage",
                 "Index": 1
             },
             {
-                "PropertyString": "+30-50 to Maximum Fire Damage",
+                "PropertyString": "+40-60 to Maximum Fire Damage",
                 "Index": 2
             },
             {
-                "PropertyString": "+12 to Dexterity",
+                "PropertyString": "+15 to Dexterity",
                 "Index": 5
             },
             {
@@ -7220,7 +7220,7 @@
             "DamageTypes": [
                 {
                     "Type": 1,
-                    "DamageString": "(14-17) to (25-30)"
+                    "DamageString": "(16-17) to (28-30)"
                 }
             ],
             "Speed": 0,
@@ -8305,7 +8305,7 @@
         "Code": "hbt",
         "Properties": [
             {
-                "PropertyString": "Level 5 Vigor Aura When Equipped",
+                "PropertyString": "Level 1-2 Vigor Aura When Equipped",
                 "Index": 6
             },
             {
@@ -16705,6 +16705,44 @@
         "Equipment": {
             "EquipmentType": 2,
             "Name": "Amulet",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Large Charm",
+        "Vanilla": "N",
+        "Name": "Tormented Torch",
+        "Index": "Tormented Torch",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 1,
+        "RequiredLevel": 50,
+        "Code": "cm5",
+        "Properties": [
+            {
+                "PropertyString": "+1% to Maximum All Resist",
+                "Index": 1
+            },
+            {
+                "PropertyString": "All Resistances +10",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+1 to Light Radius",
+                "Index": 0
+            },
+            {
+                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary\nA light to fend off the darkness",
+                "Index": 3
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": null,
             "RequiredStrength": null,
             "RequiredDexterity": null,
             "Durability": 0,

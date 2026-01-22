@@ -2053,6 +2053,28 @@
     },
     {
         "Name": "Burly",
+        "Level": 25,
+        "MaxLevel": 0,
+        "RequiredLevel": 25,
+        "Group": 100,
+        "ClassSpecific": "",
+        "Class": "",
+        "ClassLevelReq": 0,
+        "Properties": [
+            {
+                "PropertyString": "+13-15 Defense",
+                "Index": 0
+            }
+        ],
+        "Types": [
+            "Grand Charm",
+            "Any Armor"
+        ],
+        "ETypes": [],
+        "PType": "Prefix"
+    },
+    {
+        "Name": "Burly",
         "Level": 30,
         "MaxLevel": 0,
         "RequiredLevel": 30,
@@ -2062,7 +2084,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+13-15 Defense",
+                "PropertyString": "+16-22 Defense",
                 "Index": 0
             }
         ],
@@ -2084,7 +2106,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+16-22 Defense",
+                "PropertyString": "+23-30 Defense",
                 "Index": 0
             }
         ],
@@ -2096,7 +2118,7 @@
         "PType": "Prefix"
     },
     {
-        "Name": "Burly",
+        "Name": "Stalwart",
         "Level": 50,
         "MaxLevel": 0,
         "RequiredLevel": 50,
@@ -2106,7 +2128,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+23-30 Defense",
+                "PropertyString": "+33-40 Defense",
                 "Index": 0
             }
         ],
@@ -2128,7 +2150,7 @@
         "ClassLevelReq": 0,
         "Properties": [
             {
-                "PropertyString": "+33-40 Defense",
+                "PropertyString": "+44-50 Defense",
                 "Index": 0
             }
         ],
@@ -2144,28 +2166,6 @@
         "Level": 70,
         "MaxLevel": 0,
         "RequiredLevel": 70,
-        "Group": 100,
-        "ClassSpecific": "",
-        "Class": "",
-        "ClassLevelReq": 0,
-        "Properties": [
-            {
-                "PropertyString": "+44-50 Defense",
-                "Index": 0
-            }
-        ],
-        "Types": [
-            "Grand Charm",
-            "Any Armor"
-        ],
-        "ETypes": [],
-        "PType": "Prefix"
-    },
-    {
-        "Name": "Stalwart",
-        "Level": 80,
-        "MaxLevel": 0,
-        "RequiredLevel": 80,
         "Group": 100,
         "ClassSpecific": "",
         "Class": "",
@@ -2311,9 +2311,9 @@
     },
     {
         "Name": "Stalwart",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 100,
         "ClassSpecific": "",
         "Class": "",
@@ -3862,9 +3862,9 @@
     },
     {
         "Name": "Steel",
-        "Level": 70,
+        "Level": 65,
         "MaxLevel": 0,
-        "RequiredLevel": 70,
+        "RequiredLevel": 65,
         "Group": 110,
         "ClassSpecific": "",
         "Class": "",
@@ -3883,9 +3883,9 @@
     },
     {
         "Name": "Steel",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 110,
         "ClassSpecific": "",
         "Class": "",
@@ -4202,9 +4202,9 @@
     },
     {
         "Name": "Weird",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 110,
         "ClassSpecific": "",
         "Class": "",
@@ -4685,9 +4685,9 @@
     },
     {
         "Name": "Grandmaster's",
-        "Level": 90,
+        "Level": 85,
         "MaxLevel": 0,
-        "RequiredLevel": 90,
+        "RequiredLevel": 85,
         "Group": 111,
         "ClassSpecific": "",
         "Class": "",
@@ -5212,9 +5212,9 @@
     },
     {
         "Name": "Serpent's",
-        "Level": 60,
+        "Level": 55,
         "MaxLevel": 0,
-        "RequiredLevel": 60,
+        "RequiredLevel": 55,
         "Group": 115,
         "ClassSpecific": "",
         "Class": "",
@@ -5233,9 +5233,9 @@
     },
     {
         "Name": "Serpent's",
-        "Level": 70,
+        "Level": 60,
         "MaxLevel": 0,
-        "RequiredLevel": 70,
+        "RequiredLevel": 60,
         "Group": 115,
         "ClassSpecific": "",
         "Class": "",
@@ -5254,9 +5254,9 @@
     },
     {
         "Name": "Serpent's",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 115,
         "ClassSpecific": "",
         "Class": "",
@@ -5422,9 +5422,9 @@
     },
     {
         "Name": "Lizard's",
-        "Level": 16,
+        "Level": 10,
         "MaxLevel": 0,
-        "RequiredLevel": 12,
+        "RequiredLevel": 10,
         "Group": 115,
         "ClassSpecific": "",
         "Class": "",
@@ -5443,9 +5443,9 @@
     },
     {
         "Name": "Lizard's",
-        "Level": 16,
+        "Level": 20,
         "MaxLevel": 0,
-        "RequiredLevel": 12,
+        "RequiredLevel": 20,
         "Group": 115,
         "ClassSpecific": "",
         "Class": "",
@@ -5464,9 +5464,9 @@
     },
     {
         "Name": "Snake's",
-        "Level": 32,
+        "Level": 30,
         "MaxLevel": 0,
-        "RequiredLevel": 24,
+        "RequiredLevel": 30,
         "Group": 115,
         "ClassSpecific": "",
         "Class": "",
@@ -5485,9 +5485,9 @@
     },
     {
         "Name": "Serpent's",
-        "Level": 48,
+        "Level": 50,
         "MaxLevel": 0,
-        "RequiredLevel": 40,
+        "RequiredLevel": 50,
         "Group": 115,
         "ClassSpecific": "",
         "Class": "",
@@ -5829,9 +5829,9 @@
     },
     {
         "Name": "Shimmering",
-        "Level": 8,
-        "MaxLevel": 13,
-        "RequiredLevel": 6,
+        "Level": 10,
+        "MaxLevel": 70,
+        "RequiredLevel": 10,
         "Group": 116,
         "ClassSpecific": "",
         "Class": "",
@@ -5850,9 +5850,9 @@
     },
     {
         "Name": "Shimmering",
-        "Level": 14,
-        "MaxLevel": 34,
-        "RequiredLevel": 10,
+        "Level": 30,
+        "MaxLevel": 0,
+        "RequiredLevel": 30,
         "Group": 116,
         "ClassSpecific": "",
         "Class": "",
@@ -5871,9 +5871,9 @@
     },
     {
         "Name": "Shimmering",
-        "Level": 35,
+        "Level": 60,
         "MaxLevel": 0,
-        "RequiredLevel": 27,
+        "RequiredLevel": 60,
         "Group": 116,
         "ClassSpecific": "",
         "Class": "",
@@ -5892,9 +5892,9 @@
     },
     {
         "Name": "Shimmering",
-        "Level": 17,
-        "MaxLevel": 33,
-        "RequiredLevel": 12,
+        "Level": 10,
+        "MaxLevel": 0,
+        "RequiredLevel": 10,
         "Group": 116,
         "ClassSpecific": "",
         "Class": "",
@@ -5913,9 +5913,9 @@
     },
     {
         "Name": "Shimmering",
-        "Level": 34,
+        "Level": 60,
         "MaxLevel": 0,
-        "RequiredLevel": 26,
+        "RequiredLevel": 60,
         "Group": 116,
         "ClassSpecific": "",
         "Class": "",
@@ -5934,9 +5934,9 @@
     },
     {
         "Name": "Shimmering",
-        "Level": 33,
+        "Level": 15,
         "MaxLevel": 0,
-        "RequiredLevel": 25,
+        "RequiredLevel": 15,
         "Group": 116,
         "ClassSpecific": "",
         "Class": "",
@@ -5955,9 +5955,9 @@
     },
     {
         "Name": "Shimmering",
-        "Level": 3,
-        "MaxLevel": 60,
-        "RequiredLevel": 3,
+        "Level": 60,
+        "MaxLevel": 0,
+        "RequiredLevel": 60,
         "Group": 116,
         "ClassSpecific": "",
         "Class": "",
@@ -10729,9 +10729,9 @@
     },
     {
         "Name": "Howling",
-        "Level": 80,
+        "Level": 75,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 75,
         "Group": 104,
         "ClassSpecific": "",
         "Class": "",
@@ -10754,9 +10754,9 @@
     },
     {
         "Name": "Grinding",
-        "Level": 90,
+        "Level": 85,
         "MaxLevel": 0,
-        "RequiredLevel": 90,
+        "RequiredLevel": 85,
         "Group": 104,
         "ClassSpecific": "",
         "Class": "",
@@ -10779,9 +10779,9 @@
     },
     {
         "Name": "Paradox",
-        "Level": 90,
+        "Level": 80,
         "MaxLevel": 0,
-        "RequiredLevel": 90,
+        "RequiredLevel": 80,
         "Group": 101,
         "ClassSpecific": "",
         "Class": "",
@@ -10925,9 +10925,9 @@
     },
     {
         "Name": "Eagleeye",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 110,
         "ClassSpecific": "",
         "Class": "",
@@ -11057,9 +11057,9 @@
     },
     {
         "Name": "Hibernal",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 137,
         "ClassSpecific": "",
         "Class": "",
@@ -11179,9 +11179,9 @@
     },
     {
         "Name": "Condensing",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 138,
         "ClassSpecific": "",
         "Class": "",
@@ -11305,9 +11305,9 @@
     },
     {
         "Name": "Shocking",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 139,
         "ClassSpecific": "",
         "Class": "",
@@ -11417,9 +11417,9 @@
     },
     {
         "Name": "Pestilent",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 140,
         "ClassSpecific": "",
         "Class": "",
@@ -12474,9 +12474,9 @@
     },
     {
         "Name": "Hibernal",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 137,
         "ClassSpecific": "",
         "Class": "",
@@ -12558,9 +12558,9 @@
     },
     {
         "Name": "Hibernal",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 137,
         "ClassSpecific": "",
         "Class": "",
@@ -12642,9 +12642,9 @@
     },
     {
         "Name": "Hibernal",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 137,
         "ClassSpecific": "",
         "Class": "",
@@ -12738,9 +12738,9 @@
     },
     {
         "Name": "Flaming",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 138,
         "ClassSpecific": "",
         "Class": "",
@@ -12838,9 +12838,9 @@
     },
     {
         "Name": "Flaming",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 138,
         "ClassSpecific": "",
         "Class": "",
@@ -12938,9 +12938,9 @@
     },
     {
         "Name": "Flaming",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 138,
         "ClassSpecific": "",
         "Class": "",
@@ -13038,9 +13038,9 @@
     },
     {
         "Name": "Shocking",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 139,
         "ClassSpecific": "",
         "Class": "",
@@ -13138,9 +13138,9 @@
     },
     {
         "Name": "Shocking",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 139,
         "ClassSpecific": "",
         "Class": "",
@@ -13238,9 +13238,9 @@
     },
     {
         "Name": "Shocking",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 139,
         "ClassSpecific": "",
         "Class": "",
@@ -13326,9 +13326,9 @@
     },
     {
         "Name": "Pestilent",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 140,
         "ClassSpecific": "",
         "Class": "",
@@ -13410,9 +13410,9 @@
     },
     {
         "Name": "Pestilent",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 140,
         "ClassSpecific": "",
         "Class": "",
@@ -13494,9 +13494,9 @@
     },
     {
         "Name": "Pestilent",
-        "Level": 80,
+        "Level": 70,
         "MaxLevel": 0,
-        "RequiredLevel": 80,
+        "RequiredLevel": 70,
         "Group": 140,
         "ClassSpecific": "",
         "Class": "",
@@ -13537,7 +13537,7 @@
     {
         "Name": "Lizard's",
         "Level": 1,
-        "MaxLevel": 10,
+        "MaxLevel": 15,
         "RequiredLevel": 1,
         "Group": 115,
         "ClassSpecific": "",
@@ -13565,7 +13565,7 @@
     {
         "Name": "Azure",
         "Level": 1,
-        "MaxLevel": 10,
+        "MaxLevel": 15,
         "RequiredLevel": 1,
         "Group": 117,
         "ClassSpecific": "",
@@ -13590,7 +13590,7 @@
     {
         "Name": "Crimson",
         "Level": 1,
-        "MaxLevel": 10,
+        "MaxLevel": 15,
         "RequiredLevel": 1,
         "Group": 118,
         "ClassSpecific": "",
@@ -13615,7 +13615,7 @@
     {
         "Name": "Tangerine",
         "Level": 1,
-        "MaxLevel": 10,
+        "MaxLevel": 15,
         "RequiredLevel": 1,
         "Group": 119,
         "ClassSpecific": "",
@@ -13640,7 +13640,7 @@
     {
         "Name": "Beryl",
         "Level": 1,
-        "MaxLevel": 10,
+        "MaxLevel": 15,
         "RequiredLevel": 1,
         "Group": 120,
         "ClassSpecific": "",
@@ -13664,9 +13664,9 @@
     },
     {
         "Name": "Godly",
-        "Level": 90,
+        "Level": 85,
         "MaxLevel": 0,
-        "RequiredLevel": 90,
+        "RequiredLevel": 85,
         "Group": 101,
         "ClassSpecific": "",
         "Class": "",
@@ -13685,9 +13685,9 @@
     },
     {
         "Name": "Cruel",
-        "Level": 56,
+        "Level": 85,
         "MaxLevel": 0,
-        "RequiredLevel": 48,
+        "RequiredLevel": 85,
         "Group": 105,
         "ClassSpecific": "",
         "Class": "",
