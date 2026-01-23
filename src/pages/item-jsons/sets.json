@@ -4195,7 +4195,7 @@
                 "Name": "Tal Rasha's Adjudication",
                 "Index": "Tal Rasha's Adjudication",
                 "Enabled": true,
-                "Rarity": 1,
+                "Rarity": 2,
                 "ItemLevel": 60,
                 "RequiredLevel": 67,
                 "Code": "amu",
@@ -7381,5 +7381,167 @@
         ],
         "Level": 1,
         "Vanilla": "Y"
+    },
+    {
+        "Index": "Tormented Desires",
+        "Name": "Tormented Desires",
+        "SetItems": [
+            {
+                "Type": "Ring",
+                "Set": "Tormented Desires",
+                "SetPropertiesString": [
+                    "+20% to Fire Skill Damage (3 Items)",
+                    "+50 to Mana (2 Items)"
+                ],
+                "Name": "Tormented Fingers",
+                "Index": "Tormented Fingers",
+                "Enabled": true,
+                "Rarity": 3,
+                "ItemLevel": 60,
+                "RequiredLevel": 70,
+                "Code": "rin",
+                "Properties": [
+                    {
+                        "PropertyString": "+1 to All Skills",
+                        "Index": 0
+                    },
+                    {
+                        "PropertyString": "+15% Faster Cast Rate",
+                        "Index": 1
+                    },
+                    {
+                        "PropertyString": "Poison Length Reduced by 50%",
+                        "Index": 2
+                    },
+                    {
+                        "PropertyString": "-1 to Light Radius",
+                        "Index": 3
+                    }
+                ],
+                "DamageArmorEnhanced": false,
+                "Equipment": {
+                    "EquipmentType": 2,
+                    "Name": "Ring",
+                    "RequiredStrength": null,
+                    "RequiredDexterity": null,
+                    "Durability": 0,
+                    "RequiredClass": ""
+                }
+            },
+            {
+                "Type": "Ring",
+                "Set": "Tormented Desires",
+                "SetPropertiesString": [
+                    "Adds 20-40 damage (3 Items)",
+                    "+50 to Life (2 Items)"
+                ],
+                "Name": "Tormented Knuckles",
+                "Index": "Tormented Knuckles",
+                "Enabled": true,
+                "Rarity": 3,
+                "ItemLevel": 60,
+                "RequiredLevel": 70,
+                "Code": "rin",
+                "Properties": [
+                    {
+                        "PropertyString": "+1 to All Skills",
+                        "Index": 0
+                    },
+                    {
+                        "PropertyString": "+15% Increased Attack Speed",
+                        "Index": 1
+                    },
+                    {
+                        "PropertyString": "Cannot Be Frozen",
+                        "Index": 2
+                    },
+                    {
+                        "PropertyString": "-1 to Light Radius",
+                        "Index": 3
+                    }
+                ],
+                "DamageArmorEnhanced": false,
+                "Equipment": {
+                    "EquipmentType": 2,
+                    "Name": "Ring",
+                    "RequiredStrength": null,
+                    "RequiredDexterity": null,
+                    "Durability": 0,
+                    "RequiredClass": ""
+                }
+            },
+            {
+                "Type": "Amulet",
+                "Set": "Tormented Desires",
+                "SetPropertiesString": [
+                    "+25% Faster Hit Recovery (2 Items)",
+                    "+10 to all Attributes (3 Items)"
+                ],
+                "Name": "Tormented Clavicle",
+                "Index": "Tormented Clavicle",
+                "Enabled": true,
+                "Rarity": 3,
+                "ItemLevel": 60,
+                "RequiredLevel": 70,
+                "Code": "amu",
+                "Properties": [
+                    {
+                        "PropertyString": "+2 to All Skills",
+                        "Index": 0
+                    },
+                    {
+                        "PropertyString": "+15% Faster Hit Recovery",
+                        "Index": 1
+                    },
+                    {
+                        "PropertyString": "Regenerate Mana 50%",
+                        "Index": 2
+                    },
+                    {
+                        "PropertyString": "-1 to Light Radius",
+                        "Index": 3
+                    }
+                ],
+                "DamageArmorEnhanced": false,
+                "Equipment": {
+                    "EquipmentType": 2,
+                    "Name": "Amulet",
+                    "RequiredStrength": null,
+                    "RequiredDexterity": null,
+                    "Durability": 0,
+                    "RequiredClass": ""
+                }
+            }
+        ],
+        "PartialProperties": [
+            {
+                "PropertyString": "All Resistances -30",
+                "Index": 0
+            },
+            {
+                "PropertyString": "50% Better Chance of Getting Magic Items",
+                "Index": 1
+            }
+        ],
+        "FullProperties": [
+            {
+                "PropertyString": "+2 to All Skills",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Drain Life -50",
+                "Index": 1
+            },
+            {
+                "PropertyString": "-20% to Experience Gained",
+                "Index": 2
+            },
+            {
+                "PropertyString": "100% Better Chance of Getting Magic Items",
+                "Index": 3
+            }
+        ],
+        "Level": 1,
+        "Vanilla": "N"
     }
 ]
