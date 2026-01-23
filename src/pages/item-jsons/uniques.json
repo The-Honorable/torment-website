@@ -5163,7 +5163,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+10% to Fire Skill Damage",
+                "PropertyString": "+10% to All Elemental Skill Damage",
                 "Index": 1
             },
             {
@@ -9143,7 +9143,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "+10% to Fire Skill Damage",
+                "PropertyString": "+10% to All Elemental Skill Damage",
                 "Index": 2
             },
             {
@@ -28395,7 +28395,7 @@
                 "Index": 4
             },
             {
-                "PropertyString": "-10-15% to Enemy Fire Resistance",
+                "PropertyString": "-10-15% to All Enemy Elemental Resistances",
                 "Index": 2
             },
             {
@@ -29009,11 +29009,11 @@
                 "Index": 4
             },
             {
-                "PropertyString": "+10-15% to Fire Skill Damage",
+                "PropertyString": "+10-15% to All Elemental Skill Damage",
                 "Index": 0
             },
             {
-                "PropertyString": "-10-15% to Enemy Fire Resistance",
+                "PropertyString": "-10-15% to All Enemy Elemental Resistances",
                 "Index": 1
             },
             {
@@ -29066,11 +29066,11 @@
                 "Index": 4
             },
             {
-                "PropertyString": "+15-20% to Fire Skill Damage",
+                "PropertyString": "+15-20% to All Elemental Skill Damage",
                 "Index": 2
             },
             {
-                "PropertyString": "-15-20% to Enemy Fire Resistance",
+                "PropertyString": "-15-20% to All Enemy Elemental Resistances",
                 "Index": 3
             },
             {
@@ -29119,7 +29119,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "-15% to Enemy Fire Resistance",
+                "PropertyString": "-15% to All Enemy Elemental Resistances",
                 "Index": 3
             },
             {

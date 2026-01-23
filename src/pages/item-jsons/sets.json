@@ -4431,11 +4431,11 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+15% to Fire Skill Damage",
+                "PropertyString": "+15% to All Elemental Skill Damage",
                 "Index": 5
             },
             {
-                "PropertyString": "-10% to Enemy Fire Resistance",
+                "PropertyString": "-10% to All Enemy Elemental Resistances",
                 "Index": 6
             },
             {
@@ -7390,7 +7390,7 @@
                 "Type": "Ring",
                 "Set": "Tormented Desires",
                 "SetPropertiesString": [
-                    "+20% to Fire Skill Damage (3 Items)",
+                    "+20% to All Elemental Skill Damage (3 Items)",
                     "+50 to Mana (2 Items)"
                 ],
                 "Name": "Tormented Fingers",
