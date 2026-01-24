@@ -256,7 +256,7 @@
         "Code": "Runeword7",
         "Properties": [
             {
-                "PropertyString": "+50% Enhanced Damage",
+                "PropertyString": "+80-120% Enhanced Damage",
                 "Index": 0
             },
             {
@@ -264,15 +264,15 @@
                 "Index": 0
             },
             {
-                "PropertyString": "3% Mana stolen per hit",
+                "PropertyString": "3-5% Mana stolen per hit",
                 "Index": 2
             },
             {
-                "PropertyString": "3% Life stolen per hit",
+                "PropertyString": "3-5% Life stolen per hit",
                 "Index": 1
             },
             {
-                "PropertyString": "Drain Life -5",
+                "PropertyString": "+25 to Life",
                 "Index": 3
             },
             {
@@ -922,8 +922,8 @@
         ],
         "Types": [
             {
-                "Name": "Missile Weapon",
-                "Index": "Missile Weapon",
+                "Name": "Weapon",
+                "Index": "Weapon",
                 "Class": ""
             }
         ],
@@ -1634,11 +1634,11 @@
             },
             {
                 "PropertyString": "+15% Faster Run/Walk",
-                "Index": 5
+                "Index": 4
             },
             {
                 "PropertyString": "+15% Increased Attack Speed",
-                "Index": 6
+                "Index": 5
             },
             {
                 "PropertyString": "+50% Enhanced Damage",
@@ -1646,15 +1646,11 @@
             },
             {
                 "PropertyString": "5% Life stolen per hit",
-                "Index": 4
+                "Index": 3
             },
             {
                 "PropertyString": "+30 Defense vs. Missile",
                 "Index": 0
-            },
-            {
-                "PropertyString": "Drain Life -10",
-                "Index": 3
             },
             {
                 "PropertyString": "Attacker Takes Damage of 50",
@@ -2214,7 +2210,7 @@
         "Code": "Runeword116",
         "Properties": [
             {
-                "PropertyString": "Level 1 Sanctuary Aura When Equipped",
+                "PropertyString": "Level 2-3 Sanctuary Aura When Equipped",
                 "Index": 3
             },
             {
@@ -2544,7 +2540,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "All Resistances +20",
+                "PropertyString": "All Resistances +20-30",
                 "Index": 5
             },
             {
@@ -2617,7 +2613,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "+150-200% Enhanced Damage",
+                "PropertyString": "+100-150% Enhanced Damage",
                 "Index": 1
             },
             {
@@ -2629,7 +2625,7 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+40% Deadly Strike",
+                "PropertyString": "+25% Deadly Strike",
                 "Index": 0
             },
             {
@@ -2773,7 +2769,7 @@
         "Code": "Runeword175",
         "Properties": [
             {
-                "PropertyString": "+1 to All Skills",
+                "PropertyString": "+1-2 to All Skills",
                 "Index": 4
             },
             {
@@ -2797,7 +2793,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "Lightning Absorb +10-15%",
+                "PropertyString": "Lightning Absorb +10%",
                 "Index": 3
             }
         ],
@@ -2854,7 +2850,7 @@
         "Code": "Runeword176",
         "Properties": [
             {
-                "PropertyString": "+1 to All Skills",
+                "PropertyString": "+1-2 to All Skills",
                 "Index": 4
             },
             {
@@ -2878,7 +2874,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "Fire Absorb +10-15%",
+                "PropertyString": "Fire Absorb +10%",
                 "Index": 3
             }
         ],
@@ -2935,7 +2931,7 @@
         "Code": "Runeword177",
         "Properties": [
             {
-                "PropertyString": "+1 to All Skills",
+                "PropertyString": "+2 to All Skills",
                 "Index": 5
             },
             {
@@ -2959,7 +2955,7 @@
                 "Index": 2
             },
             {
-                "PropertyString": "Cold Absorb +10-15%",
+                "PropertyString": "Cold Absorb +10%",
                 "Index": 3
             },
             {
@@ -3020,11 +3016,11 @@
         "Code": "Runeword178",
         "Properties": [
             {
-                "PropertyString": "Level 1 Cleansing Aura When Equipped",
+                "PropertyString": "Level 2-3 Cleansing Aura When Equipped",
                 "Index": 4
             },
             {
-                "PropertyString": "+1 to All Skills",
+                "PropertyString": "+2 to All Skills",
                 "Index": 5
             },
             {
@@ -3105,7 +3101,7 @@
         "Code": "Runeword179",
         "Properties": [
             {
-                "PropertyString": "+1 to All Skills",
+                "PropertyString": "+2 to All Skills",
                 "Index": 5
             },
             {
@@ -4143,7 +4139,7 @@
         "Code": "Runeword151",
         "Properties": [
             {
-                "PropertyString": "10% Chance to cast level 20 Taunt on striking",
+                "PropertyString": "10% Chance to cast level 10 Taunt on striking",
                 "Index": 1
             },
             {
@@ -4248,7 +4244,7 @@
         "Code": "Runeword71",
         "Properties": [
             {
-                "PropertyString": "9% Chance to cast level 10 Lower Magic Resist on striking",
+                "PropertyString": "8% Chance to cast level 5 Lower Magic Resist on striking",
                 "Index": 3
             },
             {
@@ -5069,7 +5065,7 @@
         "Code": "Runeword30",
         "Properties": [
             {
-                "PropertyString": "+50-100% Enhanced Damage",
+                "PropertyString": "+100% Enhanced Damage",
                 "Index": 1
             },
             {
@@ -5261,7 +5257,7 @@
                 "Index": 6
             },
             {
-                "PropertyString": "+5 to Clay Golem (oskill)",
+                "PropertyString": "+10 to Clay Golem (oskill)",
                 "Index": 1
             },
             {
@@ -5376,16 +5372,16 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+5 to Iron Golem (oskill)",
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+10 to Iron Golem (oskill)",
                 "Index": 3
             },
             {
                 "PropertyString": "+5 to Heart of Wolverine (oskill)",
                 "Index": 4
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
             },
             {
                 "PropertyString": "+10 to Energy",
@@ -5698,12 +5694,24 @@
         "Code": "Runeword154",
         "Properties": [
             {
+                "PropertyString": "+30% Increased Attack Speed",
+                "Index": 5
+            },
+            {
+                "PropertyString": "+150-200% Enhanced Damage",
+                "Index": 6
+            },
+            {
                 "PropertyString": "+20% Faster Cast Rate",
                 "Index": 0
             },
             {
                 "PropertyString": "Ignore Target's Defense",
                 "Index": 1
+            },
+            {
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
             },
             {
                 "PropertyString": "Adds 334 poison damage over 4 seconds",
@@ -5720,10 +5728,6 @@
             {
                 "PropertyString": "+5 to Venom (oskill)",
                 "Index": 4
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
             }
         ],
         "DamageArmorEnhanced": false,
@@ -5867,11 +5871,6 @@
         ],
         "Types": [
             {
-                "Name": "Helm",
-                "Index": "Helm",
-                "Class": ""
-            },
-            {
                 "Name": "Body Armor",
                 "Index": "Body Armor",
                 "Class": ""
@@ -5907,7 +5906,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "-2 to Light Radius",
+                "PropertyString": "-3 to Light Radius",
                 "Index": 4
             }
         ],
@@ -5990,6 +5989,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "+25% Deadly Strike",
                 "Index": 3
             },
@@ -6000,10 +6003,6 @@
             {
                 "PropertyString": "+5 to Vengeance (oskill)",
                 "Index": 5
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
             },
             {
                 "PropertyString": "+10 to Strength",
@@ -6075,7 +6074,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+50% Enhanced Damage",
+                "PropertyString": "+100-150% Enhanced Damage",
                 "Index": 4
             },
             {
@@ -6284,6 +6283,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "+10-15% to Fire Skill Damage",
                 "Index": 3
             },
@@ -6297,10 +6300,6 @@
             },
             {
                 "PropertyString": "7% Life stolen per hit",
-                "Index": 0
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
                 "Index": 0
             }
         ],
@@ -6414,7 +6413,7 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+5 to Blood Golem (oskill)",
+                "PropertyString": "+10 to Blood Golem (oskill)",
                 "Index": 2
             },
             {
@@ -6847,6 +6846,10 @@
                 "Index": 1
             },
             {
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "Adds 5-30 fire damage",
                 "Index": 0
             },
@@ -6865,10 +6868,6 @@
             {
                 "PropertyString": "+2-3 to Battle Cry (oskill)",
                 "Index": 5
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
             },
             {
                 "PropertyString": "Replenish Life +12",
@@ -7305,6 +7304,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "Adds 5-30 fire damage",
                 "Index": 0
             },
@@ -7314,10 +7317,6 @@
             },
             {
                 "PropertyString": "+20% Deadly Strike",
-                "Index": 0
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
                 "Index": 0
             },
             {
@@ -7710,6 +7709,10 @@
                 "Index": 0
             },
             {
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "+25% Chance of Open Wounds",
                 "Index": 0
             },
@@ -7724,10 +7727,6 @@
             {
                 "PropertyString": "+3 to Lycanthropy (oskill)",
                 "Index": 6
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
             },
             {
                 "PropertyString": "+25-40 to Strength",
@@ -7809,16 +7808,16 @@
                 "Index": 5
             },
             {
+                "PropertyString": "+200% Enhanced Damage",
+                "Index": 3
+            },
+            {
                 "PropertyString": "+10% Faster Cast Rate",
                 "Index": 0
             },
             {
                 "PropertyString": "+200% Damage to Demons",
                 "Index": 2
-            },
-            {
-                "PropertyString": "+100% Damage to Undead",
-                "Index": 3
             },
             {
                 "PropertyString": "8% Life stolen per hit",
@@ -8015,11 +8014,11 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+5 to Raise Skeleton (oskill)",
+                "PropertyString": "+10 to Raise Skeleton (oskill)",
                 "Index": 3
             },
             {
-                "PropertyString": "+5 to Skeleton Mastery (oskill)",
+                "PropertyString": "+10 to Skeleton Mastery (oskill)",
                 "Index": 4
             },
             {
@@ -8127,16 +8126,16 @@
                 "Index": 0
             },
             {
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
+            },
+            {
                 "PropertyString": "-45-55% to Enemy Lightning Resistance",
                 "Index": 5
             },
             {
                 "PropertyString": "+10 to Cyclone Armor (oskill)",
                 "Index": 6
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
             },
             {
                 "PropertyString": "+0.5 to Vitality (Per Character Level)",
@@ -8238,16 +8237,12 @@
                 "Index": 1
             },
             {
-                "PropertyString": "Adds 100-250 magic damage",
+                "PropertyString": "Adds 140-330 magic damage",
                 "Index": 3
             },
             {
                 "PropertyString": "Adds 50-350 lightning damage",
                 "Index": 2
-            },
-            {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
             },
             {
                 "PropertyString": "+10 to Energy",
@@ -8341,11 +8336,11 @@
                 "Index": 1
             },
             {
-                "PropertyString": "+20% Deadly Strike",
+                "PropertyString": "Adds 40-80 magic damage",
                 "Index": 0
             },
             {
-                "PropertyString": "Prevent Monster Heal",
+                "PropertyString": "+20% Deadly Strike",
                 "Index": 0
             },
             {
@@ -9223,12 +9218,12 @@
                 "Index": 0
             },
             {
-                "PropertyString": "+50% Deadly Strike",
-                "Index": 4
+                "PropertyString": "Adds 40-80 magic damage",
+                "Index": 0
             },
             {
-                "PropertyString": "Prevent Monster Heal",
-                "Index": 0
+                "PropertyString": "+50% Deadly Strike",
+                "Index": 4
             },
             {
                 "PropertyString": "Hit Blinds Target +1",
