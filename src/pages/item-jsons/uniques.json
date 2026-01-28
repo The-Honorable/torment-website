@@ -2141,6 +2141,140 @@
         }
     },
     {
+        "Type": "Grand Charm",
+        "Vanilla": "N",
+        "Name": "Tormented Charm",
+        "Index": "Tormented Charm",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 1,
+        "RequiredLevel": 10,
+        "Code": "cm6",
+        "Properties": [
+            {
+                "PropertyString": "+15 to Life",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+15 to Mana",
+                "Index": 3
+            },
+            {
+                "PropertyString": "15% Extra Gold from Monsters",
+                "Index": 1
+            },
+            {
+                "PropertyString": "15% Better Chance of Getting Magic Items",
+                "Index": 0
+            },
+            {
+                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary",
+                "Index": 4
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": null,
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Bow Quiver",
+        "Vanilla": "N",
+        "Name": "Arrows of the Swift",
+        "Index": "Arrows of the Swift",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 5,
+        "RequiredLevel": 10,
+        "Code": "aqv",
+        "Properties": [
+            {
+                "PropertyString": "8% Chance to cast level 5 Burst of Speed on striking",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+10% Increased Attack Speed",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+10% Faster Hit Recovery",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Adds 5-10 damage",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+1 to Light Radius",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 5
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Arrows",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Crossbow Quiver",
+        "Vanilla": "N",
+        "Name": "Bolts of the Swift",
+        "Index": "Bolts of the Swift",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 5,
+        "RequiredLevel": 10,
+        "Code": "cqv",
+        "Properties": [
+            {
+                "PropertyString": "8% Chance to cast level 5 Burst of Speed on striking",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+10% Increased Attack Speed",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+10% Faster Hit Recovery",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Adds 5-10 damage",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+1 to Light Radius",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 5
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Bolts",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
         "Type": "Knife",
         "Vanilla": "Y",
         "Name": "The Diggler",
@@ -3899,48 +4033,6 @@
             "RequiredDexterity": "0",
             "Durability": 35,
             "RequiredClass": "Sorceress"
-        }
-    },
-    {
-        "Type": "Grand Charm",
-        "Vanilla": "N",
-        "Name": "Tormented Charm",
-        "Index": "Tormented Charm",
-        "Enabled": true,
-        "Rarity": 1,
-        "ItemLevel": 1,
-        "RequiredLevel": 15,
-        "Code": "cm6",
-        "Properties": [
-            {
-                "PropertyString": "+15 to Life",
-                "Index": 2
-            },
-            {
-                "PropertyString": "+15 to Mana",
-                "Index": 3
-            },
-            {
-                "PropertyString": "15% Extra Gold from Monsters",
-                "Index": 1
-            },
-            {
-                "PropertyString": "15% Better Chance of Getting Magic Items",
-                "Index": 0
-            },
-            {
-                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary",
-                "Index": 4
-            }
-        ],
-        "DamageArmorEnhanced": false,
-        "Equipment": {
-            "EquipmentType": 2,
-            "Name": null,
-            "RequiredStrength": null,
-            "RequiredDexterity": null,
-            "Durability": 0,
-            "RequiredClass": ""
         }
     },
     {
@@ -6715,6 +6807,110 @@
         }
     },
     {
+        "Type": "Bow Quiver",
+        "Vanilla": "N",
+        "Name": "Arrows of the Undying",
+        "Index": "Arrows of the Undying",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 25,
+        "RequiredLevel": 25,
+        "Code": "aqv",
+        "Properties": [
+            {
+                "PropertyString": "+15% Increased Attack Speed",
+                "Index": 6
+            },
+            {
+                "PropertyString": "+5-15 to Minimum Damage",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+15-25 to Maximum Damage",
+                "Index": 5
+            },
+            {
+                "PropertyString": "3-5% Mana stolen per hit",
+                "Index": 3
+            },
+            {
+                "PropertyString": "3-5% Life stolen per hit",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+20-30 to Life",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30 to Mana",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 7
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Arrows",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Crossbow Quiver",
+        "Vanilla": "N",
+        "Name": "Bolts of the Wizard",
+        "Index": "Bolts of the Wizard",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 20,
+        "RequiredLevel": 25,
+        "Code": "cqv",
+        "Properties": [
+            {
+                "PropertyString": "8% Chance to cast level 3 Lower Magic Resist on striking",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+15% Increased Attack Speed",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+20% Faster Hit Recovery",
+                "Index": 3
+            },
+            {
+                "PropertyString": "Adds 10-20 magic damage",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+30-60 to Mana",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+2 to Light Radius",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Bolts",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
         "Type": "Sword",
         "Vanilla": "Y",
         "Name": "Blacktongue",
@@ -6730,7 +6926,7 @@
                 "Index": 3
             },
             {
-                "PropertyString": "Adds 10-20 damage",
+                "PropertyString": "Adds 15-30 damage",
                 "Index": 5
             },
             {
@@ -6748,6 +6944,10 @@
             {
                 "PropertyString": "Poison Resist +50%",
                 "Index": 2
+            },
+            {
+                "PropertyString": "Socketed (1-2)",
+                "Index": 6
             }
         ],
         "DamageArmorEnhanced": true,
@@ -6755,11 +6955,11 @@
             "DamageTypes": [
                 {
                     "Type": 0,
-                    "DamageString": "(27-29) to (64-68)"
+                    "DamageString": "(32-34) to (74-78)"
                 },
                 {
                     "Type": 1,
-                    "DamageString": "(58-62) to (90-96)"
+                    "DamageString": "(63-67) to (100-106)"
                 }
             ],
             "Speed": 10,
@@ -14322,6 +14522,44 @@
         }
     },
     {
+        "Type": "Large Charm",
+        "Vanilla": "N",
+        "Name": "Tormented Torch",
+        "Index": "Tormented Torch",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 1,
+        "RequiredLevel": 45,
+        "Code": "cm5",
+        "Properties": [
+            {
+                "PropertyString": "+1% to Maximum All Resist",
+                "Index": 1
+            },
+            {
+                "PropertyString": "All Resistances +10",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+1 to Light Radius",
+                "Index": 0
+            },
+            {
+                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary\nA light to fend off the darkness",
+                "Index": 3
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": null,
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
         "Type": "Staff",
         "Vanilla": "Y",
         "Name": "Skull Collector",
@@ -16712,37 +16950,249 @@
         }
     },
     {
-        "Type": "Large Charm",
+        "Type": "Bow Quiver",
         "Vanilla": "N",
-        "Name": "Tormented Torch",
-        "Index": "Tormented Torch",
+        "Name": "Arrows of the Ice Queen",
+        "Index": "Arrows of the Ice Queen",
         "Enabled": true,
         "Rarity": 1,
-        "ItemLevel": 1,
+        "ItemLevel": 40,
         "RequiredLevel": 50,
-        "Code": "cm5",
+        "Code": "aqv",
         "Properties": [
             {
-                "PropertyString": "+1% to Maximum All Resist",
+                "PropertyString": "+10-20% Increased Attack Speed",
                 "Index": 1
             },
             {
-                "PropertyString": "All Resistances +10",
+                "PropertyString": "+10-15% Piercing Attack",
                 "Index": 2
             },
             {
-                "PropertyString": "+1 to Light Radius",
+                "PropertyString": "Adds 20-50 cold damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+10-20% to Cold Skill Damage",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Ice Arrow (oskill)",
                 "Index": 0
             },
             {
-                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary\nA light to fend off the darkness",
-                "Index": 3
+                "PropertyString": "Cold Resist +25-35%",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
             }
         ],
         "DamageArmorEnhanced": false,
         "Equipment": {
             "EquipmentType": 2,
-            "Name": null,
+            "Name": "Arrows",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Bow Quiver",
+        "Vanilla": "N",
+        "Name": "Arrows of the Explosion",
+        "Index": "Arrows of the Explosion",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 40,
+        "RequiredLevel": 50,
+        "Code": "aqv",
+        "Properties": [
+            {
+                "PropertyString": "+10-20% Increased Attack Speed",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+10-15% Piercing Attack",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Adds 30-60 fire damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+10-20% to Fire Skill Damage",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Exploding Arrow (oskill)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Fire Resist +25-35%",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Arrows",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Bow Quiver",
+        "Vanilla": "N",
+        "Name": "Arrows of the Spread",
+        "Index": "Arrows of the Spread",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 40,
+        "RequiredLevel": 50,
+        "Code": "aqv",
+        "Properties": [
+            {
+                "PropertyString": "+10-20% Increased Attack Speed",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+10-15% Piercing Attack",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+10-20 to Minimum Damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+20-30 to Maximum Damage",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Multiple Shot (oskill)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Physical Damage Received Reduced by 10%",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Arrows",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Crossbow Quiver",
+        "Vanilla": "N",
+        "Name": "Bolts of the Freeze",
+        "Index": "Bolts of the Freeze",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 50,
+        "RequiredLevel": 50,
+        "Code": "cqv",
+        "Properties": [
+            {
+                "PropertyString": "+15-20% Increased Attack Speed",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+10-15% Piercing Attack",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Adds 30-80 cold damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "-15-25% to Enemy Cold Resistance",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Freezing Arrow (oskill)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Cold Resist +30-40%",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Bolts",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Crossbow Quiver",
+        "Vanilla": "N",
+        "Name": "Bolts of the Wildfire",
+        "Index": "Bolts of the Wildfire",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 50,
+        "RequiredLevel": 50,
+        "Code": "cqv",
+        "Properties": [
+            {
+                "PropertyString": "+15-20% Increased Attack Speed",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+10-15% Piercing Attack",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Adds 50-100 fire damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "-15-25% to Enemy Fire Resistance",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+3 to Immolation Arrow (oskill)",
+                "Index": 0
+            },
+            {
+                "PropertyString": "Fire Resist +30-40%",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Bolts",
             "RequiredStrength": null,
             "RequiredDexterity": null,
             "Durability": 0,
@@ -18990,6 +19440,56 @@
         "Equipment": {
             "EquipmentType": 2,
             "Name": "Amulet",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Crossbow Quiver",
+        "Vanilla": "N",
+        "Name": "Bolts of the Gods",
+        "Index": "Bolts of the Gods",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 60,
+        "RequiredLevel": 60,
+        "Code": "cqv",
+        "Properties": [
+            {
+                "PropertyString": "10% Chance to cast level 15 Lightning Bolt on striking",
+                "Index": 1
+            },
+            {
+                "PropertyString": "Level 10-15 Holy Shock Aura When Equipped",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30% Increased Attack Speed",
+                "Index": 4
+            },
+            {
+                "PropertyString": "Adds 10-300 lightning damage",
+                "Index": 2
+            },
+            {
+                "PropertyString": "-10-20% to Enemy Lightning Resistance",
+                "Index": 3
+            },
+            {
+                "PropertyString": "All Resistances +10-20",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Bolts",
             "RequiredStrength": null,
             "RequiredDexterity": null,
             "Durability": 0,
@@ -22651,6 +23151,140 @@
             "RequiredStrength": "55",
             "RequiredDexterity": "98",
             "Durability": 55,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Small Charm",
+        "Vanilla": "N",
+        "Name": "Tormented Trinket",
+        "Index": "Tormented Trinket",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 1,
+        "RequiredLevel": 70,
+        "Code": "cm4",
+        "Properties": [
+            {
+                "PropertyString": "+1% to Maximum All Resist",
+                "Index": 2
+            },
+            {
+                "PropertyString": "Physical Damage Received Reduced by 3%",
+                "Index": 1
+            },
+            {
+                "PropertyString": "+1 to Light Radius",
+                "Index": 0
+            },
+            {
+                "PropertyString": "They alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuary",
+                "Index": 3
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": null,
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Bow Quiver",
+        "Vanilla": "N",
+        "Name": "Arrows of the Elements",
+        "Index": "Arrows of the Elements",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 70,
+        "RequiredLevel": 70,
+        "Code": "aqv",
+        "Properties": [
+            {
+                "PropertyString": "+1 to All Skills",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30% Increased Attack Speed",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+8-12% to All Elemental Skill Damage",
+                "Index": 1
+            },
+            {
+                "PropertyString": "-8-12% to All Enemy Elemental Resistances",
+                "Index": 2
+            },
+            {
+                "PropertyString": "All Resistances +20-30",
+                "Index": 4
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 5
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Arrows",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
+            "RequiredClass": ""
+        }
+    },
+    {
+        "Type": "Crossbow Quiver",
+        "Vanilla": "N",
+        "Name": "Bolts of the Rend",
+        "Index": "Bolts of the Rend",
+        "Enabled": true,
+        "Rarity": 1,
+        "ItemLevel": 60,
+        "RequiredLevel": 70,
+        "Code": "cqv",
+        "Properties": [
+            {
+                "PropertyString": "5% Chance to cast level 10 Amplify Damage on striking",
+                "Index": 0
+            },
+            {
+                "PropertyString": "+20-30 to Minimum Damage",
+                "Index": 3
+            },
+            {
+                "PropertyString": "+40-60 to Maximum Damage",
+                "Index": 4
+            },
+            {
+                "PropertyString": "+25% Deadly Strike",
+                "Index": 2
+            },
+            {
+                "PropertyString": "+25% Chance of Open Wounds",
+                "Index": 1
+            },
+            {
+                "PropertyString": "All Resistances +10-15",
+                "Index": 5
+            },
+            {
+                "PropertyString": "Replenishes quantity",
+                "Index": 6
+            }
+        ],
+        "DamageArmorEnhanced": false,
+        "Equipment": {
+            "EquipmentType": 2,
+            "Name": "Bolts",
+            "RequiredStrength": null,
+            "RequiredDexterity": null,
+            "Durability": 0,
             "RequiredClass": ""
         }
     },

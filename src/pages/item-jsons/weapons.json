@@ -5457,7 +5457,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "50 to 100"
+                "DamageString": "25 to 50"
             }
         ],
         "Speed": -10,
@@ -5487,7 +5487,7 @@
         "DamageTypes": [
             {
                 "Type": 3,
-                "DamageString": "50 to 100"
+                "DamageString": "25 to 50"
             }
         ],
         "Speed": -10,
